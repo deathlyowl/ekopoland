@@ -1,6 +1,17 @@
 #Statyczne API dla EkoPoland
+##Eko porady
+###Obiekt
+Kategoria i treść.
 
-##Lista zasobów
-###Eko porady
-###Eko historie
-###Znaki
+###Zasoby:
+* JSON ze wszystkimi kategoriami.
+* JSON ze wszystkimi poradami.
+
+##Eko historie
+##Znaki
+###Kategoria
+###Nazwa
+###Znaczenie
+###Więcej informacji
+###Klasyfikacja
+##Kategorie znaków
