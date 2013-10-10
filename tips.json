@@ -1,10 +1,7 @@
 ---
 ---
 {
-	"categories":
-	[
-		{% for category in site.categories%}{% for post in category[1] %}{% if post.tags contains 'tip' %}"{{category[0]}}",{% break %}{% endif %}{% endfor %}{% endfor %}null
-	],
+	"categories":[{% for category in site.categories%}{% for post in category[1] %}{% if post.tags contains 'tip' %}"{{category[0]}}",{% break %}{% endif %}{% endfor %}{% endfor %}null],
 	"tips":
 	[
 		{% for tip in site.tags.tip %}{% if forloop.index != 1 %},
