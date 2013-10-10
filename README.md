@@ -1,5 +1,7 @@
 #Statyczne API dla EkoPoland
 ##Eko porady
+###Data
+1970-01-01
 ###Obiekt
 Kategoria i treść.
 
