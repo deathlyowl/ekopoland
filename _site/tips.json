@@ -1,0 +1,21 @@
+{
+	"categories":
+	[
+		"biuro","dom",null
+	],
+	"tips":
+	[
+		{
+			"body":"Twoje domowe decyzje mają znaczenie. Jeżeli od zwykłych śmieci oddzielisz szkło, puszki aluminiowe, papier czy baterie, ułatwisz ich powtórne wykorzystanie.",
+			"category":"dom"
+		},
+		{
+			"body":"Jeżeli to możliwe, unikaj drukowania. Drukuj tylko to, co niezbędne, najlepiej dwustronnie (po obu stronach kartki) oraz na papierze z recyklingu.",
+			"category":"biuro"
+		},
+		{
+			"body":"Prowadzisz firmę i regularnie wysyłasz pocztę i przesyłki, także w zasięgu lokalnym? Wybierz usługi kurierów rowerowych. Rowerem łatwiej ominąć korki, więc Twoja paczka szybciej dotrze na miejsce, a Ty wpłyniesz na lepszą jakość powietrza w mieście.",
+			"category":"biuro"
+		}
+	]
+}
