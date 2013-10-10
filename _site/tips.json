@@ -1,10 +1,14 @@
 {
 	"categories":
 	[
-		"biuro","dom",null
+		"biuro","dom","Żywność",null
 	],
 	"tips":
 	[
+		{
+			"body":"Kupując żywność ekologiczną, przyczyniasz się do zachowania bioróżnorodności i wielu wartościowych odmian roślin i gatunków zwierząt.",
+			"category":"Żywność"
+		},
 		{
 			"body":"Twoje domowe decyzje mają znaczenie. Jeżeli od zwykłych śmieci oddzielisz szkło, puszki aluminiowe, papier czy baterie, ułatwisz ich powtórne wykorzystanie.",
 			"category":"dom"
