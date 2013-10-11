@@ -1,5 +1,5 @@
 {
-	"categories":["biuro","dom","Żywność",null],
+	"categories":["Biuro","Dom","Żywność",null],
 	"tips":
 	[
 		{
@@ -7,16 +7,71 @@
 			"category":"Żywność"
 		},
 		{
+			"body":"Żywność ekologiczna wytwarzana jest metodami naturalnymi w czystym i bezpiecznym środowisku, bez nawozów sztucznych, syntetycznych środków ochrony roślin, antybiotyków, hormonów wzrostu i genetycznie modyfikowanych organizmów. Wpływa to na ochronę zdrowia ludzi i środowiska.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Żywność ekologiczna nie zawiera sztucznych barwników, środków zapachowych, smakowych i konserwujących.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Świadomy konsument, aby dokonać właściwego wyboru zakupowego, wie, że musi zapoznać się z etykietą produktu. Mając podstawową wiedzę na temat oznaczeń i treści, które znajdują się na etykietach, łatwiej Ci będzie wybrać produkt zgodny z Twoimi oczekiwaniami i potrzebami.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Planuj zakupy pod kątem przygotowywania konkretnych potraw. Unikniesz w ten sposób marnowania produktów spożywczych, ograniczysz swoje koszty oraz obciążenie środowiska związane z produkcją wyrzuconych, popsutych produktów.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Jeżeli to możliwe, produkty spożywcze o długim terminie przydatności (makarony, kasze, ryż) staraj się kupować w opakowaniach zbiorczych. Ograniczysz w ten sposób ilość odpadów powstałych po ich zużyciu.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Wybieraj produkty oznaczone logo rolnictwa ekologicznego. Gwarantuje ono ekologiczne pochodzenie zakupionej żywności oraz mówi o zrównoważonych metodach jej produkcji.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Etykieta oznaczona unijnym znakiem rolnictwa ekologicznego („ekoliść”) gwarantuje, że minimum 95% składników produktu pochodzi z upraw ekologicznych, a proces produkcyjny był nadzorowany.",
+			"category":"Żywność"
+		},
+		{
+			"body":"W sezonie letnim kupuj świeże warzywa i owoce sezonowe zamiast mrożonek. Są zdrowsze i smaczniejsze niż mrożone. Zaoszczędzisz też energię przeznaczoną na ich przetwarzanie, transport oraz przechowywanie.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Jeżeli szukasz żywności niezawierającej składników modyfikowanych genetycznie, kupuj produkty ekologiczne.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Na etykiecie ekologicznych produktów żywnościowych wskazywane jest miejsce, w którym wyprodukowano ekologiczne surowce rolne wchodzące w skład produktu. Możliwe są trzy warianty: „Rolnictwo UE”, jeśli surowiec rolny pochodzi z terenu UE; „Rolnictwo spoza UE”, jeśli surowiec rolny pochodzi z krajów trzecich; „Rolnictwo UE / spoza UE”, jeśli część surowców pochodzi z terenu UE, a część z krajów trzecich.",
+			"category":"Żywność"
+		},{
+			"body":"Jeżeli zastanawiasz się, czy produkt spożywczy nadaje się do jedzenia, spójrz na jego etykietę. Produkty spożywcze oznaczone datą minimalnej trwałości „Najlepiej spożyć przed…”, gdy są odpowiednio przechowane, mogą zachować świeżość znacznie dłużej i nie muszą być wyrzucane do kosza po przekroczeniu daty na etykiecie. Termin przydatności do spożycia oznaczony zwrotem „Należy spożyć do…” możemy znaleźć na produktach nietrwałych mikrobiologicznie i łatwo się psujących, np. na mięsie. Należy pamiętać, że po tym terminie produkty nie nadają się do spożycia, chyba że zostaną wcześniej zamrożone lub odpowiednio przetworzone.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Jeżeli masz taką możliwość, kupuj ryby z hodowli ekologicznych. Przy hodowlach nieekologicznych używa się dużej ilości substancji chemicznych.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Pojemnik na drugie śniadanie to dobry pomysł. Jeśli jednak potrzebujesz opakować jedzenie, używaj folii lub papieru do żywności zamiast folii aluminiowej. Dzięki temu zmniejszysz ilość wyrzucanych śmieci.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Kupując żywność tradycyjną wytwarzaną lokalnie, masz większą gwarancję, że spożywasz produkty naturalne, a dodatkowo wspierasz lokalną przedsiębiorczość.",
+			"category":"Żywność"
+		},
+		{
 			"body":"Twoje domowe decyzje mają znaczenie. Jeżeli od zwykłych śmieci oddzielisz szkło, puszki aluminiowe, papier czy baterie, ułatwisz ich powtórne wykorzystanie.",
-			"category":"dom"
+			"category":"Dom"
 		},
 		{
 			"body":"Jeżeli to możliwe, unikaj drukowania. Drukuj tylko to, co niezbędne, najlepiej dwustronnie (po obu stronach kartki) oraz na papierze z recyklingu.",
-			"category":"biuro"
+			"category":"Biuro"
 		},
 		{
 			"body":"Prowadzisz firmę i regularnie wysyłasz pocztę i przesyłki, także w zasięgu lokalnym? Wybierz usługi kurierów rowerowych. Rowerem łatwiej ominąć korki, więc Twoja paczka szybciej dotrze na miejsce, a Ty wpłyniesz na lepszą jakość powietrza w mieście.",
-			"category":"biuro"
+			"category":"Biuro"
 		}
 	]
 }
