@@ -1,0 +1,13 @@
+---
+---
+{
+	"stories":
+	[
+		{% for story in site.tags.story %}{% if forloop.index != 1 %},
+		{% endif %}{
+			"author":"{{ story.author }}",
+			"title":"{{ story.title }}",
+			"body":"{{ story.content }}"
+		}{% endfor %}
+	]
+}
