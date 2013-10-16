@@ -1,5 +1,5 @@
 {
-	"categories":["biuro","dom","Żywność",null],
+	"categories":["biuro","dom","odpady","powietrze","prąd","transport","woda","Żywność",null],
 	"tips":
 	[
 		{
@@ -57,6 +57,266 @@
 		{
 			"body":"Kupując żywność ekologiczną, przyczyniasz się do zachowania bioróżnorodności i wielu wartościowych odmian roślin i gatunków zwierząt.",
 			"category":"Żywność"
+		},
+		{
+			"body":"W lecie podlewaj ogród wieczorem. Ograniczysz w ten sposób straty wody wynikające z parowania i zapewnisz lepsze jej wchłanianie.",
+			"category":"woda"
+		},
+		{
+			"body":"Zanim podlejesz ogród, sprawdź prognozę pogody może akurat będzie padać.",
+			"category":"woda"
+		},
+		{
+			"body":"Deszczówka to świetne rozwiązanie do podlewania ogrodu. Przy wylocie rynny zamontuj beczkę z wodą. Korzystaj z niej zamiast używać wody pitnej z kranu.",
+			"category":"woda"
+		},
+		{
+			"body":"Włącz zmywarkę po całkowitym napełnieniu. W ten sposób zużyjesz mniej wody niż przy ręcznym myciu naczyń.",
+			"category":"woda"
+		},
+		{
+			"body":"Zamontuj w swoim kranie perlator. W ten sposób możesz zmniejszyć zużycie wody nawet o 30%, a strumień będzie wydawał się silniejszy.",
+			"category":"woda"
+		},
+		{
+			"body":"Wybierz szybki prysznic, zamiast kąpieli w wannie. Podczas kąpieli zużywasz średnio tyle wody co w trakcie trzech pięciominutowych pryszniców.",
+			"category":"woda"
+		},
+		{
+			"body":"Oszczędzaj dzięki wodzie! Zakręć kran, gdy myjesz zęby lub się golisz. Prosty zabieg pozwoli na zmniejszenie opłat i wpłynie pozytywnie na zasoby wody zdatnej do picia.",
+			"category":"woda"
+		},
+		{
+			"body":"Zmień ustawienia podgrzewacza wody – nie musi być ustawiony na więcej niż 60°C.",
+			"category":"woda"
+		},
+		{
+			"body":"Będąc na wakacjach, nurkując, nie dotykaj rafy koralowej ani nie odrywaj gałązek na pamiątkę. W ten sposób chronisz wybrzeża przed wpływem fal morskich oraz pomagasz w utrzymaniu naturalnego schronienia dla morskich stworzeń.",
+			"category":"woda"
+		},
+		{
+			"body":"Zadbaj o instalację spłuczki z możliwością wyboru większej lub mniejszej ilości wody potrzebnej do spłukiwania lub zaopatrzonej w przycisk „stop”. Dostosujesz w ten sposób zużycie wody do aktualnych potrzeb i ograniczysz jej marnotrawstwo.",
+			"category":"woda"
+		},
+		{
+			"body":"Unikaj zmywania naczyń pod bieżącą wodą.",
+			"category":"woda"
+		},
+		{
+			"body":"Załóż na krany końcówki oszczędzające wodę – w ten sposób efektywnie ograniczysz jej zużycie.",
+			"category":"woda"
+		},
+		{
+			"body":"Dbaj o szczelność instalacji wodnej (kranów, spłuczek). Cieknący kran obciąża nie tylko Twoją kieszeń, ale również środowisko.",
+			"category":"woda"
+		},
+		{
+			"body":"Jeżeli jedziesz samochodem planuj podróż. Sprawdź czy wybierasz optymalne trasy dojazdu.",
+			"category":"transport"
+		},
+		{
+			"body":"Jeżeli wyjeżdżasz na weekend z rodziną, rozważ podróż pociągiem. Unikniesz korków oraz stresów z tym związanych, dodatkowo zmniejszysz poziom zanieczyszczenia powietrza.",
+			"category":"transport"
+		},
+		{
+			"body":"Edukuj kolejne pokolenia, dając dobry przykład. Do pracy chodź na piechotę, jedź rowerem lub autobusem. Pokaż w ten sposób, że i one mogą wybrać formy podróży przyjaźniejsze środowisku.",
+			"category":"transport"
+		},
+		{
+			"body":"Jadąc samochodem, uwzględniaj ekologiczne zasady jazdy (ecodriving). Hamuj silnikiem, unikaj zbędnego obciążenia auta, wyłączaj niepotrzebne odbiorniki prądu, używaj klimatyzacji z umiarem, dbaj o właściwe ciśnienie w oponach. Zmniejszasz w ten sposób zużycie paliwa oraz elementów eksploatacyjnych samochodu. Dodatkowo zmniejszasz negatywne oddziaływanie na środowisko wynikające z użytkowania samochodu.",
+			"category":"transport"
+		},
+		{
+			"body":"Oszczędź sobie i środowisku. Spalaj kalorie, a nie benzynę. Przesiadka z samochodu na rower to zysk dla portfela, zdrowia oraz klimatu.",
+			"category":"transport"
+		},
+		{
+			"body":"W gorące dni korzystaj z transportu publicznego lub roweru. Światło i wysoka temperatura wywołują w spalinach samochodowych reakcje, z których powstają szkodliwe gazy, np. ozon troposferyczny. To wpływa na złą jakość powietrza i powstawanie smogu, który utrudnia oddychanie.",
+			"category":"transport"
+		},
+		{
+			"body":"Pamiętaj, że poza własnym autem w większości przypadków możesz liczyć na publiczne środki transportu. Generują one niższą emisję spalin i mniejsze skutki środowiskowe w przeliczeniu na jednego podróżnego. Poruszanie się tramwajem bądź autobusem jest też często bardziej opłacalne niż koszty związane z utrzymaniem samochodu.",
+			"category":"transport"
+		},
+		{
+			"body":"Jedziesz sam do pracy? Masz przecież kilka wolnych miejsc. Wykorzystaj to! Zapytaj w pracy, kto mieszka blisko Ciebie. Możesz też skorzystać z transportu publicznego.",
+			"category":"transport"
+		},
+		{
+			"body":"Wybieraj mądrze! Twój samochód zanieczyszcza środowisko najbardziej w trakcie krótkich podróży, kiedy silnik nie jest rozgrzany. Wybierz zamiast tego rower lub idź na piechotę.",
+			"category":"transport"
+		},
+		{
+			"body":"Jest wiele sposobów na dotarcie do celu – szczególnie podczas poruszania się w obrębie miasta. Zamiast wybierać samochód, chodź pieszo, jedź na rowerze, poruszaj się autobusem lub tramwajem. Twoja kondycja się poprawi, ponadto przyczynisz się do zmniejszenia zanieczyszczenia powietrza, ruchu drogowego oraz hałasu.",
+			"category":"transport"
+		},
+		{
+			"body":"Czajnik elektryczny to prawdziwy pochłaniacz prądu! Gotuj tylko tyle wody, ile potrzebujesz.",
+			"category":"prąd"
+		},
+		{
+			"body":"Wybierając nowy sprzęt elektroniczny, decyduj się na produkty energooszczędne – najlepiej z etykietą efektywności energetycznej A++, A+ lub A. Szukaj również tych z naklejką Energy Star. Pomimo wyższych kosztów zakupu na dłuższą metę zaoszczędzisz na rachunkach za energię elektryczną.",
+			"category":"prąd"
+		},
+		{
+			"body":"Laptop i telefon komórkowy ładuj tak długo, jak to konieczne. Po użyciu nie zostawiaj ładowarki podłączonej do sieci.",
+			"category":"prąd"
+		},
+		{
+			"body":"Używaj listwy zasilającej. Jeden szybki ruch przełącznika odcina energię od wszystkich podłączonych urządzeń elektrycznych, zmniejszając pobór energii.",
+			"category":"prąd"
+		},
+		{
+			"body":"Nie wyrzucaj do kosza pozostałości po warzywach. Wrzucaj je do przydomowego kompostownika. Pod wpływem tlenu i mikroorganizmów powstanie z nich zdrowy kompost.",
+			"category":"prąd"
+		},
+		{
+			"body":"Przykrywając garnki pokrywkami podczas gotowania, oszczędzasz znaczną część energii potrzebnej do ugotowania potrawy.",
+			"category":"prąd"
+		},
+		{
+			"body":"Jeżeli to możliwe, wybierz dostawcę energii elektrycznej, który część dostaw prądu pozyskuje z odnawialnych źródeł energii. Dajesz w ten sposób do zrozumienia zakładom energetycznym, że społeczeństwo chce czystej energii.",
+			"category":"prąd"
+		},
+		{
+			"body":"Ogranicz zużycie energii elektrycznej przez lodówkę. Nie stawiaj jej blisko źródeł ciepła, takich jak grzejniki, kuchenki czy okno wystawione na południową stronę.",
+			"category":"prąd"
+		},
+		{
+			"body":"Zamiast baterii jednorazowych zainwestuj w akumulatorki. Zaoszczędzisz pieniądze, a do środowiska trafi mniej zużytych baterii ze szkodliwymi substancjami.",
+			"category":"prąd"
+		},
+		{
+			"body":"Korzystaj z programów oszczędnego prania – zmniejszysz zużycie energii elektrycznej.",
+			"category":"prąd"
+		},
+		{
+			"body":"Nie zastawiaj meblami kaloryferów – zwiększysz dzięki temu ich efektywność.",
+			"category":"prąd"
+		},
+		{
+			"body":"W okresie grzewczym wietrz krótko i efektywnie. Ograniczysz straty energii zużytej do ogrzewania.",
+			"category":"prąd"
+		},
+		{
+			"body":"Podczas pracy klimatyzatora nie otwieraj okien ani drzwi. Ustaw temperaturę o 5-7°C niższą od panującej na zewnątrz. Strat energii unikniesz również, dbając o konserwację sprzętu.",
+			"category":"prąd"
+		},
+		{
+			"body":"Zwróć uwagę na znaki zamieszczone na produktach. Jednym z certyfikatów „elektronicznych” jest znak Energy Star – przyznawany m.in. sprzętom RTV, materiałom biurowym i ogrodniczym wyróżniającym się energooszczędnością.",
+			"category":"prąd"
+		},
+		{
+			"body":"Zainwestuj w czujniki ruchu i czujniki zmierzchowe – unikniesz sytuacji, w których światło jest włączone bezcelowo.",
+			"category":"prąd"
+		},
+		{
+			"body":"Zwykłe żarówki zastąp świetlówkami energooszczędnymi. Zużywają one mniej energii i są trwalsze. Po zużyciu żarówki energooszczędnej ważne jest, by pamiętać, że nie można jej wyrzucać do kosza na śmieci, ponieważ zawiera ona około 5 mg rtęci. Trzeba odnieść ją do jednego z punktów, który przekaże żarówkę do odpowiedniej utylizacji (punkty selektywnej zbiórki odpadów komunalnych tzw. gratowiska.",
+			"category":"prąd"
+		},
+		{
+			"body":"Nie włączaj sztucznego oświetlenia bez potrzeby i wyłączaj je, kiedy przestaje być niezbędne. Skorzysta na tym Twoje zdrowie, portfel i środowisko.",
+			"category":"prąd"
+		},
+		{
+			"body":"Nie włączaj sztucznego oświetlenia bez potrzeby i wyłączaj je, kiedy przestaje być niezbędne. Skorzysta na tym Twoje zdrowie, portfel i środowisko.",
+			"category":"prąd"
+		},
+		{
+			"body":"Światło dzienne mniej męczy wzrok. Maksymalnie wykorzystuj je z korzyścią dla własnego zdrowia i środowiska.",
+			"category":"prąd"
+		},
+		{
+			"body":"Wybieraj energooszczędne urządzenia RTV i AGD. Ograniczysz w ten sposób koszty własne, ale także pomożesz środowisku, w którym żyjesz.",
+			"category":"prąd"
+		},
+		{
+			"body":"Oszczędzaj energię, wyłączając urządzenia elektryczne z prądu (nie pozostawiaj ich w trybie stand-by). Pozostawione w stanie gotowości marnują niepotrzebnie energię.",
+			"category":"prąd"
+		},
+		{
+			"body":"Prowadzisz firmę i regularnie wysyłasz pocztę i przesyłki, także w zasięgu lokalnym? Wybierz usługi kurierów rowerowych. Rowerem łatwiej ominąć korki, więc Twoja paczka szybciej dotrze na miejsce, a Ty wpłyniesz na lepszą jakość powietrza w mieście.",
+			"category":"powietrze"
+		},
+		{
+			"body":"W gorące dni korzystaj z transportu publicznego lub roweru. Światło i wysoka temperatura wywołują w spalinach samochodowych reakcje, z których powstają szkodliwe gazy, np. ozon troposferyczny. To wpływa na złą jakość powietrza i powstawanie smogu, który utrudnia oddychanie.",
+			"category":"powietrze"
+		},
+		{
+			"body":"Pamiętaj, że poza własnym autem w większości przypadków możesz liczyć na publiczne środki transportu. Generują one niższą emisję spalin i mniejsze skutki środowiskowe w przeliczeniu na jednego podróżnego. Poruszanie się tramwajem bądź autobusem jest też często bardziej opłacalne niż koszty związane z utrzymaniem samochodu.",
+			"category":"powietrze"
+		},
+		{
+			"body":"Jest wiele sposobów na dotarcie do celu – szczególnie podczas poruszania się w obrębie miasta. Zamiast wybierać samochód, chodź pieszo, jedź na rowerze, poruszaj się autobusem lub tramwajem. Twoja kondycja się poprawi, ponadto przyczynisz się do zmniejszenia zanieczyszczenia powietrza, ruchu drogowego oraz hałasu.",
+			"category":"powietrze"
+		},
+		{
+			"body":"Wyłączając niepotrzebne źródła światła, pomagasz znacząco zmniejszyć emisję dwutlenku węgla.",
+			"category":"powietrze"
+		},
+		{
+			"body":"Produkty niezawierające szkodliwych dla warstwy ozonowej gazów posiadają znak CFC Free lub Ozone Friendly.",
+			"category":"powietrze"
+		},
+		{
+			"body":"Kupuj produkty bez dodatkowych opakowań. Zwróć uwagę, że o ile sam produkt postoi na półce średnio kilka miesięcy, o tyle jego kartonik ma żywotność liczoną w minutach od momentu zakupu.",
+			"category":"odpady"
+		},
+		{
+			"body":"Produkty jednorazowe zawierające znak Compost Home nadają się do przydomowych kompostowników. Oddziel je od pozostałych odpadów i wykorzystaj jako naturalny produkt poddany kompostowaniu.",
+			"category":"odpady"
+		},
+		{
+			"body":"Zastanów się nad ogrodowym kompostownikiem. Znaczna część produktów wyrzucanych do kosza może być wykorzystana jako kompost.",
+			"category":"odpady"
+		},
+		{
+			"body":"Wspieraj upcykling. Wykorzystuj materiały odpadowe lub bezużyteczne produkty, przekształcając je w nowe materiały lub produkty, znajduj dla nich nowe zastosowanie. Wykorzystując potencjalne odpady, zwiększasz ich wartość dla środowiska.",
+			"category":"odpady"
+		},
+		{
+			"body":"Nie pozbywaj się przeterminowanych lekarstw, środków chemicznych czy innych toksycznych odpadów poprzez wylewanie ich do kanalizacji. Zatruwają one bakterie pomagające oczyszczać ścieki i przyczyniają się do pogorszenia jakości wody i środowiska.",
+			"category":"odpady"
+		},
+		{
+			"body":"Pozostałości po pestycydach lub środkach owadobójczych to zagrożenie dla zdrowia ludzkiego. Dowiedz się u lokalnych władz, gdzie je wyrzucać, aby nie zagrażały środowisku.",
+			"category":"odpady"
+		},
+		{
+			"body":"Waciki, płatki kosmetyczne i chusteczki do demakijażu wrzucaj do kosza na śmieci – nie do toalety.",
+			"category":"odpady"
+		},
+		{
+			"body":"Twoje domowe decyzje mają znaczenie. Jeżeli od zwykłych śmieci oddzielisz szkło, puszki aluminiowe, papier czy baterie, ułatwisz ich powtórne wykorzystanie.",
+			"category":"odpady"
+		},
+		{
+			"body":"Jeżeli zamierzasz wziąć kawę na wynos, zabieraj ze sobą własny kubek termiczny. Pomyśl o liczbie papierowych kubków, które można w ten sposób zaoszczędzić.",
+			"category":"odpady"
+		},
+		{
+			"body":"Segregując odpady, staraj się robić tak, by były jak najmniej zabrudzone. Zanieczyszczenia obniżają jakość surowca wtórnego w porównaniu do pierwotnego.",
+			"category":"odpady"
+		},
+		{
+			"body":"Przepakowanie jednego kremu to nie koniec świata, ale przepakowanie całej partii produkcyjnej to już marnotrawstwo ton surowców naturalnych i generowanie niepotrzebnych odpadów.",
+			"category":"odpady"
+		},
+		{
+			"body":"Dzięki recyklingowi wspomagasz powstawanie nowych miejsc pracy. Im większa świadomość ekologiczna, tym większa szansa na powstanie placówek zajmujących się przetwarzaniem surowców.",
+			"category":"odpady"
+		},
+		{
+			"body":"Toksyczne substancje, takie jak farby, oleje, smary, należy oddawać do lokalnego punktu zbiórki odpadów. Jeżeli nie ma takiego w okolicy, pozwól farbie wyschnąć całkowicie, dodając do niej trocin. Nigdy nie wylewaj tego typu substancji do kanalizacji – mogą one zakłócić pracę oczyszczalni ścieków.",
+			"category":"odpady"
+		},
+		{
+			"body":"Niektóre produkty, jak na przykład lodówki i inne urządzenia elektryczne, muszą być utylizowane w specjalny sposób, tylko wtedy nie zanieczyszczają środowiska. Skontaktuj się z wyspecjalizowaną firmą zajmującą się utylizacją odpadów elektronicznych w Twojej okolicy. Jeżeli przedmioty nadal mają jakąś wartość, sprzedaj je przez Internet lub oddaj osobom, które mogą ich potrzebować.",
+			"category":"odpady"
+		},
+		{
+			"body":"Odpady medyczne przekazuj do punktów zbiórki lub zanoś do najbliższej apteki. Jeżeli wyrzucisz je do odpadów lub sieci kanalizacyjnej spowodują one poważne zagrożenie dla środowiska.",
+			"category":"odpady"
 		},
 		{
 			"body":"Zainwestuj w czujniki ruchu i czujniki zmierzchowe – unikniesz sytuacji, w których światło jest włączone bezcelowo.",
