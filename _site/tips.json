@@ -3,19 +3,207 @@
 	"tips":
 	[
 		{
-			"body":"Prowadzisz firmę i regularnie wysyłasz pocztę i przesyłki, także w zasięgu lokalnym? Wybierz usługi kurierów rowerowych. Rowerem łatwiej ominąć korki, więc Twoja paczka szybciej dotrze na miejsce, a Ty wpłyniesz na lepszą jakość powietrza w mieście.",
-			"category":"biuro"
+			"body":"Kupując żywność tradycyjną wytwarzaną lokalnie, masz większą gwarancję, że spożywasz produkty naturalne, a dodatkowo wspierasz lokalną przedsiębiorczość.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Pojemnik na drugie śniadanie to dobry pomysł. Jeśli jednak potrzebujesz opakować jedzenie, używaj folii lub papieru do żywności zamiast folii aluminiowej. Dzięki temu zmniejszysz ilość wyrzucanych śmieci.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Jeżeli masz taką możliwość, kupuj ryby z hodowli ekologicznych. Przy hodowlach nieekologicznych używa się dużej ilości substancji chemicznych.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Jeżeli zastanawiasz się, czy produkt spożywczy nadaje się do jedzenia, spójrz na jego etykietę. Produkty spożywcze oznaczone datą minimalnej trwałości „Najlepiej spożyć przed…”, gdy są odpowiednio przechowane, mogą zachować świeżość znacznie dłużej i nie muszą być wyrzucane do kosza po przekroczeniu daty na etykiecie. Termin przydatności do spożycia oznaczony zwrotem „Należy spożyć do…” możemy znaleźć na produktach nietrwałych mikrobiologicznie i łatwo się psujących, np. na mięsie. Należy pamiętać, że po tym terminie produkty nie nadają się do spożycia, chyba że zostaną wcześniej zamrożone lub odpowiednio przetworzone.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Jeżeli szukasz żywności niezawierającej składników modyfikowanych genetycznie, kupuj produkty ekologiczne.",
+			"category":"Żywność"
+		},
+		{
+			"body":"W sezonie letnim kupuj świeże warzywa i owoce sezonowe zamiast mrożonek. Są zdrowsze i smaczniejsze niż mrożone. Zaoszczędzisz też energię przeznaczoną na ich przetwarzanie, transport oraz przechowywanie.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Etykieta oznaczona unijnym znakiem rolnictwa ekologicznego („ekoliść”) gwarantuje, że minimum 95% składników produktu pochodzi z upraw ekologicznych, a proces produkcyjny był nadzorowany.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Wybieraj produkty oznaczone logo rolnictwa ekologicznego. Gwarantuje ono ekologiczne pochodzenie zakupionej żywności oraz mówi o zrównoważonych metodach jej produkcji.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Jeżeli to możliwe, produkty spożywcze o długim terminie przydatności (makarony, kasze, ryż) staraj się kupować w opakowaniach zbiorczych. Ograniczysz w ten sposób ilość odpadów powstałych po ich zużyciu.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Planuj zakupy pod kątem przygotowywania konkretnych potraw. Unikniesz w ten sposób marnowania produktów spożywczych, ograniczysz swoje koszty oraz obciążenie środowiska związane z produkcją wyrzuconych, popsutych produktów.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Świadomy konsument, aby dokonać właściwego wyboru zakupowego, wie, że musi zapoznać się z etykietą produktu. Mając podstawową wiedzę na temat oznaczeń i treści, które znajdują się na etykietach, łatwiej Ci będzie wybrać produkt zgodny z Twoimi oczekiwaniami i potrzebami.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Żywność ekologiczna nie zawiera sztucznych barwników, środków zapachowych, smakowych i konserwujących.",
+			"category":"Żywność"
+		},
+		{
+			"body":"Żywność ekologiczna wytwarzana jest metodami naturalnymi w czystym i bezpiecznym środowisku, bez nawozów sztucznych, syntetycznych środków ochrony roślin, antybiotyków, hormonów wzrostu i genetycznie modyfikowanych organizmów. Wpływa to na ochronę zdrowia ludzi i środowiska.",
+			"category":"Żywność"
 		},
 		{
 			"body":"Kupując żywność ekologiczną, przyczyniasz się do zachowania bioróżnorodności i wielu wartościowych odmian roślin i gatunków zwierząt.",
 			"category":"Żywność"
 		},
 		{
+			"body":"Zainwestuj w czujniki ruchu i czujniki zmierzchowe – unikniesz sytuacji, w których światło jest włączone bezcelowo.",
+			"category":"dom"
+		},
+		{
+			"body":"W okresie grzewczym wietrz krótko i efektywnie. Ograniczysz straty energii zużytej do ogrzewania.",
+			"category":"dom"
+		},
+		{
+			"body":"Korzystaj z programów oszczędnego prania – zmniejszysz zużycie energii elektrycznej.",
+			"category":"dom"
+		},
+		{
+			"body":"Używaj listwy zasilającej. Jeden szybki ruch przełącznika odcina energię od wszystkich podłączonych urządzeń elektrycznych, zmniejszając pobór energii.",
+			"category":"dom"
+		},
+		{
+			"body":"Nie wyrzucaj do kosza pozostałości po warzywach. Wrzucaj je do przydomowego kompostownika. Pod wpływem tlenu i mikroorganizmów powstanie z nich zdrowy kompost.",
+			"category":"dom"
+		},
+		{
+			"body":"Jeżeli to możliwe, wybierz dostawcę energii elektrycznej, który część dostaw prądu pozyskuje z odnawialnych źródeł energii. Dajesz w ten sposób do zrozumienia zakładom energetycznym, że społeczeństwo chce czystej energii.",
+			"category":"dom"
+		},
+		{
+			"body":"Ogranicz zużycie energii elektrycznej przez lodówkę. Nie stawiaj jej blisko źródeł ciepła, takich jak grzejniki, kuchenki czy okno wystawione na południową stronę.",
+			"category":"dom"
+		},
+		{
+			"body":"Nie wyrzucaj starych dywanów, ręczników, koców czy pościeli na składowisko. Zamiast tego skontaktuj się z lokalnym schroniskiem dla zwierząt, czy uda się je wykorzystać.",
+			"category":"dom"
+		},
+		{
+			"body":"Zmniejsz rachunki związane z ogrzaniem mieszkania. Podnieś wydajność kaloryferów, montując za nimi panele odbijające lub arkusze folii aluminiowej. W ten sposób skierujesz ciepło do wewnątrz pomieszczenia.",
+			"category":"dom"
+		},
+		{
+			"body":"Preferuj produkty wielokrotnego użytku. Unikaj jednorazowych plastikowych kubków, chusteczek, serwetek, foliowych toreb i innych. W dłuższej perspektywie kosztuje to zwykle więcej pieniędzy, a dodatkowo wymaga większej ilości surowców i energii w porównaniu do podobnych produktów wielokrotnego użytku.",
+			"category":"dom"
+		},
+		{
+			"body":"Jeżeli chcesz usunąć kamień z kranów, czajników, żelazek i innych domowych przedmiotów, zamiast środków chemicznych wypróbuj ocet.",
+			"category":"dom"
+		},
+		{
+			"body":"Spraw radość innym! Nie korzystasz już ze swoich zabawek, książek i gier? Nie wyrzucaj ich, mogą przecież uszczęśliwić innych, a Ty ochronisz środowisko naturalne.",
+			"category":"dom"
+		},
+		{
+			"body":"Piorąc odzież, kieruj się dobrem własnym i środowiska. Kiedy to możliwe, pierz w temperaturze nie wyższej niż 40°C. Włączaj pralkę, gdy jest pełna. Zaoszczędzisz na środkach czystości, wydłużysz żywotność urządzenia, unikniesz zbędnego zużycia wody i energii. Dozuj proszek zgodnie z instrukcją zawartą na opakowaniu. Przedozowanie prowadzi do wprowadzania większej ilości zanieczyszczeń do ścieków. Jeśli masz problem z odpowiednim określeniem koniecznej ilości proszków, rozważ kupno detergentu w pastylkach.",
+			"category":"dom"
+		},
+		{
+			"body":"Podczas prac domowych pamiętaj o środowisku. Oszczędzaj wodę (zwłaszcza gorącą). Zwracaj też uwagę na środowiskowy wpływ używanych przyborów, tj. ścierek, szczotek, skrobaków itp. Wybieraj te, do których produkcji używa się naturalnych włókien (bawełna, len, konopie, kokos) lub drewna pochodzącego z upraw ekologicznych.",
+			"category":"dom"
+		},
+		{
+			"body":"Kupuj produkty z certyfikatem ekologicznym. Informują one, że zarówno użyte materiały, jak i sam proces produkcji podlegają ścisłym kontrolom jakości, a szkodliwość produktu dla środowiska została zredukowana do minimum.",
+			"category":"dom"
+		},
+		{
+			"body":"Wspieraj upcykling. Wykorzystuj materiały odpadowe lub bezużyteczne produkty, przekształcając je w nowe materiały lub produkty, znajduj dla nich nowe zastosowanie. Wykorzystując potencjalne odpady, zwiększasz ich wartość dla środowiska.",
+			"category":"dom"
+		},
+		{
+			"body":"Nie pozbywaj się przeterminowanych lekarstw, środków chemicznych czy innych toksycznych odpadów poprzez wylewanie ich do kanalizacji. Zatruwają one bakterie pomagające oczyszczać ścieki i przyczyniają się do pogorszenia jakości wody i środowiska.",
+			"category":"dom"
+		},
+		{
+			"body":"Pozostałości po pestycydach lub środkach owadobójczych to zagrożenie dla zdrowia ludzkiego. Dowiedz się u lokalnych władz, gdzie je wyrzucać, aby nie zagrażały środowisku.",
+			"category":"dom"
+		},
+		{
+			"body":"Waciki, płatki kosmetyczne i chusteczki do demakijażu wrzucaj do kosza na śmieci – nie do toalety.",
+			"category":"dom"
+		},
+		{
+			"body":"Włącz zmywarkę po całkowitym napełnieniu. W ten sposób zużyjesz mniej wody niż przy ręcznym myciu naczyń.",
+			"category":"dom"
+		},
+		{
+			"body":"Zamontuj w swoim kranie perlator. W ten sposób możesz zmniejszyć zużycie wody nawet o 30%, a strumień będzie wydawał się silniejszy.",
+			"category":"dom"
+		},
+		{
+			"body":"Wybierz szybki prysznic, zamiast kąpieli w wannie. Podczas kąpieli zużywasz średnio tyle wody co w trakcie trzech pięciominutowych pryszniców.",
+			"category":"dom"
+		},
+		{
+			"body":"Czajnik elektryczny to prawdziwy pochłaniacz prądu! Gotuj tylko tyle wody, ile potrzebujesz.",
+			"category":"dom"
+		},
+		{
+			"body":"Oszczędzaj dzięki wodzie! Zakręć kran, gdy myjesz zęby lub się golisz. Prosty zabieg pozwoli na zmniejszenie opłat i wpłynie pozytywnie na zasoby wody zdatnej do picia.",
+			"category":"dom"
+		},
+		{
 			"body":"Twoje domowe decyzje mają znaczenie. Jeżeli od zwykłych śmieci oddzielisz szkło, puszki aluminiowe, papier czy baterie, ułatwisz ich powtórne wykorzystanie.",
 			"category":"dom"
 		},
 		{
+			"body":"Używaj listwy zasilającej. Jeden szybki ruch przełącznika odcina energię od wszystkich podłączonych urządzeń elektrycznych, zmniejszając pobór energii.",
+			"category":"biuro"
+		},
+		{
+			"body":"Jedziesz sam do pracy? Masz przecież kilka wolnych miejsc. Wykorzystaj to! Zapytaj w pracy, kto mieszka blisko Ciebie. Możesz też skorzystać z transportu publicznego.",
+			"category":"biuro"
+		},
+		{
+			"body":"Zastanów się, czy konieczne jest kolejne spotkanie biznesowe. Czasem wystarczy rozmowa telefoniczna lub wideokonferencja.",
+			"category":"biuro"
+		},
+		{
+			"body":"Zwracaj uwagę na rodzaj kupowanego papieru. Wybieraj te pochodzące z recyklingu lub posiadające certyfikat FSC (Dobrej Gospodarki Leśnej i Kontroli Pochodzenia Produktu) lub PEFC (Program Zatwierdzania Systemów Certyfikacji Leśnej).",
+			"category":"biuro"
+		},
+		{
+			"body":"Staraj się efektywnie wykorzystać miejsce na kartce papieru. Ustaw mniejsze marginesy w edytorze tekstu – zmniejszy się liczba stron. Nie używaj całej kartki A4 do krótkich notatek.",
+			"category":"biuro"
+		},
+		{
+			"body":"Unikaj drukowania e-maili. Możesz je zarchiwizować w pamięci komputera albo na nośniku zewnętrznym.",
+			"category":"biuro"
+		},
+		{
+			"body":"Laptop i telefon komórkowy ładuj tak długo, jak to konieczne. Po użyciu nie zostawiaj ładowarki podłączonej do sieci.",
+			"category":"biuro"
+		},
+		{
+			"body":"Wychodząc z pracy, zmniejszaj temperaturę grzania i sprawdź, czy wszystkie okna są zamknięte.",
+			"category":"biuro"
+		},
+		{
+			"body":"Wybierając papier, meble czy inne elementy wyposażenia biura produkowane z drewna, uwzględniaj ich odpowiedzialną produkcję i konsumpcję, która jest konieczna do zachowania zasobów leśnych dla obecnych i przyszłych pokoleń.",
+			"category":"biuro"
+		},
+		{
+			"body":"Nie wyrzucaj niepotrzebnego papieru, który został zadrukowany po jednej stronie. Może on posłużyć do robienia notatek, faksowania czy kolejnego drukowania.",
+			"category":"biuro"
+		},
+		{
 			"body":"Jeżeli to możliwe, unikaj drukowania. Drukuj tylko to, co niezbędne, najlepiej dwustronnie (po obu stronach kartki) oraz na papierze z recyklingu.",
+			"category":"biuro"
+		},
+		{
+			"body":"Prowadzisz firmę i regularnie wysyłasz pocztę i przesyłki, także w zasięgu lokalnym? Wybierz usługi kurierów rowerowych. Rowerem łatwiej ominąć korki, więc Twoja paczka szybciej dotrze na miejsce, a Ty wpłyniesz na lepszą jakość powietrza w mieście.",
 			"category":"biuro"
 		}
 	]
