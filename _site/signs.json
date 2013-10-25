@@ -74,6 +74,15 @@
 			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie nadaje się do kompostowania.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Opakowanie ulega rozkładowi pod wpływem mikroorganizmów do ditlenku węgla, wody i biomasy. Zgodnie z normą europejską czas biorozkładu nie powinien być dłuższy niż 6 miesięcy.</p><br /><br /><p><strong>Certyfikat</strong></p><br /><br /><p>Znak stanowi potwierdzenie uzyskania certyfikatu DIN CERTCO/COBRO.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i ma istotne znaczenie przy identyfikacji powstających z nich odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br />"
 		},
 		{
+			"id":"12",
+			"count":"1",
+			"title":"Przydatny do wielokrotnego użycia",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"2",
+			"categories":["odpady","opakowania",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Wskazuje na przydatność opakowania do wielokrotnego użycia.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Warto rozważyć powtórne wykorzystanie takiego opakowania i niewyrzucanie go po jednorazowym użyciu – może ono wielokrotnie spełniać swoją funkcję.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Przedłużanie żywotności produktów jest przyjazne środowisku – zapobiega produkcji nowych opakowań i nadmiernemu zużywaniu surowców naturalnych.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i ma istotne znaczenie przy identyfikacji powstających z nich odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br />"
+		},
+		{
 			"id":"11",
 			"count":"1",
 			"title":"Nie wyrzucać do odpadów domowych",
