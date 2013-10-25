@@ -1,10 +1,158 @@
 {
-	"categories":["office",null],
+	"categories":["home","office",null],
 	"tips":
 	[
 		{
-			"body":"Prowadzisz firmę i regularnie wysyłasz pocztę i przesyłki, także w zasięgu lokalnym? Wybierz usługi kurierów rowerowych. Rowerem łatwiej ominąć korki, więc Twoja paczka szybciej dotrze na miejsce, a Ty wpłyniesz na lepszą jakość powietrza w mieście.",
+			"body":"Use a power strip. You will cut off the power supply to all the connected electrical devices with one flick of the switch, reducing the power consumption.",
 			"category":"office"
+		},
+		{
+			"body":"Are you travelling to work alone? Then you have got a few vacant seats. Make use of them! Ask at work if anybody lives near you. You can also use public transport.",
+			"category":"office"
+		},
+		{
+			"body":"Consider whether it is necessary to hold another business meeting. Sometimes a phone call or video conference is enough.",
+			"category":"office"
+		},
+		{
+			"body":"Pay attention to the type of paper you purchase. Choose recycled or FSC (Good Forest Stewardship and Chain of Custody)/ PEFC (Programme for the Endorsement of Forest Certification) certified paper.",
+			"category":"office"
+		},
+		{
+			"body":"Try to use the space on the paper effectively. Set narrow margins in a text editor - it will reduce the number of pages. Do not use the whole A4 page for short notes.",
+			"category":"office"
+		},
+		{
+			"body":"Avoid printing emails. You can store them on your computer or on an external drive.",
+			"category":"office"
+		},
+		{
+			"body":"Charge your laptop and mobile phone as long as necessary. Do not leave the charger plugged in after use.",
+			"category":"office"
+		},
+		{
+			"body":"When you leave your workplace, reduce the heating temperature and make sure that all the windows are closed.",
+			"category":"office"
+		},
+		{
+			"body":"When choosing paper, furniture or other office equipment made of wood, consider their responsible production and consumption that is necessary to preserve the forest resources for present and future generations.",
+			"category":"office"
+		},
+		{
+			"body":"Do not dispose of unnecessary paper that has been one side printed. It can be used to take notes, fax or for further printing.",
+			"category":"office"
+		},
+		{
+			"body":"If possible, avoid printing. Print only what is necessary, preferably duplex (on both sides of a page) and on recycled paper.",
+			"category":"office"
+		},
+		{
+			"body":"Do you run a business and regularly send mail and parcels, also locally? Choose bicycle couriers. Bicycles easily avoid traffic jams so your package may be delivered quicker and you can contribute to the improvement of the air quality in the city.",
+			"category":"office"
+		},
+		{
+			"body":"Buy motion and twilight sensors - avoid situations where lights remain on unnecessarily.",
+			"category":"home"
+		},
+		{
+			"body":"During the heating season, air the rooms briefly and effectively. This way you will reduce the loss of energy used for heating.",
+			"category":"home"
+		},
+		{
+			"body":"Use energy-saving washing programs - it will reduce electricity consumption.",
+			"category":"home"
+		},
+		{
+			"body":"Use a power strip. You will cut off the power supply to all the connected electrical devices with one flick of the switch, reducing the power consumption.",
+			"category":"home"
+		},
+		{
+			"body":"Do not throw parts of vegetables in the trash. Put them in a backyard composter. Oxygen and microorganisms will convert them into a healthy compost.",
+			"category":"home"
+		},
+		{
+			"body":"Cover pots with lids during cooking, it will save a significant part of the energy needed to cook the food.",
+			"category":"home"
+		},
+		{
+			"body":"If possible, select a supplier of electricity that generates power also from renewable energy sources. This way you will show power suppliers that people want clean energy.",
+			"category":"home"
+		},
+		{
+			"body":"Reduce electricity consumption of your refrigerator. Do not place it near heat sources such as radiators, stoves or windows exposed to the south.",
+			"category":"home"
+		},
+		{
+			"body":"Do not throw out old carpets, towels, blankets or sheets. Instead, ask your local animal shelter whether they find them useful.",
+			"category":"home"
+		},
+		{
+			"body":"Reduce your heating bills. Increase efficiency of radiators by installing reflective panels or aluminum foil sheets behind them. This way you will direct the heat inward.",
+			"category":"home"
+		},
+		{
+			"body":"Prefer reusable products. Avoid disposable plastic cups, handkerchiefs, napkins, plastic bags and other similar products. In the long run using them usually costs more and also requires more resources and energy compared to similar reusable products.",
+			"category":"home"
+		},
+		{
+			"body":"If you want to descale your taps, kettles, irons and other household items, try vinegar instead of chemicals.",
+			"category":"home"
+		},
+		{
+			"body":"Make others happy! Have you got toys, books and games that you do not use any more? Do not throw them away, they can make other people happy and you will protect the environment.",
+			"category":"home"
+		},
+		{
+			"body":"When washing clothes, think of yourself and the environment. When possible, wash at a temperature no higher than 40°C. Only use your washing machine when it is full. You will save on cleaning products, extend the service life of your washing machine and avoid unnecessary water and energy consumption. Dose washing powder according to the instructions on the package. Overdosing results in the introduction of more pollutants into sewage. If setting the relevant dose is a problem, consider buying washing powder tablets.",
+			"category":"home"
+		},
+		{
+			"body":"Think of the environment during your housework. Save water (especially hot water). Pay attention to the environmental impact of the equipment you use, i.e. rags, brushes, scrapers, etc. Choose products made of natural fibres (cotton, flax, hemp, coconut) or wood from certified tree farms.",
+			"category":"home"
+		},
+		{
+			"body":"Buy eco-certified products. The certificates tell you that both the materials used and the production process are subject to strict quality control and any harmful impact to the environment of the product has been reduced to the minimum.",
+			"category":"home"
+		},
+		{
+			"body":"Support upcycling. Make use of waste materials or useless products and convert them into new materials or products, find new applications for them. By using the potential waste, you increase its value for the environment.",
+			"category":"home"
+		},
+		{
+			"body":"Do not dispose of expired medicines, chemicals and other toxic waste by pouring them down the drain. They poison the bacteria that help purify wastewater and contribute to the deterioration of water quality and the environment.",
+			"category":"home"
+		},
+		{
+			"body":"Residues of pesticides or insecticides pose a threat to human health. Check with local authorities to ensure where they should be disposed of safely for the environment.",
+			"category":"home"
+		},
+		{
+			"body":"Dispose of cotton balls, cotton pads and make-up remover wipes in the trash - not in the toilet",
+			"category":"home"
+		},
+		{
+			"body":"Turn on the dishwasher when completely filled. This way you will use less water than while washing dishes by hand.",
+			"category":"home"
+		},
+		{
+			"body":"Install a tap aerator. This way you can reduce water consumption by up to 30% and the water stream will seem stronger.",
+			"category":"home"
+		},
+		{
+			"body":"Take a quick shower instead of a bath. During a bath on average you use as much water as during three five-minute showers.",
+			"category":"home"
+		},
+		{
+			"body":"An electric kettle is a real power eater! Boil only as much water as you need.",
+			"category":"home"
+		},
+		{
+			"body":"Save money by saving water! Turn off the tap when brushing your teeth or shaving. This simple procedure will reduce fees and have a positive impact on the resources of drinking water.",
+			"category":"home"
+		},
+		{
+			"body":"Your household decisions are meaningful. If you segregate glass, aluminum cans, paper and batteries from regular waste, it will be easier to re-use them.",
+			"category":"home"
 		}
 	]
 }
