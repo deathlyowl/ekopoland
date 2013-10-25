@@ -1,5 +1,5 @@
 {
-	"categories":["home","office","waste",null],
+	"categories":["garden","home","office","waste",null],
 	"tips":
 	[
 		{
@@ -217,6 +217,42 @@
 		{
 			"body":"Your household decisions are meaningful. If you segregate glass, aluminum cans, paper and batteries from regular waste, it will be easier to re-use them.",
 			"category":"home"
+		},
+		{
+			"body":"Use a push lawn mower - it does not generate fumes and helps keep fit.",
+			"category":"garden"
+		},
+		{
+			"body":"Disposable products marked as "Compost Home" are suitable for home composting. Separate them from other waste and compost them as natural products.",
+			"category":"garden"
+		},
+		{
+			"body":"Consider using a garden composter. A good portion of what you throw in the trash can be used as compost.",
+			"category":"garden"
+		},
+		{
+			"body":"If you want to get rid of weeds, pour them with boiling water. They will get brown and die within a few hours. This treatment will not leave any toxic residues and the area will be safe and suitable for children to play.",
+			"category":"garden"
+		},
+		{
+			"body":"If you have your own garden, a pond is a good way to create more biodiversity. Animals such as frogs, snails and dragonflies love small ponds.",
+			"category":"garden"
+		},
+		{
+			"body":"Mulch around plants is very beneficial. It helps maintain the proper temperature of the soil, prevents the spread of weeds and reduces evaporation. Remember though, that it shouldn't be placed too close to stems or trunks - in winter the plants might begin to rot. Use pebbles, bark, pine cones, cut grass, compost from leaves or bruised ceramics.",
+			"category":"garden"
+		},
+		{
+			"body":"In summer, water your garden in the evening. This way you will reduce water loss due to evaporation and ensure better absorption of moisture.",
+			"category":"garden"
+		},
+		{
+			"body":"Check out the weather forecast before watering your garden, it may be about to rain.",
+			"category":"garden"
+		},
+		{
+			"body":"Rainwater is a great solution for watering your garden. Install a rain barrel at a downspout. Use it in your garden instead of drinking water from the tap.",
+			"category":"garden"
 		}
 	]
 }
