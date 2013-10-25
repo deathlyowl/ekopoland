@@ -3,7 +3,51 @@
 	"tips":
 	[
 		{
-			"body":"Prowadzisz firmę i regularnie wysyłasz pocztę i przesyłki, także w zasięgu lokalnym? Wybierz usługi kurierów rowerowych. Rowerem łatwiej ominąć korki, więc Twoja paczka szybciej dotrze na miejsce, a Ty wpłyniesz na lepszą jakość powietrza w mieście.",
+			"body":"Use a power strip. You will cut off the power supply to all the connected electrical devices with one flick of the switch, reducing the power consumption.",
+			"category":"office"
+		},
+		{
+			"body":"Are you travelling to work alone? Then you have got a few vacant seats. Make use of them! Ask at work if anybody lives near you. You can also use public transport.",
+			"category":"office"
+		},
+		{
+			"body":"Consider whether it is necessary to hold another business meeting. Sometimes a phone call or video conference is enough.",
+			"category":"office"
+		},
+		{
+			"body":"Pay attention to the type of paper you purchase. Choose recycled or FSC (Good Forest Stewardship and Chain of Custody)/ PEFC (Programme for the Endorsement of Forest Certification) certified paper.",
+			"category":"office"
+		},
+		{
+			"body":"Try to use the space on the paper effectively. Set narrow margins in a text editor - it will reduce the number of pages. Do not use the whole A4 page for short notes.",
+			"category":"office"
+		},
+		{
+			"body":"Avoid printing emails. You can store them on your computer or on an external drive.",
+			"category":"office"
+		},
+		{
+			"body":"Charge your laptop and mobile phone as long as necessary. Do not leave the charger plugged in after use.",
+			"category":"office"
+		},
+		{
+			"body":"When you leave your workplace, reduce the heating temperature and make sure that all the windows are closed.",
+			"category":"office"
+		},
+		{
+			"body":"When choosing paper, furniture or other office equipment made of wood, consider their responsible production and consumption that is necessary to preserve the forest resources for present and future generations.",
+			"category":"office"
+		},
+		{
+			"body":"Do not dispose of unnecessary paper that has been one side printed. It can be used to take notes, fax or for further printing.",
+			"category":"office"
+		},
+		{
+			"body":"If possible, avoid printing. Print only what is necessary, preferably duplex (on both sides of a page) and on recycled paper.",
+			"category":"office"
+		},
+		{
+			"body":"Do you run a business and regularly send mail and parcels, also locally? Choose bicycle couriers. Bicycles easily avoid traffic jams so your package may be delivered quicker and you can contribute to the improvement of the air quality in the city.",
 			"category":"office"
 		}
 	]
