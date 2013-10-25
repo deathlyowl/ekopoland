@@ -1,7 +1,59 @@
 {
-	"categories":["transport","air","current","garden","home","office","waste",null],
+	"categories":["transport","air","current","food","garden","home","office","shopping","waste","water",null],
 	"tips":
 	[
+		{
+			"body":"In summer, water your garden in the evening. This way you will reduce water loss due to evaporation and ensure better absorption of moisture.",
+			"category":"water"
+		},
+		{
+			"body":"Check out the weather forecast before watering your garden, it may be about to rain.",
+			"category":"water"
+		},
+		{
+			"body":"Rainwater is a great solution for watering your garden. Install a rain barrel at a downspout. Use it in your garden instead of drinking water from the tap.",
+			"category":"water"
+		},
+		{
+			"body":"Turn on the dishwasher when completely filled. This way you will use less water than while washing dishes by hand.",
+			"category":"water"
+		},
+		{
+			"body":"Install a tap aerator. This way you can reduce water consumption by up to 30% and the water stream will seem stronger.",
+			"category":"water"
+		},
+		{
+			"body":"Take a quick shower instead of a bath. During a bath on average you use as much water as during three five-minute showers.",
+			"category":"water"
+		},
+		{
+			"body":"Save money by saving water! Turn off the tap when brushing your teeth or shaving. This simple procedure will reduce fees and have a positive impact on the resources of drinking water.",
+			"category":"water"
+		},
+		{
+			"body":"Change the water heater setting - it does not have to be set at more than 60° C.",
+			"category":"water"
+		},
+		{
+			"body":"While on vacation and diving, do not touch coral reefs or tear off their sections as souvenirs. This way you will help protect the coast from the impact of waves and maintain a natural refuge for sea creatures.",
+			"category":"water"
+		},
+		{
+			"body":"Install a dual flush that enables to flush different levels of water or the one with a stop button. This way you can adjust water usage to your current needs and reduce its wastage.",
+			"category":"water"
+		},
+		{
+			"body":"Avoid washing dishes under running water.",
+			"category":"water"
+		},
+		{
+			"body":"Install water-saving nozzles on taps - this way you will effectively reduce water consumption.",
+			"category":"water"
+		},
+		{
+			"body":"Take care of any water leaks (taps, cisterns). A leaking or dripping tap burdens not only your budget but also the environment.",
+			"category":"water"
+		},
 		{
 			"body":"Buy products with no additional packaging. Please note that the product itself may stand on a shelf on average for a few months, but its packaging has an expected service life counted in minutes after the purchase.",
 			"category":"waste"
@@ -109,6 +161,130 @@
 		{
 			"body":"There are many ways to reach your destination - especially when travelling within the city. Instead of choosing a car - walk, ride a bike, take a bus or tram. Your physical condition will improve and in addition you will contribute to the reduction of air pollution, traffic and noise.",
 			"category":"transport"
+		},
+		{
+			"body":"If you want to get coffee to go, bring your own mug. Think of the number of paper cups that can be saved this way.",
+			"category":"shopping"
+		},
+		{
+			"body":"Eco-friendliness means the quality. Products that are really environmentally-friendly are the high quality products. Do not rely on price as the sole criterion for purchasing decisions. Look for credible eco-labels because only then you can be sure that the product is worth the money.",
+			"category":"shopping"
+		},
+		{
+			"body":"Buy recycled products. This way you will reduce the energy consumption required to produce a new batch of paper, glass and aluminum.",
+			"category":"shopping"
+		},
+		{
+			"body":"Pay attention to packaging and labels. Look for those that are labelled as organic, marked with certificate numbers and the names of control units.",
+			"category":"shopping"
+		},
+		{
+			"body":"Buy products with no additional packaging. Please note that the product itself may stand on a shelf on average for a few months, but its packaging has an expected service life counted in minutes after the purchase.",
+			"category":"shopping"
+		},
+		{
+			"body":"Producers of organic cosmetics look for the most natural ingredients. They should be of agricultural origin (herbs, milk, honey, fruits) and come from certified organic farms.",
+			"category":"shopping"
+		},
+		{
+			"body":"Check the manufacturers. If they declare to be using organic, bio or natural materials, call and e-mail them asking for the confirmation of the declaration. This way not only you become a conscious consumer, but also contribute to improved accuracy of the information provided on product labels.",
+			"category":"shopping"
+		},
+		{
+			"body":"By choosing organic cosmetics, you are guaranteed that only raw materials coming from live animals (honey, milk, eggs, etc.) have been used during their production and that they do not contain any additives of petrochemical origin.",
+			"category":"shopping"
+		},
+		{
+			"body":"Buy movies, music and games over the Internet, in the form of electronic files. This way you can positively impact the environment in many ways. You do not emit exhaust fumes during a trip to the store and save money on CDs/ DVDs, plastic boxes, packaging and transport. In addition, digital products often cost less.",
+			"category":"shopping"
+		},
+		{
+			"body":"Buy products made from recycled materials, this way you close their life cycles.",
+			"category":"shopping"
+		},
+		{
+			"body":"When buying new electronic equipment, choose energy efficient products - preferably labelled as A++, A+ or A. Also, look for products with the Energy Star label. Despite their higher price, you will save on electricity bills in the long run.",
+			"category":"shopping"
+		},
+		{
+			"body":"When buying a new printer, look for products with refillable cartridges. It is an economical and environmentally friendly solution. If you cannot adopt such a solution, leave used cartridges at the place where you buy the new ones.",
+			"category":"shopping"
+		},
+		{
+			"body":"Biodegradable bags help reduce the consumption of plastic and paper bags. By choosing them, you can contribute to reduce the amount of waste requiring management.",
+			"category":"shopping"
+		},
+		{
+			"body":"Be a conscious consumer. Pay attention to the products you buy. Look for products with symbols defining their impact on the environment, e.g. with recyclable packaging, safe for the ozone layer or not tested on animals.",
+			"category":"shopping"
+		},
+		{
+			"body":"Are you going shopping? Take your own bag or a backpack with you. This way you will reduce the consumption of plastic bags that usually are thrown in the trash anyway.",
+			"category":"shopping"
+		},
+		{
+			"body":"Choose eco-certified chemical cleaning products. Eco certificates ensure ecological compliance and safe manufacturing process.",
+			"category":"shopping"
+		},
+		{
+			"body":"Avoid buying overpackaged products where the packaging is often much bigger than the content. If possible, choose products without packaging or with reusable or collective packaging.",
+			"category":"shopping"
+		},
+		{
+			"body":"The best environmental solution is buying products without packaging. However, if a product is wrapped, pay attention to whether the packaging is suitable for recycling or what materials it is made of.",
+			"category":"shopping"
+		},
+		{
+			"body":"When buying cosmetics, you can also take care of the environment. On the packaging you will find a variety of certification marks indicating organic production process, safety and maintaining the balance between people, animals and plants.",
+			"category":"shopping"
+		},
+		{
+			"body":"When choosing cosmetics, read their labels. The composition is more important than the smell or looks.",
+			"category":"shopping"
+		},
+		{
+			"body":"You can donate undamaged clothes that you do not wear to the needy. You will make the donees happy, reduce your waste and contribute to protect the environment.",
+			"category":"shopping"
+		},
+		{
+			"body":"When you buy a handbag, shoes or jewelry, pay attention not only to the look, but also to the raw materials from which they are made. Think of the environment. Pay attention to ecological marks that confirm the environmentally-friendly production and sustainability of the used materials.",
+			"category":"shopping"
+		},
+		{
+			"body":"Be aware that your purchasing decisions affect the environment and surroundings in which we live. Choose high-quality products manufactured with the use of methods that have had possibly least harmful influence on the natural environment. Support companies that produce in a responsible manner. This way you can show that you approve such behaviour.",
+			"category":"shopping"
+		},
+		{
+			"body":"Clothes from second-hand stores are a great way to emphasise your style and be fashionable. The environment will only benefit.",
+			"category":"shopping"
+		},
+		{
+			"body":"Please note that products made from natural raw materials are not only visually appealing, but also completely biodegradable.",
+			"category":"shopping"
+		},
+		{
+			"body":"When choosing clothes, pay attention not only to the fashion, but also to the material from which they were made. Not all the plants used to produce fabrics come from organic sources which limit the harmful impact of production on the environment.",
+			"category":"shopping"
+		},
+		{
+			"body":"Pay attention to the marks on packaging. They show how to handle it after use.",
+			"category":"shopping"
+		},
+		{
+			"body":"Use reusable bags - as long as possible. This way you will contribute to reduce waste as well as materials and energy used to produce new ones. Also, remember about proper waste segregation and recycling.",
+			"category":"shopping"
+		},
+		{
+			"body":"When trying to be green, keep in mind it is important to make the purchased products serve as long as possible, so share them with others if you can.",
+			"category":"shopping"
+		},
+		{
+			"body":"Buy local products that do not require long distance transport. This way you will not only save the energy needed to transport them from abroad or from remote regions of the country but also support local businesses.",
+			"category":"shopping"
+		},
+		{
+			"body":"Choose wood from legal sources. You will help to protect forest areas. Many suppliers of construction materials sell legal and eco-friendly certified wood. When you buy wood, look for Forest Stewardship Council (FSC) and PROGRAMME FOR THE ENDORSEMENT OF FOREST CERTIFICATION SCHEMES (PEFC) certificates.",
+			"category":"shopping"
 		},
 		{
 			"body":"Use a power strip. You will cut off the power supply to all the connected electrical devices with one flick of the switch, reducing the power consumption.",
@@ -299,6 +475,66 @@
 			"category":"garden"
 		},
 		{
+			"body":"When buying locally produced traditional food, there is a better chance to get natural products and in addition you support local business.",
+			"category":"food"
+		},
+		{
+			"body":"A lunch box is a good idea. If you still need to wrap food, use foil or paper for food instead of aluminum foil. This way you will reduce the amount of waste.",
+			"category":"food"
+		},
+		{
+			"body":"If possible, buy fish that come from organic aquaculture. Non-organic farming uses a large number of chemical substances.",
+			"category":"food"
+		},
+		{
+			"body":"Read the label to check whether the food is suitable for eating. Food products with a Best before... date may actually stay fresh much longer when properly stored and don't have to be thrown in the trash just after exceeding the date on the label. Products that are microbiologically perishable and perishable goods in general, such as meat, are marked with a use-by date. Please note that after this date the products are not suitable for consumption unless they have been previously frozen or properly processed.",
+			"category":"food"
+		},
+		{
+			"body":"The labelling of organic food products indicates the place of manufacture of the organic agricultural raw materials included in the product. There are three options. EU Agriculture if the agricultural raw material comes from the EU; Non-EU Agriculture if the agricultural raw material comes from third countries; EU/ non-EU Agriculture if part of the raw material comes from the EU and the other part from third countries.",
+			"category":"food"
+		},
+		{
+			"body":"If you are looking for foods containing no genetically modified ingredients, buy organic products. They are labelled with the following marks.",
+			"category":"food"
+		},
+		{
+			"body":"In summer buy fresh vegetables and seasonal fruits rather than the frozen ones. They are healthier and tastier than frozen products. Also, you will save the energy needed for their processing, transport and storage.",
+			"category":"food"
+		},
+		{
+			"body":"Labels marked with the EU organic farming label (the EU eco leaf) ensure that at least 95% of the product ingredients come from organic farming and the production process has been supervised.",
+			"category":"food"
+		},
+		{
+			"body":"Choose products labelled with the organic farming logo. It guarantees the organic origin of the purchased food and certifies the sustainable methods of production.",
+			"category":"food"
+		},
+		{
+			"body":"If possible, buy food products with a long shelf life (pasta, cereal, rice) in collective packaging. This way you will reduce the amount of waste produced after their use.",
+			"category":"food"
+		},
+		{
+			"body":"Plan your shopping list in respect of specific dishes. This way you will avoid wasting food, reduce your costs and environmental load associated with the production of thrown and rotten products.",
+			"category":"food"
+		},
+		{
+			"body":"Conscious consumers know that they have to read product labels to make the right purchasing decisions. It will be easier to choose the right product that meets your expectations and needs if you have a basic knowledge of the marks and contents that can be found on product labels.",
+			"category":"food"
+		},
+		{
+			"body":"Organic food does not contain artificial colouring, fragrances, flavours and preservatives.",
+			"category":"food"
+		},
+		{
+			"body":"Organic food is produced using natural methods in a clean and safe environment, without chemical fertilizers, synthetic pesticides, antibiotics, growth hormones and genetically modified organisms. It affects the protection of human health and the environment.",
+			"category":"food"
+		},
+		{
+			"body":"By buying organic food you help to preserve biodiversity and many valuable species of plants and animals.",
+			"category":"food"
+		},
+		{
 			"body":"An electric kettle is a real power eater! Boil only as much water as you need.",
 			"category":"current"
 		},
@@ -351,7 +587,7 @@
 			"category":"current"
 		},
 		{
-			"body":"Pay attention to the marks on packaging. One of "electronics" certificates is the Energy Star - awarded to energy-efficient household appliances, office and gardening materials.",
+			"body":"Pay attention to the marks on packaging. One of electronics certificates is the Energy Star - awarded to energy-efficient household appliances, office and gardening materials.",
 			"category":"current"
 		},
 		{

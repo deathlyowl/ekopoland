@@ -8,6 +8,7 @@
 		{% endif %}{
 			"author":"{{ story.author }}",
 			"title":"{{ story.title }}",
+			"youtube":"{{ story.youtube }}",
 			"body":"{{ story.content | newline_to_br | strip_newlines }}"
 		}{% endfor %}
 	]
