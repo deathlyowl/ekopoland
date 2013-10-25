@@ -1,5 +1,5 @@
 {
-	"categories":["transport","air","current","garden","home","office","shopping","waste","water",null],
+	"categories":["transport","air","current","food","garden","home","office","shopping","waste","water",null],
 	"tips":
 	[
 		{
@@ -473,6 +473,58 @@
 		{
 			"body":"Rainwater is a great solution for watering your garden. Install a rain barrel at a downspout. Use it in your garden instead of drinking water from the tap.",
 			"category":"garden"
+		},
+		{
+			"body":"When buying locally produced traditional food, there is a better chance to get natural products and in addition you support local business.",
+			"category":"food"
+		},
+		{
+			"body":"A lunch box is a good idea. If you still need to wrap food, use foil or paper for food instead of aluminum foil. This way you will reduce the amount of waste.",
+			"category":"food"
+		},
+		{
+			"body":"If possible, buy fish that come from organic aquaculture. Non-organic farming uses a large number of chemical substances.",
+			"category":"food"
+		},
+		{
+			"body":"Read the label to check whether the food is suitable for eating. Food products with a "Best before..." date may actually stay fresh much longer when properly stored and don't have to be thrown in the trash just after exceeding the date on the label. Products that are microbiologically perishable and perishable goods in general, such as meat, are marked with a use-by date. Please note that after this date the products are not suitable for consumption unless they have been previously frozen or properly processed.",
+			"category":"food"
+		},
+		{
+			"body":"In summer buy fresh vegetables and seasonal fruits rather than the frozen ones. They are healthier and tastier than frozen products. Also, you will save the energy needed for their processing, transport and storage.",
+			"category":"food"
+		},
+		{
+			"body":"Labels marked with the EU organic farming label (the EU eco leaf) ensure that at least 95% of the product ingredients come from organic farming and the production process has been supervised.",
+			"category":"food"
+		},
+		{
+			"body":"Choose products labelled with the organic farming logo. It guarantees the organic origin of the purchased food and certifies the sustainable methods of production.",
+			"category":"food"
+		},
+		{
+			"body":"If possible, buy food products with a long shelf life (pasta, cereal, rice) in collective packaging. This way you will reduce the amount of waste produced after their use.",
+			"category":"food"
+		},
+		{
+			"body":"Plan your shopping list in respect of specific dishes. This way you will avoid wasting food, reduce your costs and environmental load associated with the production of thrown and rotten products.",
+			"category":"food"
+		},
+		{
+			"body":"Conscious consumers know that they have to read product labels to make the right purchasing decisions. It will be easier to choose the right product that meets your expectations and needs if you have a basic knowledge of the marks and contents that can be found on product labels.",
+			"category":"food"
+		},
+		{
+			"body":"Organic food does not contain artificial colouring, fragrances, flavours and preservatives.",
+			"category":"food"
+		},
+		{
+			"body":"Organic food is produced using natural methods in a clean and safe environment, without chemical fertilizers, synthetic pesticides, antibiotics, growth hormones and genetically modified organisms. It affects the protection of human health and the environment.",
+			"category":"food"
+		},
+		{
+			"body":"By buying organic food you help to preserve biodiversity and many valuable species of plants and animals.",
+			"category":"food"
 		},
 		{
 			"body":"An electric kettle is a real power eater! Boil only as much water as you need.",
