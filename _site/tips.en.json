@@ -1,5 +1,5 @@
 {
-	"categories":["garden","home","office","waste",null],
+	"categories":["air","garden","home","office","waste",null],
 	"tips":
 	[
 		{
@@ -253,6 +253,30 @@
 		{
 			"body":"Rainwater is a great solution for watering your garden. Install a rain barrel at a downspout. Use it in your garden instead of drinking water from the tap.",
 			"category":"garden"
+		},
+		{
+			"body":"",
+			"category":"air"
+		},
+		{
+			"body":"",
+			"category":"air"
+		},
+		{
+			"body":"",
+			"category":"air"
+		},
+		{
+			"body":"",
+			"category":"air"
+		},
+		{
+			"body":"",
+			"category":"air"
+		},
+		{
+			"body":"",
+			"category":"air"
 		}
 	]
 }
