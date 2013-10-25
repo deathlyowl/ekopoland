@@ -3,6 +3,276 @@
 	"signs":
 	[
 		{
+			"id":"62",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z kopolimeru o nazwie akrylonitryl-butadien-styren (ABS).</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Opakowania opatrzone tym znakiem należy po wykorzystaniu wrzucać do pojemników na odpady oznaczonych napisami TWORZYWA SZTUCZNE lub PLASTIK.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"61",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z materiału mieszanego składającego się ze szkła i metalu innego niż aluminium i blacha stalowa ocynkowana – numer 98.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Pod znakiem może się znajdować skrót „C/<strong>”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „</strong>” oznacza materiał dominujący.<br />Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"60",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z materiału mieszanego składającego się ze szkła i stalowej blachy ocynkowanej – numer 97.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Pod znakiem może się znajdować skrót „C/<strong>”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „</strong>” oznacza materiał dominujący.<br />Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"59",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z materiału mieszanego składającego się z aluminium i szkła – numer 96.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Pod znakiem może się znajdować skrót „C/<strong>”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „</strong>” oznacza materiał dominujący.<br />Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"58",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z materiału mieszanego składającego się z tworzywa sztucznego i szkła – numer 95.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Pod znakiem może się znajdować skrót „C/<strong>”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „</strong>” oznacza materiał dominujący.<br />Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"57",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z materiału mieszanego składającego się z tworzywa sztucznego i metalu innego niż aluminium i blacha stalowa ocynkowana – numer 92.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Pod znakiem może się znajdować skrót „C/<strong>”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „</strong>” oznacza materiał dominujący.<br />Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"56",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z materiału mieszanego składającego się z tworzywa sztucznego i blachy stalowej ocynkowanej – numer 91.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Pod znakiem może się znajdować skrót „C/<strong>”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „</strong>” oznacza materiał dominujący.<br />Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"55",
+			"count":"2",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z materiału mieszanego składającego się z niskogęstościowego polietylenu (LDPE) i aluminium, przy czym polietylen stanowi materiał dominujący – numer 90.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"54",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z materiału mieszanego składającego się z tworzywa sztucznego i aluminium – numer 90.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Pod znakiem może się znajdować skrót „C/<strong>”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „</strong>” oznacza materiał dominujący.<br />Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"53",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://en.wikipedia.org/wiki/Recycling_codes",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z papieru laminowanego – numer 87.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Pod znakiem może się znajdować skrót „C/<strong>”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „</strong>” oznacza materiał dominujący.<br />Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"51",
+			"count":"5",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z papieru powlekanego aluminium, przy czym papier stanowi materiał dominujący – numer 84.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"50",
+			"count":"2",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z papieru lub tektury powlekanych politereftalanem etylenu (PAPPET) – numer 81.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"49",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z papieru lub tektury powlekanych tworzywem sztucznym.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Pod znakiem może się znajdować skrót „C/<strong>”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „</strong>” oznacza materiał dominujący. Przykładowo, symbol „C/PP” oznacza mieszaninę papieru i polipropylenu, w której polipropylen stanowi materiał dominujący.<br />Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"48",
+			"count":"5",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano ze szkła brązowego (GLS) – numer 72.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Opakowania po wykorzystaniu należy wrzucać do pojemników na odpady oznaczonych napisami SZKŁO KOLOROWE lub SZKŁO.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"46",
+			"count":"5",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano ze szkła zielonego (GLS) – numer 71.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Opakowania po wykorzystaniu należy wrzucać do pojemników na odpady oznaczonych napisami SZKŁO KOLOROWE lub SZKŁO.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"46",
+			"count":"5",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano ze szkła bezbarwnego (GLS) – numer 70.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Opakowania po wykorzystaniu należy wrzucać do pojemników na odpady oznaczonych napisami SZKŁO BEZBARWNE lub SZKŁO.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"45",
+			"count":"2",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z tkanin innych niż bawełna i juta (TEX) – numer 62.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W przypadku produktów tekstylnych zalecane jest ich wielokrotne stosowanie, co dotyczy także opakowań z włókien naturalnych. Jeśli jednak opakowanie nie nadaje się już do dalszego użycia, w celu wybrania najlepszej formy jego zagospodarowania najlepiej skontaktować się z najbliższym punktem selektywnej zbiórki odpadów komunalnych lub organizacją odpowiedzialną za gospodarkę odpadami na danym terenie.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"44",
+			"count":"2",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z juty (TEX) – numer 61.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W przypadku produktów tekstylnych zalecane jest ich wielokrotne stosowanie, co dotyczy także opakowań z włókien naturalnych. Jeśli jednak opakowanie nie nadaje się już do dalszego użycia, w celu wybrania najlepszej formy jego zagospodarowania najlepiej skontaktować się z najbliższym punktem selektywnej zbiórki odpadów komunalnych lub organizacją odpowiedzialną za gospodarkę odpadami na danym terenie.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"43",
+			"count":"4",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z bawełny (COT) – numer 60.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W przypadku produktów tekstylnych zalecane jest ich wielokrotne stosowanie, co dotyczy także opakowań z włókien naturalnych. Jeśli jednak opakowanie nie nadaje się już do dalszego użycia, w celu wybrania najlepszej formy jego zagospodarowania najlepiej skontaktować się z najbliższym punktem selektywnej zbiórki odpadów komunalnych lub organizacją odpowiedzialną za gospodarkę odpadami na danym terenie.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"42",
+			"count":"3",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z korka (FOR) – numer 51.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszej formy zagospodarowania drewnianych odpadów opakowaniowych najlepiej skontaktować się z najbliższym punktem selektywnej zbiórki odpadów lub organizacją odpowiedzialną za gospodarkę odpadami na danym terenie.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"41",
+			"count":"3",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z drewna (FOR) – numer 50.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszej formy zagospodarowania drewnianych odpadów opakowaniowych najlepiej skontaktować się z najbliższym punktem selektywnej zbiórki odpadów lub organizacją odpowiedzialną za gospodarkę odpadami na danym terenie.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"40",
+			"count":"4",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z blachy stalowej (FE) – numer 40.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Opakowania po wykorzystaniu należy wrzucać do pojemników na odpady oznaczonych napisem METALE.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"",
+			"count":"2",
+			"title":"Recycle now",
+			"url":"http://www.recyclenow.com/",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Dane opakowanie jest zdatne do recyklingu.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Opakowanie może być przetworzone w nowy pełnowartościowy produkt. Przyczynia się to do zmniejszenia ilości odpadów, a także do oszczędzania surowców naturalnych. Ważne jest, aby taki produkt lub opakowanie zostały po zużyciu wysegregowane i wrzucone do odpowiedniego pojemnika na odpady.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"38",
+			"count":"7",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z powlekanego papieru lub powlekanej tektury (PBD, PPB) – numer 23.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Opakowania po wykorzystaniu najprawdopodobniej należy wrzucać do pojemników na odpady oznaczonych napisami PAPIER lub MAKULATURA. Jednak przed wyrzuceniem warto zapoznać się ze szczegółowymi wytycznymi dotyczącymi segregacji odpadów obowiązującymi na danym terenie. Nie wszystkie odpady papierowe i papieropochodne można umieszczać w tym samym pojemniku.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"37",
+			"count":"4",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z papieru (PAP) – numer 22.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Opakowania po wykorzystaniu należy wrzucać do pojemników na odpady oznaczonych napisami PAPIER lub MAKULATURA.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"36",
+			"count":"4",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z tektury płaskiej (PAP) – numer 21.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Opakowania po wykorzystaniu należy wrzucać do pojemników na odpady oznaczonych napisami PAPIER lub MAKULATURA.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"34",
+			"count":"9",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z tektury falistej (PCB, PAP, C PAP) – numer 20.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Opakowania po wykorzystaniu należy wrzucać do pojemników na odpady oznaczonych napisami PAPIER lub MAKULATURA.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"33",
+			"count":"2",
+			"title":"Znak określający rodzaj materiału z jakiego wykonane są baterie (ogniwa)",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
+			"class":"1",
+			"categories":["urzĄdzenia elekrtyczne i elektroniczne","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Dana bateria (ogniwo) zbudowana jest z układu alkalicznego (alkaline) – numer 19.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Segregowanie zużytych baterii i akumulatorów oszczędza środowisko także dlatego, że na drodze recyklingu możliwe jest odzyskanie z nich metali, które mogą być cennym surowcem wtórnym do produkcji nowych wyrobów. Jest to ważne, bowiem metale produkowane są z rud metali, będących nieodnawialnymi surowcami mineralnymi.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Zużyte baterie i akumulatory ze względu na obecność metali stanowią odpad niebezpieczny i wymagają segregacji. Nie wolno umieszczać ich w pojemnikach z innymi rodzajami odpadów. Należy je wrzucać do specjalnych pojemników na zużyte baterie lub przekazywać do punktów selektywnej zbiórki odpadów komunalnych zorganizowanych w poszczególnych miejscowościach.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na bateriach (ogniwach), które stanowią często nieodzowne akcesoria do wielu urządzeń elektrycznych i elektronicznych. W związku z tym można go znaleźć także na zużytych bateriach albo w zużytym elektrosprzęcie.</p><br />"
+		},
+		{
+			"id":"32",
+			"count":"2",
+			"title":"Znak określający rodzaj materiału z jakiego wykonane są baterie (ogniwa)",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
+			"class":"1",
+			"categories":["urzĄdzenia elekrtyczne i elektroniczne","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak informuje, że dana bateria (ogniwo) zbudowana jest z układu węglowo-cynkowego (CZ) – numer 14.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Segregowanie zużytych baterii i akumulatorów oszczędza środowisko także dlatego, że na drodze recyklingu możliwe jest odzyskanie z nich metali, które mogą być cennym surowcem wtórnym do produkcji nowych wyrobów. Jest to ważne, bowiem metale produkowane są z rud metali, będących nieodnawialnymi surowcami mineralnymi.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Zużyte baterie i akumulatory ze względu na obecność metali stanowią odpad niebezpieczny i wymagają segregacji. Nie wolno umieszczać ich w pojemnikach z innymi rodzajami odpadów. Należy je wrzucać do specjalnych pojemników na zużyte baterie lub przekazywać do punktów selektywnej zbiórki odpadów komunalnych zorganizowanych w poszczególnych miejscowościach.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na bateriach (ogniwach), które stanowią często nieodzowne akcesoria do wielu urządzeń elektrycznych i elektronicznych. W związku z tym można go znaleźć także na zużytych bateriach albo w zużytym elektrosprzęcie.</p><br />"
+		},
+		{
+			"id":"31",
+			"count":"2",
+			"title":"Znak określający rodzaj materiału z jakiego wykonane są baterie (ogniwa)",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
+			"class":"1",
+			"categories":["urzĄdzenia elekrtyczne i elektroniczne","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Dana bateria (ogniwo) zbudowana jest z układu srebrowo-cynkowego (SO(Z)) – numer 13.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Segregowanie zużytych baterii i akumulatorów oszczędza środowisko także dlatego, że na drodze recyklingu możliwe jest odzyskanie z nich metali, które mogą być cennym surowcem wtórnym do produkcji nowych wyrobów. Jest to ważne, bowiem metale produkowane są z rud metali, będących nieodnawialnymi surowcami mineralnymi.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Zużyte baterie i akumulatory ze względu na obecność metali stanowią odpad niebezpieczny i wymagają segregacji. Nie wolno umieszczać ich w pojemnikach z innymi rodzajami odpadów. Należy je wrzucać do specjalnych pojemników na zużyte baterie lub przekazywać do punktów selektywnej zbiórki odpadów komunalnych zorganizowanych w poszczególnych miejscowościach.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na bateriach (ogniwach), które stanowią często nieodzowne akcesoria do wielu urządzeń elektrycznych i elektronicznych. W związku z tym można go znaleźć także na zużytych bateriach albo w zużytym elektrosprzęcie.</p><br />"
+		},
+		{
 			"id":"30",
 			"count":"2",
 			"title":"Znak określający rodzaj materiału z jakiego wykonane są baterie (ogniwa)",
