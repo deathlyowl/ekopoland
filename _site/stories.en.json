@@ -1,7 +1,11 @@
 {
-	"authors":[null],
+	"authors":["Paweł",null],
 	"stories":
 	[
-		
+		{
+			"author":"Paweł",
+			"title":"Wzruszająca historia",
+			"body":"<p>Cześć jestem Paweł. A to moja wzruszająca historia. Na opakowaniu worków śmieciowych z biedronki znalazłem wstrząsającą poradę! Każą mieszać odpady!</p><br />"
+		}
 	]
 }
