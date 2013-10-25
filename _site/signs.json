@@ -2,6 +2,87 @@
 	"signs":
 	[
 		{
+			"id":"20",
+			"count":"3",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"1",
+			"categories":["odpady","opakowania",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z aluminium (ALU) – numer 41.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Opakowania po wykorzystaniu wrzucać do pojemników na odpady oznaczonych napisem METALE.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"19",
+			"count":"1",
+			"title":"Postępowanie z odpadami szklanymi",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:13:13:31994L0062:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak zachęca konsumentów do umieszczania zużytych opakowań szklanych w pojemnikach przeznaczonych do tego celu.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Działanie zgodnie z zaleceniami znaku pomaga w ponownym wykorzystaniu surowców, co zmniejsza zapotrzebowanie na pierwotne zasoby naturalne i redukuje ilość odpadów.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"18",
+			"count":"1",
+			"title":"OK biodegradable soil",
+			"url":"http://www.okcompost.be/en/home/",
+			"class":"2",
+			"categories":["odpady","opakowania",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie jest zdatne do biodegradacji w glebie i że zostanie ono całkowicie rozłożone pod wpływem działania organizmów żywych (np. mikroorganizmów glebowych) i nie będzie negatywnie oddziaływało na środowisko.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Biodegradacja w glebie oferuje istotną wartość dodaną dla produktów rolnych i ogrodniczych, ponieważ po użyciu można je rozkładać na miejscu.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Certyfikaty</strong></p><br /><br /><p>Znak stanowi potwierdzenie uzyskania certyfikatu AIB-VINÇOTTE GROUP.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"17",
+			"count":"1",
+			"title":"OK compost",
+			"url":"http://www.okcompost.be/en/home/",
+			"class":"2",
+			"categories":["odpady","opakowania",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak gwarantuje zgodność opakowania z europejską normą EN 13432, dotyczącą przemysłowych kompostowni.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Wskazuje na przydatność opakowania do kompostowania (rozkładu pod wpływem mikroorganizmów do ditlenku węgla, wody i biomasy).</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Certyfikat</strong></p><br /><br /><p>Znak stanowi potwierdzenie uzyskania certyfikatu AIB-VINÇOTTE GROUP.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"16",
+			"count":"1",
+			"title":"Compostable",
+			"url":"http://www.bpiworld.org/BPI-Public/Program.html",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie nadaje się do kompostowania – jest jednocześnie biodegradowalne.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Opakowanie ulega rozkładowi w warunkach kompostowania, dając tzw. zdrowy kompost.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Certyfikat</strong></p><br /><br /><p>Znak stanowi potwierdzenie uzyskania certyfikatu amerykańskiej Rady ds. Kompostowania i Instytutu Produktów Biodegradowalnych.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"15",
+			"count":"1",
+			"title":"Przydatny do recyklingu",
+			"url":"OPAKOWANIA, ODPADY",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie nadaje się do ponownego przetwórstwa</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Podatność do ponownego przetwórstwa oznacza, że jest możliwe przetworzenie odpadu powstałego z tego opakowania w nowy pełnowartościowy produkt. Działanie takie przyczynia się do oszczędności pierwotnych surowców naturalnych i zmniejszenia ogólnej ilości odpadów.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Opakowanie po wykorzystaniu należy poddać segregacji i wrzucić do pojemnika na odpady odpowiedniej kategorii.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Certyfikat</strong></p><br /><br /><p>Znak stanowi potwierdzenie uzyskania certyfikatu COBRO – Instytutu Badawczego Opakowań w Warszawie.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"14",
+			"count":"1",
+			"title":"Przydatny do recyklingu",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie opatrzone tym znakiem nadaje się do recyklingu.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Odpad powstały z tego opakowania można przetworzyć w nowy pełnowartościowy produkt. Przyczyni się to do oszczędności pierwotnych surowców naturalnych i zmniejszenia ogólnej ilości odpadów.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Opakowanie po wykorzystaniu należy poddać segregacji i wrzucić do pojemnika na odpady odpowiedniej kategorii.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"13",
+			"count":"4",
+			"title":"Przydatny do kompostowania (recyklingu organicznego)",
+			"url":"http://www.cobro.org.pl/",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie nadaje się do kompostowania.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Opakowanie ulega rozkładowi pod wpływem mikroorganizmów do ditlenku węgla, wody i biomasy. Zgodnie z normą europejską czas biorozkładu nie powinien być dłuższy niż 6 miesięcy.</p><br /><br /><p><strong>Certyfikat</strong></p><br /><br /><p>Znak stanowi potwierdzenie uzyskania certyfikatu DIN CERTCO/COBRO.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i ma istotne znaczenie przy identyfikacji powstających z nich odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br />"
+		},
+		{
+			"id":"11",
+			"count":"1",
+			"title":"Nie wyrzucać do odpadów domowych",
+			"url":"http://www.europedirect-rzeszow.pl/wp-content/uploads/2013/05/Prawa-obywatelskie-Moje-prawa_Europe_Direct_Rzeszow_2013.pdf",
+			"class":"1",
+			"categories":["odpady","opakowania",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Produkt zawiera substancje niebezpieczne i przestrzega przed łączeniem go z odpadami domowymi.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>W celu wybrania najlepszego sposobu zagospodarowania odpadu powstałego po zużyciu produktu z tym znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na produktach zawierających substancje niebezpieczne lub na ich opakowaniach. Można go zatem znaleźć także na odpadach powstałych po wykorzystaniu tego typu produktów lub ich opakowań.</p><br />"
+		},
+		{
 			"id":"9",
 			"count":"9",
 			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
@@ -9,6 +90,15 @@
 			"class":"1",
 			"categories":["odpady","opakowania",null],
 			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z innych polimerów, nieujętych w znakach identyfikacyjnych o numerach 1-6, lub z kilku różnych polimerów. Zawiera słowo INNE,OTHER lub Autre i przypisany jest mu numer 7 lub 07.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Opakowania opatrzone tym znakiem należy po wykorzystaniu wrzucać do pojemników na odpady oznaczonych napisami TWORZYWA SZTUCZNE lub PLASTIK.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		},
+		{
+			"id":"9",
+			"count":"5",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"2",
+			"categories":["odpady","opakowania",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Opakowanie wyprodukowano z polimeru o nazwie polistyren (PS) – numer 6 lub 06.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Opakowania opatrzone tym znakiem należy po wykorzystaniu wrzucać do pojemników na odpady oznaczonych napisami TWORZYWA SZTUCZNE lub PLASTIK.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
 		},
 		{
 			"id":"8",
