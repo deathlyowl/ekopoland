@@ -1,5 +1,5 @@
 {
-	"categories":["air","current","garden","home","office","waste",null],
+	"categories":["transport","air","current","garden","home","office","waste",null],
 	"tips":
 	[
 		{
@@ -65,6 +65,46 @@
 		{
 			"body":"Deliver medical waste to special collection points or leave them at the nearest pharmacy. If you dispose of them in the trash or sewage system, they will cause a serious threat to the environment.",
 			"category":"waste"
+		},
+		{
+			"body":"If you decide to go by car, plan your travel. Make sure that you have selected the best route.",
+			"category":"transport"
+		},
+		{
+			"body":"If you are going away for a weekend with your family, consider travelling by train. This way you can avoid traffic jams and the related stress as well as decrease the level of air pollution.",
+			"category":"transport"
+		},
+		{
+			"body":"Educate future generations by setting a good example. Walk, use a bike or take a bus to get to work. This way you will demonstrate that they can choose the greener ways of travelling.",
+			"category":"transport"
+		},
+		{
+			"body":"When you drive a car, apply eco-driving techniques. Use engine braking and avoid unnecessary loads in the car, turn off unnecessary electrical equipment, use air conditioning in moderation and ensure proper tyre pressure. This way you will reduce fuel consumption and wear and tear of vehicle parts. In addition, you will reduce the environmental impact of using a car.",
+			"category":"transport"
+		},
+		{
+			"body":"Spare yourself and the environment from that. Burn calories, not petrol. Switching from car to bike will be beneficial to your wallet, health and the climate.",
+			"category":"transport"
+		},
+		{
+			"body":"On hot days use public transport or a bike. Light and heat cause reactions in car exhaust fumes resulting in harmful gases such as tropospheric ozone. The consequence is poor air quality and smog, which makes it difficult to breathe.",
+			"category":"transport"
+		},
+		{
+			"body":"Remember that in most cases you can rely on public means of transport, not only on your own car. They generate lower exhaust emissions and cause less environmental impact per passenger. Travelling by tram or bus is often more profitable compared to the costs associated with the maintenance of a car.",
+			"category":"transport"
+		},
+		{
+			"body":"Are you travelling to work alone? Then you have got a few vacant seats. Make use of them! Ask at work if anybody lives near you. You can also use public transport.",
+			"category":"transport"
+		},
+		{
+			"body":"Choose wisely! Your car pollutes the environment most during short trips when its engine is not warmed. Choose to bike instead of driving or go on foot.",
+			"category":"transport"
+		},
+		{
+			"body":"There are many ways to reach your destination - especially when travelling within the city. Instead of choosing a car - walk, ride a bike, take a bus or tram. Your physical condition will improve and in addition you will contribute to the reduction of air pollution, traffic and noise.",
+			"category":"transport"
 		},
 		{
 			"body":"Use a power strip. You will cut off the power supply to all the connected electrical devices with one flick of the switch, reducing the power consumption.",
