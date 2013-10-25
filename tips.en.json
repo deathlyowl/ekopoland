@@ -1,0 +1,13 @@
+---
+---
+{
+	"categories":[{% for category in site.categories%}{% for post in category[1] %}{% if post.tags contains 'tipEN' %}"{{category[0]}}",{% break %}{% endif %}{% endfor %}{% endfor %}null],
+	"tips":
+	[
+		{% for tip in site.tags.tipEN %}{% if forloop.index != 1 %},
+		{% endif %}{
+			"body":"{{ tip.body }}",
+			"category":"{{tip.categories}}"
+		}{% endfor %}
+	]
+}
