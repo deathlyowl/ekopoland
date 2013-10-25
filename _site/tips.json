@@ -19,6 +19,10 @@
 			"category":"Żywność"
 		},
 		{
+			"body":"Na etykiecie ekologicznych produktów żywnościowych wskazywane jest miejsce, w którym wyprodukowano ekologiczne surowce rolne wchodzące w skład produktu. Możliwe są trzy warianty. „Rolnictwo UE”, jeśli surowiec rolny pochodzi z terenu UE; „Rolnictwo spoza UE”, jeśli surowiec rolny pochodzi z krajów trzecich; „Rolnictwo UE / spoza UE”, jeśli część surowców pochodzi z terenu UE, a część z krajów trzecich.",
+			"category":"Żywność"
+		},
+		{
 			"body":"Jeżeli szukasz żywności niezawierającej składników modyfikowanych genetycznie, kupuj produkty ekologiczne.",
 			"category":"Żywność"
 		},
@@ -116,6 +120,10 @@
 		},
 		{
 			"body":"Jeżeli wyjeżdżasz na weekend z rodziną, rozważ podróż pociągiem. Unikniesz korków oraz stresów z tym związanych, dodatkowo zmniejszysz poziom zanieczyszczenia powietrza.",
+			"category":"transport"
+		},
+		{
+			"body":"Sprawdzaj ciśnienie w oponach. Utrzymując je na właściwym poziomie, zmniejszysz zużycie oraz wydłużysz okres ich użytkowania. Oszczędzisz również cenne surowce. Ropę naftową potrzebną do wyprodukowania opon oraz paliwo, którego zużycie jest większe przy słabym napompowaniu.",
 			"category":"transport"
 		},
 		{
@@ -340,6 +348,10 @@
 		},
 		{
 			"body":"Nie wyrzucaj do kosza pozostałości po warzywach. Wrzucaj je do przydomowego kompostownika. Pod wpływem tlenu i mikroorganizmów powstanie z nich zdrowy kompost.",
+			"category":"dom"
+		},
+		{
+			"body":"Przykrywając garnki pokrywkami podczas gotowania, oszczędzasz znaczną część energii potrzebnej do ugotowania potrawy.",
 			"category":"dom"
 		},
 		{
