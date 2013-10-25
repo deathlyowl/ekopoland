@@ -2,7 +2,6 @@
 layout: nothing
 tags: story
 author: Katarzyna Bujakiewicz
-youtube: "http://www.youtube.com/watch?v=dXbooNmZoto"
 title: Lola
 ---
 - To jest stare - pokręciła głową Zuza, moja córka. 
