@@ -1,0 +1,14 @@
+---
+---
+{
+	"authors":[{% for story in site.tags.storyEN %}{% if story.url contains '_01.' %}"{{story.author}}",{% endif %}{% endfor %}null],
+	"stories":
+	[
+		{% for story in site.tags.storyEN %}{% if forloop.index != 1 %},
+		{% endif %}{
+			"author":"{{ story.author }}",
+			"title":"{{ story.title }}",
+			"body":"{{ story.content | newline_to_br | strip_newlines }}"
+		}{% endfor %}
+	]
+}
