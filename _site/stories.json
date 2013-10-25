@@ -1,7 +1,12 @@
 {
-	"authors":["Michał Żebrowski","Agnieszka Szulim","Kinga Rusin","Michał Piróg","Reni Jusis","Katarzyna Bujakiewicz",null],
+	"authors":["Paweł","Michał Żebrowski","Agnieszka Szulim","Kinga Rusin","Michał Piróg","Reni Jusis","Katarzyna Bujakiewicz",null],
 	"stories":
 	[
+		{
+			"author":"Paweł",
+			"title":"Wzruszająca historia",
+			"body":"<p>Cześć jestem Paweł. A to moja wzruszająca historia. Na opakowaniu worków śmieciowych z biedronki znalazłem wstrząsającą poradę! Każą mieszać odpady!</p><br />"
+		},
 		{
 			"author":"Michał Żebrowski",
 			"title":"Śledztwo komisarza Ostrowskiego",
