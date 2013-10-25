@@ -1,6 +1,7 @@
 ---
 ---
 {
+	"celebrities":[{% for post in site.posts %}{% if post.author && post.author contains 'Micha' %}"A{{post.title}}",{% endif %}{% endfor %}null],
 	"stories":
 	[
 		{% for story in site.tags.story %}{% if forloop.index != 1 %},
