@@ -1,5 +1,5 @@
 {
-	"categories":["biuro","dom","odpady","ogród","powietrze","prąd","transport","woda","Żywność",null],
+	"categories":["biuro","dom","odpady","ogród","powietrze","prąd","transport","woda","zakupy","Żywność",null],
 	"tips":
 	[
 		{
@@ -61,6 +61,130 @@
 		{
 			"body":"Kupując żywność ekologiczną, przyczyniasz się do zachowania bioróżnorodności i wielu wartościowych odmian roślin i gatunków zwierząt.",
 			"category":"Żywność"
+		},
+		{
+			"body":"Jeżeli zamierzasz wziąć kawę na wynos, zabieraj ze sobą własny kubek termiczny. Pomyśl o liczbie papierowych kubków, które można w ten sposób zaoszczędzić.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Proekologiczność to jakość. Produkty faktycznie przyjazne środowisku, to produkty wysokiej jakości. Nie traktuj ceny jako jedynego kryterium zakupowego. Szukaj wiarygodnych etykiet ekologicznych – wtedy masz pewność, że produkt jest wart swojej ceny.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Kupuj produkty z recyklingu. Dzięki temu ograniczysz zużycie energii potrzebnej do wyprodukowania nowych partii papieru, szkła i aluminium.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Zwracaj uwagę na opakowania i etykiety. Szukaj tych, które posiadają oznaczenia ekologiczne, numery certyfikatów oraz nazwy jednostek kontrolnych.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Kupuj produkty bez dodatkowych opakowań. Zwróć uwagę, że o ile sam produkt postoi na półce średnio kilka miesięcy, o tyle jego kartonik ma żywotność liczoną w minutach od momentu zakupu.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Producenci kosmetyków ekologicznych poszukują składników jak najbliższych naturze. Powinny być one pochodzenia rolniczego (zioła, mleko, miód, owoce), z certyfikowanych gospodarstw ekologicznych.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Sprawdzaj producentów. Jeśli twierdzą, że stosują surowce ekologiczne, bio lub naturalne, dzwoń do nich, pisz e-maile z prośbą o potwierdzenie deklaracji. W ten sposób nie tylko stajesz się świadomym konsumentem, ale możesz wpłynąć na zwiększenie rzetelności informacji umieszczanych na etykietach produktów.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Kupując kosmetyki ekologiczne, masz gwarancję, że przy ich produkcji zastosowano surowce pochodzące tylko od żywych zwierząt (miód, mleko, jaja itp.) oraz że zrezygnowano z dodatków pochodzenia petrochemicznego.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Kupuj filmy, muzykę i gry przez Internet w postaci plików elektronicznych. W ten sposób wpływasz korzystnie na środowisko na wiele sposobów. Nie emitujesz spalin przy podróży do sklepu, oszczędzasz na płytach CD/DVD, plastikowych pudełkach, opakowaniach oraz transporcie. Dodatkowo często płacisz niższe ceny za cyfrowy produkt.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Kupuj produkty wytworzone z surowców wtórnych, w ten sposób zamykasz ich cykl życia.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Wybierając nowy sprzęt elektroniczny, decyduj się na produkty energooszczędne – najlepiej z etykietą efektywności energetycznej A++, A+ lub A. Szukaj również tych z naklejką Energy Star. Pomimo wyższych kosztów zakupu na dłuższą metę zaoszczędzisz na rachunkach za energię elektryczną.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Kupując nową drukarkę, szukaj tych, których kartridże możesz napełnić ponownie. Jest to opłacalne i ekologiczne rozwiązanie. Jeśli nie możesz zdecydować się na to rozwiązanie, odnoś zużyte kartridże tam, gdzie kupujesz nowe.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Unikaj kupowania produktów przepakowanych, w przypadku których opakowanie jest często większe od zawartości. Jeśli to możliwe, wybieraj produkty bez opakowania, w opakowaniu zwrotnym (wielokrotnego użytku) lub zbiorczym.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Dzięki torbom biodegradowalnym zmniejszasz zużycie plastikowych i papierowych. W ten sposób wpływasz na zmniejszenie ilości odpadów wymagających zagospodarowania",
+			"category":"zakupy"
+		},
+		{
+			"body":"Bądź świadomym konsumentem. Zwracaj uwagę na produkty, które kupujesz. Szukaj tych z symbolami określającymi ich wpływ na środowisko naturalne, np. opakowanie nadające się do recyklingu, produkt bezpieczny dla warstwy ozonowej, nietestowane na zwierzętach.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Wybierasz się na zakupy? Weź ze sobą własną torbę lub plecak. Zmniejszysz w ten sposób zużycie plastikowych reklamówek, które i tak najczęściej wyrzucasz do kosza.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Wybieraj chemiczne środki czystości oznaczone ekologicznym certyfikatem. Stanowi on gwarancję zgodnego z ekologią i bezpiecznego procesu ich produkcji.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Dla środowiska korzystne jest kupowanie produktów bez opakowań. Jeśli jednak dany produkt je posiada, zwracaj uwagę na to, czy nadaje się ono do recyklingu lub z jakich materiałów jest wykonane.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Kupując kosmetyki, możesz również dbać o ekologię. Na opakowaniach znajdziesz różne oznaczenia certyfikacyjne, informujące o ekologicznym procesie produkcji, bezpieczeństwie i zachowaniu równowagi między ludźmi, zwierzętami i roślinnością.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Przy wyborze kosmetyków warto czytać ich etykiety. Skład jest ważniejszy niż zapach lub wygląd.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Nieużywane, niezniszczone ubrania możesz oddać osobom potrzebującym, którym bardzo się przydadzą. Sprawisz radość obdarowanym, ograniczysz ilość odpadów i przyczynisz się do ochrony środowiska.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Gdy kupujesz torebkę, buty czy biżuterię, zwracaj uwagę nie tylko na wygląd, ale także na surowce, z jakich zostały wykonane. Miej na uwadze dobro środowiska. Zważ na ekologiczne znaki świadczące o produkcji przyjaznej środowisku oraz trwałości materiałów, z jakich są wytworzone.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Miej świadomość, że Twoje decyzje zakupowe wpływają na stan środowiska i otoczenie, w jakim żyjemy. Dokonując wyboru, stawiaj na wysokiej jakości produkty, powstałe przy użyciu metod jak najmniej szkodzących przyrodzie. Wspieraj firmy produkujące w sposób odpowiedzialny. W ten sposób pokażesz, jakie zachowania popierasz.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Ubrania z second-handu to świetny sposób na podkreślenie swojego stylu i bycie modnym. Środowisko tylko na tym zyska.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Zwróć uwagę, że produkty wykonane z naturalnych surowców są nie tylko atrakcyjne wizualnie, ale także całkowicie biodegradowalne.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Wybierając ubrania, zwracaj uwagę nie tylko na fason, ale również materiał, z jakiego zostały wykonane. Nie wszystkie rośliny wykorzystywane do wytworzenia tkanin pochodzą z upraw ekologicznych, dla których ogranicza się szkodliwy wpływ produkcji na środowisko.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Zwracaj uwagę na znaki zamieszczone na opakowaniach. Wskazują one sposób postępowania z materiałami po ich zużyciu.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Korzystaj z toreb wielokrotnego użytku i wykorzystuj je jak najdłużej. Przyczynisz się w ten sposób do ograniczenia odpadów oraz materiałów i energii wykorzystywanej do produkcji nowych. Pamiętaj również o właściwej segregacji i możliwości recyklingu.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Dbając o środowisko, pamiętaj o tym, jak ważne jest, aby zakupione produkty służyły jak najdłużej, więc jeśli masz możliwość, dziel się nimi z innymi.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Kupuj lokalne produkty, które nie wymagały dalekiego transportu. Oszczędzasz w ten sposób energię potrzebną do przewiezienia ich z zagranicy lub z odległych regionów kraju, a także wspierasz lokalną przedsiębiorczość.",
+			"category":"zakupy"
+		},
+		{
+			"body":"Wybieraj drewno z legalnych źródeł. Pomożesz w ochronie terenów leśnych. Wielu dostawców materiałów budowlanych oferuje drewno certyfikowane jako legalne i ekologiczne. Przy zakupie drewna szukaj oznakowań takich jak Forest Stewardship Council (FSC) oraz Programme for the Endorsement of Forest Certification schemes (PEFC.",
+			"category":"zakupy"
 		},
 		{
 			"body":"W lecie podlewaj ogród wieczorem. Ograniczysz w ten sposób straty wody wynikające z parowania i zapewnisz lepsze jej wchłanianie.",
