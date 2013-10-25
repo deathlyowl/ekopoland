@@ -1,5 +1,5 @@
 {
-	"categories":["biuro","dom","odpady","powietrze","prąd","transport","woda","Żywność",null],
+	"categories":["biuro","dom","odpady","ogród","powietrze","prąd","transport","woda","Żywność",null],
 	"tips":
 	[
 		{
@@ -265,6 +265,42 @@
 		{
 			"body":"Produkty niezawierające szkodliwych dla warstwy ozonowej gazów posiadają znak CFC Free lub Ozone Friendly.",
 			"category":"powietrze"
+		},
+		{
+			"body":"Używaj pchanej kosiarki do koszenia trawników – nie generuje spalin i pomaga utrzymać dobrą kondycję.",
+			"category":"ogród"
+		},
+		{
+			"body":"Produkty jednorazowe zawierające znak Compost Home nadają się do przydomowych kompostowników. Oddziel je od pozostałych odpadów i wykorzystaj jako naturalny produkt poddany kompostowaniu.",
+			"category":"ogród"
+		},
+		{
+			"body":"Zastanów się nad ogrodowym kompostownikiem. Znaczna część produktów wyrzucanych do kosza może być wykorzystana jako kompost.",
+			"category":"ogród"
+		},
+		{
+			"body":"Jeżeli chcesz pozbyć się chwastów, polej je wrzącą wodą. W ciągu kilku godzin zbrązowieją i umierają. Dzięki takiemu rozwiązaniu nie pozostają toksyczne pozostałości, teren jest bezpieczny i nadaje się do zabawy dla dzieci.",
+			"category":"ogród"
+		},
+		{
+			"body":"Jeżeli posiadasz własny ogród, sadzawka to dobry sposób na większą różnorodność biologiczną. Zwierzęta, takie jak żaby, ślimaki czy ważki, uwielbiają małe zbiorniki wodne.",
+			"category":"ogród"
+		},
+		{
+			"body":"Ściółka wokół roślin to same korzyści. Pomaga ona w utrzymaniu odpowiedniej temperatury podłoża, zapobiega szerzeniu się chwastów oraz ogranicza parowanie. Pamiętaj jednak, żeby warstwa ta nie przylegała do łodyg – zimą rośliny mogą zacząć butwieć. Wykorzystaj kamyki, korę, szyszki sosnowe, ściętą trawę, kompost z liści lub potłuczoną ceramikę.",
+			"category":"ogród"
+		},
+		{
+			"body":"W lecie podlewaj ogród wieczorem. Ograniczysz w ten sposób straty wody wynikające z parowania i zapewnisz lepsze jej wchłanianie.",
+			"category":"ogród"
+		},
+		{
+			"body":"Zanim podlejesz ogród, sprawdź prognozę pogody może akurat będzie padać.",
+			"category":"ogród"
+		},
+		{
+			"body":"Deszczówka to świetne rozwiązanie do podlewania ogrodu. Przy wylocie rynny zamontuj beczkę z wodą. Korzystaj z niej zamiast używać wody pitnej z kranu.",
+			"category":"ogród"
 		},
 		{
 			"body":"Kupuj produkty bez dodatkowych opakowań. Zwróć uwagę, że o ile sam produkt postoi na półce średnio kilka miesięcy, o tyle jego kartonik ma żywotność liczoną w minutach od momentu zakupu.",
