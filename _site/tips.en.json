@@ -1,5 +1,5 @@
 {
-	"categories":["transport","air","current","garden","home","office","waste","water",null],
+	"categories":["transport","air","current","garden","home","office","shopping","waste","water",null],
 	"tips":
 	[
 		{
@@ -161,6 +161,130 @@
 		{
 			"body":"There are many ways to reach your destination - especially when travelling within the city. Instead of choosing a car - walk, ride a bike, take a bus or tram. Your physical condition will improve and in addition you will contribute to the reduction of air pollution, traffic and noise.",
 			"category":"transport"
+		},
+		{
+			"body":"If you want to get coffee to go, bring your own mug. Think of the number of paper cups that can be saved this way.",
+			"category":"shopping"
+		},
+		{
+			"body":"Eco-friendliness means the quality. Products that are really environmentally-friendly are the high quality products. Do not rely on price as the sole criterion for purchasing decisions. Look for credible eco-labels because only then you can be sure that the product is worth the money.",
+			"category":"shopping"
+		},
+		{
+			"body":"Buy recycled products. This way you will reduce the energy consumption required to produce a new batch of paper, glass and aluminum.",
+			"category":"shopping"
+		},
+		{
+			"body":"Pay attention to packaging and labels. Look for those that are labelled as organic, marked with certificate numbers and the names of control units.",
+			"category":"shopping"
+		},
+		{
+			"body":"Buy products with no additional packaging. Please note that the product itself may stand on a shelf on average for a few months, but its packaging has an expected service life counted in minutes after the purchase.",
+			"category":"shopping"
+		},
+		{
+			"body":"Producers of organic cosmetics look for the most natural ingredients. They should be of agricultural origin (herbs, milk, honey, fruits) and come from certified organic farms.",
+			"category":"shopping"
+		},
+		{
+			"body":"Check the manufacturers. If they declare to be using organic, bio or natural materials, call and e-mail them asking for the confirmation of the declaration. This way not only you become a conscious consumer, but also contribute to improved accuracy of the information provided on product labels.",
+			"category":"shopping"
+		},
+		{
+			"body":"By choosing organic cosmetics, you are guaranteed that only raw materials coming from live animals (honey, milk, eggs, etc.) have been used during their production and that they do not contain any additives of petrochemical origin.",
+			"category":"shopping"
+		},
+		{
+			"body":"Buy movies, music and games over the Internet, in the form of electronic files. This way you can positively impact the environment in many ways. You do not emit exhaust fumes during a trip to the store and save money on CDs/ DVDs, plastic boxes, packaging and transport. In addition, digital products often cost less.",
+			"category":"shopping"
+		},
+		{
+			"body":"Buy products made from recycled materials, this way you close their life cycles.",
+			"category":"shopping"
+		},
+		{
+			"body":"When buying new electronic equipment, choose energy efficient products - preferably labelled as A++, A+ or A. Also, look for products with the Energy Star label. Despite their higher price, you will save on electricity bills in the long run.",
+			"category":"shopping"
+		},
+		{
+			"body":"When buying a new printer, look for products with refillable cartridges. It is an economical and environmentally friendly solution. If you cannot adopt such a solution, leave used cartridges at the place where you buy the new ones.",
+			"category":"shopping"
+		},
+		{
+			"body":"Biodegradable bags help reduce the consumption of plastic and paper bags. By choosing them, you can contribute to reduce the amount of waste requiring management.",
+			"category":"shopping"
+		},
+		{
+			"body":"Be a conscious consumer. Pay attention to the products you buy. Look for products with symbols defining their impact on the environment, e.g. with recyclable packaging, safe for the ozone layer or not tested on animals.",
+			"category":"shopping"
+		},
+		{
+			"body":"Are you going shopping? Take your own bag or a backpack with you. This way you will reduce the consumption of plastic bags that usually are thrown in the trash anyway.",
+			"category":"shopping"
+		},
+		{
+			"body":"Choose eco-certified chemical cleaning products. Eco certificates ensure ecological compliance and safe manufacturing process.",
+			"category":"shopping"
+		},
+		{
+			"body":"Avoid buying overpackaged products where the packaging is often much bigger than the content. If possible, choose products without packaging or with reusable or collective packaging.",
+			"category":"shopping"
+		},
+		{
+			"body":"The best environmental solution is buying products without packaging. However, if a product is wrapped, pay attention to whether the packaging is suitable for recycling or what materials it is made of.",
+			"category":"shopping"
+		},
+		{
+			"body":"When buying cosmetics, you can also take care of the environment. On the packaging you will find a variety of certification marks indicating organic production process, safety and maintaining the balance between people, animals and plants.",
+			"category":"shopping"
+		},
+		{
+			"body":"When choosing cosmetics, read their labels. The composition is more important than the smell or looks.",
+			"category":"shopping"
+		},
+		{
+			"body":"You can donate undamaged clothes that you do not wear to the needy. You will make the donees happy, reduce your waste and contribute to protect the environment.",
+			"category":"shopping"
+		},
+		{
+			"body":"When you buy a handbag, shoes or jewelry, pay attention not only to the look, but also to the raw materials from which they are made. Think of the environment. Pay attention to ecological marks that confirm the environmentally-friendly production and sustainability of the used materials.",
+			"category":"shopping"
+		},
+		{
+			"body":"Be aware that your purchasing decisions affect the environment and surroundings in which we live. Choose high-quality products manufactured with the use of methods that have had possibly least harmful influence on the natural environment. Support companies that produce in a responsible manner. This way you can show that you approve such behaviour.",
+			"category":"shopping"
+		},
+		{
+			"body":"Clothes from second-hand stores are a great way to emphasise your style and be fashionable. The environment will only benefit.",
+			"category":"shopping"
+		},
+		{
+			"body":"Please note that products made from natural raw materials are not only visually appealing, but also completely biodegradable.",
+			"category":"shopping"
+		},
+		{
+			"body":"When choosing clothes, pay attention not only to the fashion, but also to the material from which they were made. Not all the plants used to produce fabrics come from organic sources which limit the harmful impact of production on the environment.",
+			"category":"shopping"
+		},
+		{
+			"body":"Pay attention to the marks on packaging. They show how to handle it after use.",
+			"category":"shopping"
+		},
+		{
+			"body":"Use reusable bags - as long as possible. This way you will contribute to reduce waste as well as materials and energy used to produce new ones. Also, remember about proper waste segregation and recycling.",
+			"category":"shopping"
+		},
+		{
+			"body":"When trying to be green, keep in mind it is important to make the purchased products serve as long as possible, so share them with others if you can.",
+			"category":"shopping"
+		},
+		{
+			"body":"Buy local products that do not require long distance transport. This way you will not only save the energy needed to transport them from abroad or from remote regions of the country but also support local businesses.",
+			"category":"shopping"
+		},
+		{
+			"body":"Choose wood from legal sources. You will help to protect forest areas. Many suppliers of construction materials sell legal and eco-friendly certified wood. When you buy wood, look for Forest Stewardship Council (FSC) and PROGRAMME FOR THE ENDORSEMENT OF FOREST CERTIFICATION SCHEMES (PEFC) certificates.",
+			"category":"shopping"
 		},
 		{
 			"body":"Use a power strip. You will cut off the power supply to all the connected electrical devices with one flick of the switch, reducing the power consumption.",
