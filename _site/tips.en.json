@@ -1,7 +1,71 @@
 {
-	"categories":["home","office",null],
+	"categories":["home","office","waste",null],
 	"tips":
 	[
+		{
+			"body":"Buy products with no additional packaging. Please note that the product itself may stand on a shelf on average for a few months, but its packaging has an expected service life counted in minutes after the purchase.",
+			"category":"waste"
+		},
+		{
+			"body":"Disposable products marked as "Compost Home" are suitable for home composting. Separate them from other waste and compost them as natural products.",
+			"category":"waste"
+		},
+		{
+			"body":"Consider using a garden composter. A good portion of what you throw in the trash can be used as compost.",
+			"category":"waste"
+		},
+		{
+			"body":"Support upcycling. Make use of waste materials or useless products and convert them into new materials or products, find new applications for them. By using the potential waste, you increase its value for the environment.",
+			"category":"waste"
+		},
+		{
+			"body":"Do not dispose of expired medicines, chemicals and other toxic waste by pouring them down the drain. They poison the bacteria that help purify wastewater and contribute to the deterioration of water quality and the environment.",
+			"category":"waste"
+		},
+		{
+			"body":"Residues of pesticides or insecticides pose a threat to human health. Check with local authorities to ensure where they should be disposed of safely for the environment.",
+			"category":"waste"
+		},
+		{
+			"body":"Dispose of cotton balls, cotton pads and make-up remover wipes in the trash - not in the toilet.",
+			"category":"waste"
+		},
+		{
+			"body":"Your household decisions are meaningful. If you segregate glass, aluminum cans, paper and batteries from regular waste, it will be easier to re-use them.",
+			"category":"waste"
+		},
+		{
+			"body":"If you want to get coffee "to go", bring your own mug. Think of the number of paper cups that can be saved this way.",
+			"category":"waste"
+		},
+		{
+			"body":"When segregating waste, try to keep them as clean as possible. Dirt reduces the quality of recyclables compared to the original materials.",
+			"category":"waste"
+		},
+		{
+			"body":"One overpackaged cream is not the end of the world, but the whole batch means tons of wasted natural resources and producing unnecessary waste.",
+			"category":"waste"
+		},
+		{
+			"body":"By recycling you support the creation of new jobs. The greater environmental awareness, the more likely the emergence of institutions involved in the processing of raw materials.",
+			"category":"waste"
+		},
+		{
+			"body":"Any toxic substances, such as paints, oils and greases, should be delivered to a local collection point. If there is no such a point in the area, let the paint dry completely by adding sawdust to it. Never pour such substances down the drain - they may interfere with the work of a wastewater treatment plant.",
+			"category":"waste"
+		},
+		{
+			"body":"Bring back your used batteries for recycling. You can take the battery to a service station or find out where the local authorities recommend to dispose of this type of waste.",
+			"category":"waste"
+		},
+		{
+			"body":"Some products, such as refrigerators and other electrical equipment, must be disposed of in a special way, only this way they won't pollute the environment. Contact a specialised company engaged in the disposal of electronic waste in your area. If the items still have some value, sell them over the Internet or donate them to others who may find them useful.",
+			"category":"waste"
+		},
+		{
+			"body":"Deliver medical waste to special collection points or leave them at the nearest pharmacy. If you dispose of them in the trash or sewage system, they will cause a serious threat to the environment.",
+			"category":"waste"
+		},
 		{
 			"body":"Use a power strip. You will cut off the power supply to all the connected electrical devices with one flick of the switch, reducing the power consumption.",
 			"category":"office"
