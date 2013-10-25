@@ -2,12 +2,21 @@
 	"signs":
 	[
 		{
+			"id":"3",
+			"count":"2",
+			"title":"Pętla Mobiusa",
+			"url":"http://www.cobro.org.pl/",
+			"class":"2",
+			"categories":["opakowania","ŻywnoŚĆ","kosmetyki","wyroby tekstylne","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Wskazuje na przydatność produktów lub ich opakowań do recyklingu. Wyrób lub opakowanie opatrzone tym znakiem mogą być przetworzone w nowy pełnowartościowy produkt. Pętla Mobiusa może dotyczyć samych wyrobów lub ich opakowań.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Recykling przyczynia się do zmniejszenia ilości odpadów, a także do oszczędzania surowców naturalnych.</p><br /><br /><p><strong>Co zrobić</strong></p><br /><br /><p>Ważne, aby taki produkt lub opakowanie zostały po zużyciu wysegregowane i wrzucone do odpowiedniego pojemnika na odpady.</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Jeśli wewnątrz znaku lub pod nim znajduje się liczba, wówczas informuje on, że dany wyrób lub opakowanie zawiera już w sobie materiał wtórny, który został poddany recyklingowi. Dzięki temu uniknięto konieczności wykorzystania pierwotnych surowców naturalnych i zmniejszono ilość odpadów. Liczba znajdująca się przy znaku określa procentową zawartość surowca wtórnego w materiale finalnym.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na różnych kategoriach produktów, w tym opakowaniach, wykonanych z materiałów nadających się do recyklingu.</p><br />"
+		},
+		{
 			"id":"2",
 			"count":"2",
 			"title":"Wrzuć do kosza, dbaj o czystość",
 			"url":"http://thetidyman.com/",
 			"class":"1",
-			"categories":["opakowania","żywność","kosmetyki","wyroby tekstylne","materiały budowlane","urządzenia elektryczne i elektroniczne","zabawki","odpady",null],
+			"categories":["opakowania","ŻywnoŚĆ","kosmetyki","wyroby tekstylne","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","odpady",null],
 			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Po wykorzystaniu produktu lub jego opakowania należy je wrzucić do stosownego pojemnika na odpady (najlepiej uprzednio wysegregowane) i nie zaśmiecać otoczenia ani środowiska naturalnego.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na wszystkich kategoriach produktów, w tym opakowaniach, a także na odpadach z nich powstałych.</p><br />"
 		},
 		{
