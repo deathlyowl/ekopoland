@@ -1,0 +1,56 @@
+---
+layout: nothing
+tags: storyEN
+author: Katarzyna Bujakiewicz
+title: Lola
+---
+“This is old” my daughter Susie said, shaking her head. 
+“It is” I nodded, “It is old. Her name is Lola.” 
+“Why do I need this old rag?” she asked, adding “You promised me new Pet Shops.” 
+“I thought that I already bought for you all of them that there are?” I replied, in accordance with the truth. I really thought so. For the cavalry of coloured, plastic ponies laying around in her room one could go on a nice vacation. 
+“All the time new ones are coming out” she asserted, unmoved. 
+Once again I showed her the doll, if it was the most valuable discovery in the world. The fact was that it was old and ugly as sin. But it belonged to her grandmother, and in contrast to the regiment of Pet Shops set on the cabinet, it had already been in this world for a few decades. 
+“It’s washed. The clothes are washed too. It’s almost as good as new” I said. 
+“I don’t need it” she replied, with the specific type of determination, which only a six year old could generate. 
+“Do you need all these things?” I asked, waving my hand around her room and the pile of strewn around toys, dolls, teddy bears, blocks and action figures, which of course had to be more than all her friends as well as books and plastic buckets. 
+Everyone buys their kids tonnes of toys. It’s normal. But it did not change the fact that Peter and I overdid it. 
+“Yes” she said and sat down on the floor, with a look on her face, like a true general who is about to defend his army to the last drop of blood. Now I realized that the conversation awaiting me is not going to be easy. I sat on the floor in front of her. I laid Lola next to me. I pulled out this eyesore after ten years of lying in the attic in the very middle of a strong debate. I felt stupid. 
+“Susie” I said to her, letting out a deep breath. It was hard for me, I had a dry throat. 
+“Yes” my daughter responded, confirming that she heard me, looking me deep in the eyes. 
+“Susie” I asked, “how many of these things are you really using?” 
+“All of them” she said, tightening her mouth. 
+“All? Some of these things we bought you some four years ago. Do you really want to say that the toys for two year olds are still the hit of the season?” 
+“Age does not matter” said my daughter. 
+I looked at the pile of toys in a plastic basket from Ikea in the corner of the room. There were quite a few of such baskets in my daughter’s room, and all of them were full to the brim. I went to it and began to rummage through it. My daughter very carefully watched my every move; not taking her eyes off me. One after another I took out monkeys, dolls, toy instruments, books for reading as well as various creatures of unknown species and colours. 
+I stopped at the soft material crocodile, filled with foam, with a fairly stupid, though pretentious look. 
+“What’s his name?” I asked Susie, waving the docile reptile before her eyes. 
+“Lester” she declared, after a moment of hesitation. I knew it was a lie. 
+“Lester” I nodded, “that’s strange. From what I remember, he was called Bob.” 
+“Well, maybe he is Bob” she replied, visibly nervous now. 
+“Susie” again I sat in front of her. “I found Bob a week ago squeezed under our bed. Judging by the amount of dust that covered him, he was lying there for a month.”
+“He got lost” stated Susie, explaining the situation very quickly. 
+I nodded. Without standing, I threw Lester in the plastic container across the room. 
+“Susie, I brought this doll not to tell you to play with it right now” I said, again lifting up Lola. “I understand that she is not really for showing off.”
+Lola really was not for showing off. Her plastic eyes were obviously cross-eyed. The wavy, gold hair looked more like the lush head of hair of an Italian tenor than a small child. The dress pattern was dangerously similar to a tablecloth in a roadside diner and the mouth formed a grimace that should resemble a smile, but in reality brought to mind a toothache. 
+“It looks terrible” said Susie. 
+“Well, you’re right, a little bit” I nodded. “But that’s not the point. The thing is that your grandmother had just a few dolls and teddy bears. And Lola was one of them.” 
+“When grandmother was small, there was no money. You said yourself.” 
+“Well, there was some, but Susie, it’s not about the money. The point is that toys need to be produced somewhere. In factories that pollute the environment. They consume gasoline. Then these toys are exported to countries where parents, like us, buy for kids, like you, tonnes of such toys. Most of these toys after half a year are totally unnecessary. Finally they land in the rubbish.” 
+“You want to throw my toys away?” On the face of my daughter appeared a red alarm. The crying was coming - inevitable, unstoppable, like a rainstorm. 
+“No, I don’t want to, God forbid” I replied. “I don’t want to throw them away.” But just think for a moment, do you really need to have so many Pet Shops, which in a moment you will not even play with. 
+“But I will play with them for two months” my daughter declared. 
+“That would be a record” I replied. 
+I got up, leaving Lola on the carpet. I looked at Susie. She sat motionless, with clenched lips, but it did not seem like she was about to cry. She rather looked like someone who thought intensively. 
+I was about to exit the room, leaving her with Lola, factories, Bob and all the bits and pieces. I knew that her clever, six year old mind will need a little time to deal with it. I was opening the door when she called to me: 
+“Mum.” 
+I turned around. 
+“Mummy, how many of these factories are there?” she asked. 
+“A lot. They are huge” I said. 
+“As big as Warsaw?” she asked. 
+“Yes, some are even bigger” I replied. 
+“And they really pollute the environment? Those factories? They poison trees and water?” 
+I nodded. Susie also nodded her head. We stood there for a moment, as if we were both trying to come to terms with the undeniable fact. Susie picked up Lola from the floor for a moment and then put her down again. 
+“Forty-two” she said. 
+“What do you mean forty-two?” as I wrinkled my eyebrows. My daughter sometimes could make me feel like in the film “The Shining”. 
+“Forty-two Pet Shops,” she declared, looking at the cabinet. “That should be enough.” 
+I smiled at her and she smiled back. Lola, lying on a carpet, had one eye on her and another on me, as if she wanted to make sure that we really worked things out. 
