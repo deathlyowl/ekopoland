@@ -1,0 +1,23 @@
+{
+	"signs":
+	[
+		{
+			"id":"2",
+			"count":"2",
+			"title":"Wrzuć do kosza, dbaj o czystość",
+			"url":"http://thetidyman.com/",
+			"class":"1",
+			"categories":["opakowania","żywność","kosmetyki","wyroby tekstylne","materiały budowlane","urządzenia elektryczne i elektroniczne","zabawki","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Po wykorzystaniu produktu lub jego opakowania należy je wrzucić do stosownego pojemnika na odpady (najlepiej uprzednio wysegregowane) i nie zaśmiecać otoczenia ani środowiska naturalnego.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na wszystkich kategoriach produktów, w tym opakowaniach, a także na odpadach z nich powstałych.</p><br />"
+		},
+		{
+			"id":"1",
+			"count":"2",
+			"title":"Zielony Punkt",
+			"url":"http://www.gruener-punkt.de/en/",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Producent wniósł wkład finansowy w budowę oraz funkcjonowanie systemu odzysku i recyklingu odpadów opakowaniowych w Polsce tworzonego przez Rekopol Organizacja Odzysku S.A. zgodnie z zasadami wynikającymi z przepisów prawa polskiego i Unii Europejskiej w sprawie opakowań i odpadów opakowaniowych.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Tego typu działania pomagają w utrzymaniu opakowań w obiegu zamkniętym oraz przerabianiu ich na surowiec wtórny.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na opakowaniach i odpadach opakowaniowych.</p><br />"
+		}
+	]
+}

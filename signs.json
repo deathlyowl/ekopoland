@@ -1,0 +1,17 @@
+---
+---
+{
+	"signs":
+	[
+		{% for sign in site.tags.sign %}{% if forloop.index != 1 %},
+		{% endif %}{
+			"id":"{{ sign.identifier }}",
+			"count":"{{ sign.count }}",
+			"title":"{{ sign.title }}",
+			"url":"{{ sign.visit }}",
+			"class":"{{ sign.class }}",
+			"categories":[{% for category in sign.categories %}"{{category}}",{% endfor %}null],
+			"body":"{{ sign.content | newline_to_br | strip_newlines }}"
+		}{% endfor %}
+	]
+}
