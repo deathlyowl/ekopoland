@@ -1,7 +1,55 @@
 {
-	"categories":["transport","air","current","garden","home","office","waste",null],
+	"categories":["transport","air","current","garden","home","office","waste","water",null],
 	"tips":
 	[
+		{
+			"body":"In summer, water your garden in the evening. This way you will reduce water loss due to evaporation and ensure better absorption of moisture.",
+			"category":"water"
+		},
+		{
+			"body":"Check out the weather forecast before watering your garden, it may be about to rain.",
+			"category":"water"
+		},
+		{
+			"body":"Rainwater is a great solution for watering your garden. Install a rain barrel at a downspout. Use it in your garden instead of drinking water from the tap.",
+			"category":"water"
+		},
+		{
+			"body":"Turn on the dishwasher when completely filled. This way you will use less water than while washing dishes by hand.",
+			"category":"water"
+		},
+		{
+			"body":"Install a tap aerator. This way you can reduce water consumption by up to 30% and the water stream will seem stronger.",
+			"category":"water"
+		},
+		{
+			"body":"Take a quick shower instead of a bath. During a bath on average you use as much water as during three five-minute showers.",
+			"category":"water"
+		},
+		{
+			"body":"Save money by saving water! Turn off the tap when brushing your teeth or shaving. This simple procedure will reduce fees and have a positive impact on the resources of drinking water.",
+			"category":"water"
+		},
+		{
+			"body":"Change the water heater setting - it does not have to be set at more than 60° C.",
+			"category":"water"
+		},
+		{
+			"body":"While on vacation and diving, do not touch coral reefs or tear off their sections as souvenirs. This way you will help protect the coast from the impact of waves and maintain a natural refuge for sea creatures.",
+			"category":"water"
+		},
+		{
+			"body":"Install a dual flush that enables to flush different levels of water or the one with a stop button. This way you can adjust water usage to your current needs and reduce its wastage.",
+			"category":"water"
+		},
+		{
+			"body":"Install water-saving nozzles on taps - this way you will effectively reduce water consumption.",
+			"category":"water"
+		},
+		{
+			"body":"Take care of any water leaks (taps, cisterns). A leaking or dripping tap burdens not only your budget but also the environment.",
+			"category":"water"
+		},
 		{
 			"body":"Buy products with no additional packaging. Please note that the product itself may stand on a shelf on average for a few months, but its packaging has an expected service life counted in minutes after the purchase.",
 			"category":"waste"
