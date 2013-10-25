@@ -1,5 +1,5 @@
 {
-	"categories":["air","garden","home","office","waste",null],
+	"categories":["air","current","garden","home","office","waste",null],
 	"tips":
 	[
 		{
@@ -253,6 +253,86 @@
 		{
 			"body":"Rainwater is a great solution for watering your garden. Install a rain barrel at a downspout. Use it in your garden instead of drinking water from the tap.",
 			"category":"garden"
+		},
+		{
+			"body":"An electric kettle is a real power eater! Boil only as much water as you need.",
+			"category":"current"
+		},
+		{
+			"body":"When buying new electronic equipment, choose energy efficient products - preferably labelled as A++, A+ or A. Also, look for products with the Energy Star label. Despite their higher price, you will save on electricity bills in the long run.",
+			"category":"current"
+		},
+		{
+			"body":"Charge your laptop and mobile phone as long as necessary. Do not leave the charger plugged in after use.",
+			"category":"current"
+		},
+		{
+			"body":"Use a power strip. You will cut off the power supply to all the connected electrical devices with one flick of the switch, reducing the power consumption.",
+			"category":"current"
+		},
+		{
+			"body":"Do not throw parts of vegetables in the trash. Put them in a backyard composter. Oxygen and microorganisms will convert them into a healthy compost.",
+			"category":"current"
+		},
+		{
+			"body":"Cover pots with lids during cooking, it will save a significant part of the energy needed to cook the food.",
+			"category":"current"
+		},
+		{
+			"body":"If possible, select a supplier of electricity that generates power also from renewable energy sources. This way you will show power suppliers that people want clean energy.",
+			"category":"current"
+		},
+		{
+			"body":"Reduce electricity consumption of your refrigerator. Do not place it near heat sources such as radiators, stoves or windows exposed to the south.",
+			"category":"current"
+		},
+		{
+			"body":"Use rechargeable accumulators instead of batteries. You will save money and reduce the number of waste batteries containing harmful substances in the environment.",
+			"category":"current"
+		},
+		{
+			"body":"Use energy-saving washing programs - it will reduce electricity consumption.",
+			"category":"current"
+		},
+		{
+			"body":"Do not place any furniture in front of radiators - it will increase effectiveness of their work.",
+			"category":"current"
+		},
+		{
+			"body":"During the heating season, air the rooms briefly and effectively. This way you will reduce the loss of energy used for heating.",
+			"category":"current"
+		},
+		{
+			"body":"Do not open doors or windows when air conditioning is on. Set a temperature that is about 5-7° C lower than the outdoor temperature. You will also avoid energy loss by taking care of the equipment maintenance.",
+			"category":"current"
+		},
+		{
+			"body":"Pay attention to the marks on packaging. One of "electronics" certificates is the Energy Star - awarded to energy-efficient household appliances, office and gardening materials.",
+			"category":"current"
+		},
+		{
+			"body":"Buy motion and twilight sensors - avoid situations where lights remain on unnecessarily.",
+			"category":"current"
+		},
+		{
+			"body":"Replace regular light bulbs with energy-saving ones. They consume less energy and have longer life span. Remember that you cannot dispose of such a bulb in the trash after use because it contains about 5 mg of mercury. It has to be delivered to one of the points from where it will be directed for further processing (point of selective collection of municipal waste, the so called gratowisko).",
+			"category":"current"
+		},
+		{
+			"body":"Turn on artificial lights only when it is needed and turn them off as soon as they become unnecessary. This will be beneficial for your health, wallet and the environment.",
+			"category":"current"
+		},
+		{
+			"body":"Natural daylight is better for your eyes than artificial light. Use it as much as possible for the benefit of your own health and the environment.",
+			"category":"current"
+		},
+		{
+			"body":"Choose energy-efficient household appliances & audio/video devices. This way you will reduce your own costs, but also help the environment in which you live.",
+			"category":"current"
+		},
+		{
+			"body":"Save energy by disconnecting electrical devices from the power source (do not leave them in stand-by mode). If left in stand-by mode, they waste energy.",
+			"category":"current"
 		},
 		{
 			"body":"Do you run a business and regularly send mail and parcels, also locally? Choose bicycle couriers. Bicycles easily avoid traffic jams so your package may be delivered quicker and you can contribute to the improvement of the air quality in the city.",
