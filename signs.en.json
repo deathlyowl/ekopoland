@@ -1,6 +1,7 @@
 ---
 ---
 {
+	"categories":[{% for category in site.categories%}{% for post in category[1] %}{% if post.tags contains 'signEN' %}"{{category[0]}}",{% break %}{% endif %}{% endfor %}{% endfor %}null],
 	"signs":
 	[
 		{% for sign in site.tags.signEN %}{% if forloop.index != 1 %},
