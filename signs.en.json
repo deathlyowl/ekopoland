@@ -12,7 +12,7 @@
 			"url":"{{ sign.visit }}",
 			"class":"{{ sign.class }}",
 			"categories":[{% for category in sign.categories %}"{{category}}",{% endfor %}null],
-			"body":"{{ sign.content | newline_to_br | strip_newlines }}"
+			"body":"{{ sign.content | newline_to_br | escape | strip_newlines }}"
 		}{% endfor %}
 	]
 }
