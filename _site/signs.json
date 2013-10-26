@@ -3,13 +3,229 @@
 	"signs":
 	[
 		{
+			"id":"125",
+			"count":"2",
+			"title":"Tekstylia Godne Zaufania, OEKO-TEX ® Standard 100plus",
+			"url":"https://www.oeko-tex.com/en/manufacturers/concept/oeko_tex_standard_100plus/oeko_tex_standard_100plus.xhtm",
+			"class":"3",
+			"categories":["wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Dany produkt spełnia połączone wymagania dwóch standardów OEKO-TEX® 100 i STEP (dawniej OEKO-TEX® 1000).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Wyroby tekstylne z tym znakiem nie zawierają prawnie zakazanych i szkodliwych dla zdrowia substancji oraz zostały wyprodukowane przy spełnieniu wymagań dotyczących gospodarki wodno-ściekowej i redukcji zanieczyszczeń emitowanych do atmosfery.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak można znaleźć na wyrobach włókienniczych i tekstyliach.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"124",
+			"count":"3",
+			"title":"Tekstylia Godne Zuafania, OEKO-TEX ® Standard 100",
+			"url":"https://www.oeko-tex.com/en/manufacturers/concept/oeko_tex_standard_100/oeko_tex_standard_100.xhtm",
+			"class":"2",
+			"categories":["wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt jest wolny od substancji szkodliwych w stężeniach mających negatywny wpływ na stan zdrowia człowieka.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak gwarantuje, że do wyprodukowania tego produktu nie użyto wielu substancji mogących mieć negatywny wpływ na środowisko oraz zdrowie człowieka, takich jak przykładowo: pestycydy, chlorofenole, formaldehyd, barwniki alergizujące, zabronione barwniki azowe oraz metale ciężkie.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak można znaleźć na wyrobach włókienniczych i tekstyliach.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"123",
+			"count":"1",
+			"title":"Zielony Żuraw (Green Crane)",
+			"url":"http://www.ecolabel.org.ua/",
+			"class":"3",
+			"categories":["wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany produktom o relatywnie mniejszym wpływie na środowisko w porównaniu do podobnych produktów w ciągu całego cyklu życia (od wydobycia i zbierania materiałów produktów po produkcję, dystrybucję, użytkowanie, konsumpcję, utylizację i recykling).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest wyrobom tekstylnym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"122",
+			"count":"1",
+			"title":"Global Organic Textile Standard (GOTS)",
+			"url":"http://www.global-standard.org/",
+			"class":"3",
+			"categories":["wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt spełnia rygorystyczne standardy światowego systemu GOTS. Standardy te obejmują procesy od pozyskania surowców, przez przędzenie, dzianie, tkanie, barwienie, aż do produkcji finalnej odzieży i tekstyliów domowych z organicznych włókien (np. ekologicznej bawełny i ekologicznej wełny).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Najważniejsze wymagania GOTS obejmują zakaz stosowania organizmów zmodyfikowanych genetycznie (GMO), wysoce niebezpiecznych substancji chemicznych (np. barwników azowych i formaldehydu) oraz pracy dzieci.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest produktom tekstylnym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"121",
+			"count":"2",
+			"title":"Ekologicky Šetrny Vyrobek, Ekologicky Šetrny Sluzba",
+			"url":"http://www.ekoznacka.cz",
+			"class":"3",
+			"categories":["materiaŁy budowlane","kosmetyki","urzĄdzenia elektryczne i elektroniczne","wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Jest to oficjalny znak ekologiczny funkcjonujący w ramach systemu ekoznakowania Republiki Czeskiej. Przyznaje się go produktom lub usługom wyróżniającym się wyraźnie niższym wpływem na środowisko w swej kategorii produktowej.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Przyznanie znaku danemu produktowi lub usłudze wiąże się ze spełnieniem kompleksowych kryteriów środowiskowych dotyczących różnych etapów cyklu życia.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest różnym kategoriom produktów, takim jak przykładowo: materiały budowlane, detergenty, kosmetyki, meble, sprzęt elektryczny i elektroniczny, materiały biurowe, usługi oraz wyroby tekstylne.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"120",
+			"count":"1",
+			"title":"EKOTEX",
+			"url":"HTTP://WWW.EKOTEX.COM.PL/",
+			"class":"2",
+			"categories":["wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt lniany opatrzony tym znakiem został wyprodukowany zgodnie z naturą, z poszanowaniem środowiska i z zachowaniem najwyższych wymogów ochrony środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Jest on niemodyfikowany genetycznie, a podczas produkcji stosowano zasadę pełnego wykorzystania surowców dostarczanych do firmy (produkcja bezodpadowa).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak stosowany jest dla wyrobów tekstylnych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"119",
+			"count":"1",
+			"title":"TÜV Rehinland Green Product",
+			"url":"http://www.tuv.com/en/corporate/business_customers/product_testing_3/general_tests_cw/green_product_mark/green_mark.html",
+			"class":"3",
+			"categories":["urzĄdzenia elektryczne i elektroniczne","opakowania","zabawki","wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znakiem opatrzone są produkty o zweryfikowanej ekologiczności, które zostały wyprodukowane w zrównoważony dla środowiska sposób, są efektywne energetycznie oraz posiadają oznaczony ślad węglowy. Inspektorzy weryfikujący te produkty biorą pod uwagę następujące czynniki: unikanie niebezpiecznych chemikaliów, możliwość poddania recyklingowi oraz użycie surowców pochodzących z recyklingu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest różnym kategoriom produktów, przykładowo: urządzeniom elektrycznym i elektronicznym, meblom, obuwiu, sprzętowi rekreacyjnemu i sportowemu oraz urządzeniom peryferyjnym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"118",
+			"count":"1",
+			"title":"UL ENVIROMENT’S ECOLOGO",
+			"url":"http://www.ul.com/global/eng/pages/",
+			"class":"3",
+			"categories":["zabawki","urzĄdzenia elektryczne i elektroniczne","materiaŁy budowlane","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak wskazuje, że produkt przeszedł rygorystyczne testy zgodności ze standardami jakości środowiskowej oparte na kryteriach środowiskowych dotyczących całego cyklu życia produktu i takich aspektów jak energochłonność, emisyjność, zawartość surowców wtórnych itp.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest różnym kategoriom produktów, przykładowo: zabawkom, urządzeniom elektronicznym i elektrycznym, środkom czystości, materiałom budowlanym oraz materiałom wyposażeniowym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"117",
+			"count":"1",
+			"title":"Znak Ekologiczny EKO",
+			"url":"http://www.pcbc.gov.pl/",
+			"class":"3",
+			"categories":["zabawki","wyroby tekstylne","materiaŁy budowlane","kosmetyki","urzĄdzenia elektryczne i elektroniczne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Jeden z trzech znaków zastrzeżonych na rzecz PCBC S.A. przyznawanych produktom i usługom krajowym lub zagranicznym, które nie powodują negatywnych skutków dla środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkty i usługi opatrzone tym znakiem spełniają ustalone kryteria dotyczące ochrony zdrowia, środowiska i ekonomicznego wykorzystania zasobów naturalnych w trakcie całego cyklu życia wyrobu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak umieszcza się na samym produkcie lub jego opakowaniu. Obejmuje takie kategorie produktów jak: zabawki, wyroby tekstylne, materiały budowlane, kosmetyki oraz urządzenia elektryczne i elektroniczne.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"116",
+			"count":"1",
+			"title":"Zgodność Europejska",
+			"url":"http://www.ce-polska.pl/",
+			"class":"1",
+			"categories":["opakowania","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak potwierdza, że produkt spełnia wymagania tzw. dyrektyw nowego podejścia, czyli nie zagraża zdrowiu i bezpieczeństwu użytkownika oraz jest bezpieczny dla środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak umieszcza się na produkcie, opakowaniu lub w dokumentacji technicznej.&lt;br /&gt;Przyznawany jest różnym kategoriom produktów, do których należą: zabawki, urządzenia elektryczne i elektroniczne, materiały budowlane, wyroby medyczne, maszyny, instrumenty pomiarowe, materiały wybuchowe do użytku cywilnego oraz pirotechniczne, środki transportu wodnego, środki ochrony indywidualnej, wyroby ciśnieniowe, produkty ATEX, windy.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
 			"id":"115",
 			"count":"1",
-			"title":"Agriculture Biologique (AB)",
-			"url":"http://www.agencebio.org/",
+			"title":"Znak e",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:247:0017:0020:PL:PDF",
+			"class":"1",
+			"categories":["opakowania","ŻywnoŚĆ","kosmetyki","wyroby tekstylne","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Producent danego produktu skorzystał z uznaniowego standardowego systemu kontroli wagi lub objętości na etapie produkcyjnym.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Obecność znaku na opakowaniu informuje konsumenta, że faktyczna masa lub objętość zapakowanego produktu jest zgodna z wartością deklarowaną na opakowaniu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak dotyczy samych produktów, jednak umieszczany jest na opakowaniu.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"114",
+			"count":"1",
+			"title":"Znak Bezpieczeństwa B PCBC",
+			"url":"http://www.pcbc.gov.pl/",
+			"class":"1",
+			"categories":["materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak bezpieczeństwa przyznawany przez Polskie Centrum Badań i Certyfikacji oznacza, że dany wyrób nie stanowi zagrożenia dla życia ani zdrowia. Jest przyjazny dla środowiska pod warunkiem, że stosuje się go zgodnie z warunkami użytkowania określonymi przez wytwórcę (producenta), np. w instrukcji obsługi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak dotyczy kategorii produktów, które stanowić mogą jakiekolwiek zagrożenie. Umieszcza się go na samym produkcie, jego opakowaniu lub w dokumentacji technicznej.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"113",
+			"count":"1",
+			"title":"Znak Bezpieczeństwa B",
+			"url":"http://www.znak-b.pl/Certyfikacja.htm",
+			"class":"1",
+			"categories":["materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Gwarancja, spełnienia przez wyrób wymagań bezpieczeństwa oraz kryteriów technicznych określonych w odnoszących się do niego normach krajowych i międzynarodowych.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest przez niezależne uprawnione jednostki i potwierdza, że dany produkt, jeśli jest używany zgodnie z zasadami określonymi przez producenta, np. w instrukcji obsługi, nie stanowi zagrożenia dla życia, zdrowia, mienia i środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten dotyczy wielu różnych kategorii produktów, które stanowić mogą jakiekolwiek zagrożenie. Umieszcza się go na samym produkcie, jego opakowaniu lub w dokumentacji technicznej.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"112",
+			"count":"1",
+			"title":"UN",
+			"url":"WWW.COBRO.ORG.PL",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak UN został wprowadzony przez ONZ (Komitet Ekspertów Europejskiej Komisji Gospodarczej) dla transportu towarów niebezpiecznych, zgodnie z umową europejską o przewozie drogowym towarów niebezpiecznych (ADR). Pakowany towar zaliczany jest do jednej z 13 klas zagrożeń i otrzymuje czterocyfrowy numer UN (ONZ), który pojawia się przy znaku. Numer ten odpowiada niebezpiecznym właściwościom towaru i na jego podstawie dobiera się właściwy sposób przewozu, odpowiednie opakowanie i procedury postępowania gwarantujące bezpieczeństwo w normalnych warunkach transportu drogowego.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak gwarantuje, że opakowanie zostało dopasowane do niebezpiecznych właściwości zapakowanego towaru i stanowi jego bezpieczne zabezpieczenie.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten można znaleźć na opakowaniach towarów niebezpiecznych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"111",
+			"count":"5",
+			"title":"FSC (Forest Stewardship Council)",
+			"url":"www.pl.fsc.org",
+			"class":"1",
+			"categories":["opakowania","zabawki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Drewno lub papier użyty do wyrobu produktu pochodzi z lasów certyfikowanych w systemie FSC. Znak potwierdza legalność pochodzenia surowca.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Certyfikat FSC® jest gwarancją, że został wykorzystany surowiec wytworzony zgodnie z zasadami odpowiedzialnego leśnictwa, prowadzonego w taki sposób, aby równoważyć przyrodnicze, społeczne i ekonomiczne aspekty gospodarki leśnej przy poszanowaniu praw obecnego pokolenia do korzystania z zasobów leśnych, oraz mając na względzie potrzeby przyszłych generacji.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest produktom zawierających surowce leśne, przykładowo: opakowaniom, zabawkom, papierowym materiałom biurowym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"110",
+			"count":"2",
+			"title":"Program Zatwierdzenia Systemów Certyfikacji Leśnej",
+			"url":"http://www.pefc-polska.pl/",
+			"class":"3",
+			"categories":["zabawki","opakowania","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt wyprodukowany z certyfikowanego surowca leśnego pochodzącego z lasów zarządzanych zgodnie z zasadami zrównoważonego leśnictwa, według ekologicznych, społecznych i ekonomicznych standardów PEFC.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;PEFC tworzy mechanizm, który potwierdza, że zarządzający zasobami leśnymi oraz nabywcy drewna i wyrobów z papieru promują zrównoważoną gospodarkę leśną.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;PEFC (Programme for the Endorsement of Forest Certification schemes) jest ogólnoświatową organizacją powołaną do oceny i wzajemnego uznawania krajowych systemów certyfikacji gospodarki leśnej, produktów leśnych i wyrobów z papieru.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest produktom zawierającym surowce leśne, przykładowo: opakowaniom, zabawkom, papierowym materiałom biurowym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"109",
+			"count":"2",
+			"title":"Gwarantowana Tradycyjna Specjalność",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:343:0001:0029:pl:PDF",
+			"class":"1",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak oznacza produkt lub środek spożywczy, którego skład, sposób produkcji lub przetwarzania odpowiadają tradycyjnej praktyce w odniesieniu do tego produktu lub który został wytworzony z tradycyjnie stosowanych surowców lub składników.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Kupno tego produktu wspiera tradycyjne metody produkcji i przetwórstwa żywności.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest produktom żywnościowym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"108",
+			"count":"2",
+			"title":"Chroniona nazwa pochodzenia",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:343:0001:0029:pl:PDF",
+			"class":"1",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak związany z nazwą regionu, konkretnego miejsca lub kraju – używaną do opisu produktu rolnego lub artykułu spożywczego. Cały proces technologiczny, czyli produkcja, przetwarzanie i przygotowywanie, odbywa się na tym określonym obszarze geograficznym.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Jakość produktu lub jego cechy charakterystyczne powinny być głównie lub wyłącznie związane z tym szczególnym otoczeniem geograficznym i właściwymi dla niego czynnikami naturalnymi oraz ludzkimi. Zakup tego produktu wspiera działalność produkcyjną i przetwórczą żywności na konkretnym obszarze geograficznym.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest produktom żywnościowym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"107",
+			"count":"2",
+			"title":"Chronione oznaeczenie geograficzne",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:343:0001:0029:pl:PDF",
+			"class":"1",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak związany z nazwą regionu, konkretnego miejsca lub w wyjątkowych przypadkach kraju – używaną do opisu produktu rolnego lub artykułu spożywczego, który pochodzi z tego regionu, miejsca lub kraju.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt ten posiada szczególną, specyficzną jakość, reputację, cieszy się uznaniem lub też posiada inne cechy przypisywane pochodzeniu geograficznemu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na wskazanym obszarze może odbywać się jeden z trzech procesów: produkcja, przetwarzanie lub też przygotowywanie produktu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest produktom żywnościowym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"106",
+			"count":"1",
+			"title":"Naturland",
+			"url":"http://www.naturland.de/",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","wyroby tekstylne","kosmetyki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Rolnicy oraz przetwórcy zrzeszeni i działający globalnie w ramach organizacji Naturland wytwarzają wartościową żywność oraz produkty oparte na surowcach rolnych zgodnie ze standardami Naturland dotyczącymi rolnictwa ekologicznego.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt został wytworzony przede wszystkim bez użycia nawozów sztucznych oraz chemicznych środków ochrony roślin. Produkty oznakowane NATURLAND są przyjazne dla środowiska i przyczyniają się do ochrony miejsc pracy.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest głównie żywności, ale może być także obecny na kosmetykach i wyrobach tekstylnych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"105",
+			"count":"2",
+			"title":"Demeter",
+			"url":"http://www.demeter.de/",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt rolnictwa biodynamicznego.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt wytworzony:&lt;/p&gt;&lt;br /&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;• bez nawozów sztucznych i chemicznych środków ochrony roślin&lt;br /&gt;• przy wykorzystaniu intensyfikacji biologicznej.&lt;br /&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest głównie żywności, ale może być także obecny na wyrobach tekstylnych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"104",
+			"count":"2",
+			"title":"Bioland",
+			"url":"http://www.bioland.de/bioland/bioland.html",
 			"class":"3",
 			"categories":["ŻywnoŚĆ","odpady",null],
-			"body":"&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt opatrzony tym znakiem zawiera co najmniej w 95% składniki organiczne wyprodukowane na terenie Unii Europejskiej zgodne z przepisami prawnymi dotyczącymi rolnictwa ekologicznego.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest produktom żywnościowym.&lt;/p&gt;&lt;br /&gt;"
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt nowoczesnej ekologicznej produkcji rolnej.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt został wyprodukowany:&lt;/p&gt;&lt;br /&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;• bez pestycydów i nawozów sztucznych&lt;br /&gt;• zgodnie z zasadami ekologicznej hodowli zwierząt oraz przetwórstwa żywności.&lt;br /&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Rolnicy oraz przetwórcy certyfikowani w ramach systemu BIOLAND działają w harmonii z naturą, wspierając bioróżnorodność i chroniąc środowisko oraz klimat.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest żywności.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"103",
+			"count":"1",
+			"title":"BCS ÖKO-GARANTIE",
+			"url":"http://www.bcs-oeko.com/",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt jest wysokiej jakości i został wytworzony bez użycia syntetycznych nawozów mineralnych i środków ochrony roślin oraz przy zachowaniu różnorodności biologicznej i zapewnieniu odpowiednich warunków życia zwierząt hodowlanych.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest żywności.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"102",
+			"count":"1",
+			"title":"Association Of Latavian Organic Agriculture - ALOA",
+			"url":"http://www.lbla.lv/LV/aktualitates",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt jest wysokiej jakości i został wytworzony zgodnie z zasadami rolnictwa ekologicznego.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Wytworzenie tego produktu odbyło się bez użycia syntetycznych nawozów mineralnych i środków ochrony roślin oraz przy zachowaniu różnorodności biologicznej i zapewnieniu odpowiednich warunków życia zwierząt hodowlanych.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest żywności.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"101",
+			"count":"1",
+			"title":"AIAB",
+			"url":"http://www.aiab.it/",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Dany produkt został wytworzony zgodnie z zasadami zrównoważonego rozwoju i rolnictwa ekologicznego.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Wytworzenie tego produktu odbyło się bez użycia syntetycznych nawozów mineralnych i środków ochrony roślin oraz przy zachowaniu różnorodności biologicznej i zapewnieniu odpowiednich warunków życia zwierząt hodowlanych.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest żywności.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
 			"id":"100",
@@ -64,6 +280,15 @@
 			"class":"3",
 			"categories":["ŻywnoŚĆ","wyroby tekstylne","kosmetyki","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt opatrzony znakiem:&lt;/p&gt;&lt;br /&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;• jest wolny od wszelkich szkodliwych substancji chemicznych stosowanych w rolnictwie konwencjonalnym&lt;br /&gt;• został wyprodukowany zgodnie z kryteriami rolnictwa ekologicznego, tj. z zachowaniem bioróżnorodności, z dbałością o dobrostan zwierząt oraz bez stosowania nawozów mineralnych.&lt;br /&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak stosowany jest w odniesieniu do produktów żywnościowych oraz takich, które zawierają składniki pochodzenia rolnego, np. wyrobów tekstylnych, kosmetyków.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"95w",
+			"count":"1",
+			"title":"Agriculture Biologique (AB)",
+			"url":"http://www.agencebio.org/",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt opatrzony tym znakiem zawiera co najmniej w 95% składniki organiczne wyprodukowane na terenie Unii Europejskiej zgodne z przepisami prawnymi dotyczącymi rolnictwa ekologicznego.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest produktom żywnościowym.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
 			"id":"93",
