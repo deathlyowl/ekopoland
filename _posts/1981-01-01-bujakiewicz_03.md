@@ -2,7 +2,7 @@
 layout: nothing
 tags: storyEN
 author: Katarzyna Bujakiewicz
-title: “Attention! We’re drowning”
+title: “Attention We’re drowning”
 ---
 I’m lying in the sun. More like I’m melting. Very nice. If that is what a sausage on the grill feels, then sitting with a bare bottom on a grate wouldn’t be a great tragedy. Only what for this prison pattern? It’s like sunbathing through the bars of my own cell, and there’s not much more to say about it. 
 
