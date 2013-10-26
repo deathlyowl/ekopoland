@@ -9,7 +9,7 @@
 			"author":"{{ story.author }}",
 			"title":"{{ story.title }}",
 			"youtube":"{{ story.youtube }}",
-			"body":"{{ story.content | newline_to_br | strip_newlines }}"
+			"body":"{{ story.content | strip_html | strip_newlines }}"
 		}{% endfor %}
 	]
 }
