@@ -2,7 +2,7 @@
 layout: nothing
 tags: story
 author: Katarzyna Bujakiewicz
-title: „Uwaga Topimy się”
+title: Uwaga Topimy się
 ---
 Leżę sobie w słońcu. Wytapiam się właściwe. Miło. Jeśli tak właśnie czuje się kiełbasa na grillu, to usiąść gołym tyłkiem na raszkach nie byłoby wielką tragedią. Tylko po co ten więzienny wzorek? Jakbym opalała się przez kraty własnej celi, mówiąc w czterech literach państwu, co o nim myślę. 
 
