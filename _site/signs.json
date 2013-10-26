@@ -3,6 +3,366 @@
 	"signs":
 	[
 		{
+			"id":"186",
+			"count":"4",
+			"title":"Cosmos Natural",
+			"url":"http://www.cosmos-standard.org/",
+			"class":"3",
+			"categories":["kosmetyki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt spełnia wymagania europejskiego standardu COSMOS w zakresie kosmetyków naturalnych, opracowanego przez pięć organizacji nadających etykiety środowiskowe produktom kosmetycznym: BDIH z Niemiec, Cosmebio oraz Ecocert z Francji, ICEA z Włoch oraz Soil Association z Wielkiej Brytanii.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt opatrzony tym znakiem zawiera nie więcej niż 5% substancji syntetycznych, a pozostałe składniki oparte są na surowcach naturalnych. Produkt oprócz składników naturalnych może zawierać także składniki pochodzenia rolniczego wyprodukowane metodami ekologicznymi (zgodnie z zasadami rolnictwa ekologicznego) w ilości wskazanej w opisie na opakowaniu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak można znaleźć na kosmetykach i na odpadach opakowaniowych powstałych po ich wykorzystaniu.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"185",
+			"count":"5",
+			"title":"Cosmos Organic",
+			"url":"http://www.cosmos-standard.org/",
+			"class":"3",
+			"categories":["kosmetyki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt spełnia wymagania europejskiego standardu COSMOS w zakresie kosmetyków organicznych (ekologicznych), opracowanego przez pięć organizacji nadających etykiety środowiskowe produktom kosmetycznym: BDIH z Niemiec, Cosmebio oraz Ecocert z Francji, ICEA z Włoch oraz Soil Association z Wielkiej Brytanii.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W produkcie tym co najmniej 95% składników pochodzenia rolniczego poddanych obróbce fizycznej (a co najmniej 20% wszystkich składników) wyprodukowano zgodnie z zasadami rolnictwa ekologicznego, co oznacza, że do ich wytworzenia nie stosowano nawozów mineralnych, środków ochrony roślin, dbano o żyzność gleby oraz dobrostan zwierząt. Ponadto opakowanie zostało zaprojektowane z troską o środowisko.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak można znaleźć na kosmetykach i na odpadach opakowaniowych powstałych po ich wykorzystaniu.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"184",
+			"count":"1",
+			"title":"Ecocert Natural Cosmetic",
+			"url":"http://www.ecocert.com/",
+			"class":"3",
+			"categories":["kosmetyki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt zawiera surowce pozyskane tylko od żywych zwierząt. Nie był testowany na zwierzętach. Jako konserwantów użyto związków bazujących wyłącznie na wybranych i nieszkodliwych substancjach. Minimum połowa składników produktu pochodzenia rolniczego jest produktami rolnictwa ekologicznego.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W produkcie opatrzonym tym znakiem co najmniej 5% wszystkich surowców i przynajmniej 50% surowców pochodzenia rolniczego wytworzono w certyfikowanych gospodarstwach ekologicznych przy zachowaniu standardów rolnictwa ekologicznego (np. niestosowanie mineralnych nawozów sztucznych, środków ochrony roślin, dbałość o żyzność gleby i dobrostan zwierząt).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak można znaleźć na kosmetykach i na odpadach opakowaniowych powstałych po ich wykorzystaniu.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"183",
+			"count":"1",
+			"title":"Ecocert Organic Cosmetic",
+			"url":"http://www.ecocert.com/",
+			"class":"3",
+			"categories":["kosmetyki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt zawiera surowce pozyskane tylko od żywych zwierząt. Nie był testowany na zwierzętach. Jako konserwantów użyto związków bazujących wyłącznie na wybranych i nieszkodliwych substancjach. Niemal wszystkie składniki produktu pochodzenia rolniczego są produktami rolnictwa ekologicznego.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W produkcie opatrzonym tym znakiem co najmniej 10% wszystkich surowców i przynajmniej 95% surowców pochodzenia rolniczego wytworzono w certyfikowanych gospodarstwach ekologicznych przy zachowaniu standardów rolnictwa ekologicznego (np. niestosowanie mineralnych nawozów sztucznych, środków ochrony roślin, dbałość o żyzność gleby i dobrostan zwierząt).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak można znaleźć na kosmetykach i na odpadach opakowaniowych powstałych po ich wykorzystaniu.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"182",
+			"count":"1",
+			"title":"PAO (Period After Opening)",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:13:31:32003L0080:PL:PDF",
+			"class":"1",
+			"categories":["kosmetyki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak informuje o trwałości produktów kosmetycznych. Wewnątrz znaku zapisana jest liczba miesięcy M (months) lub lat Y (years), w ciągu których kosmetyk jest przydatny do użycia, licząc od jego pierwszego otwarcia. Przykładowo 3M oznacza, że kosmetyk jest zdatny do użycia w okresie 3 miesięcy od pierwszego otwarcia.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak pozwala na racjonalne użytkowanie kosmetyków i unikanie ryzyka ich przeterminowania, a więc tworzenia niepotrzebnych odpadów. Ponadto zmniejsza ryzyko wystąpienia problemów zdrowotnych z powodu zaaplikowania kosmetyku nienadającego się już do użycia.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak można znaleźć na kosmetykach, ale także na odpadach powstałych po wykorzystaniu tych produktów.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"181",
+			"count":"2",
+			"title":"Goodweave",
+			"url":"http://www.goodweave.org",
+			"class":"1",
+			"categories":["opakowania","ŻywnoŚĆ","kosmetyki","wyroby tekstylne","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak informuje, że produkt został wytworzony bez wykorzystania pracy dzieci.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak może być przyznany dowolnym produktom. Przykładowo: opakowaniom, żywności, kosmetykom, wyrobom tekstylnym, materiałom budowlanym, urządzeniom elektrycznym i elektronicznym oraz zabawkom.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"180",
+			"count":"1",
+			"title":"PCT (Certyfikacja Dobrowolna)",
+			"url":"http://bureaukb.pl/certyfikat-gost-r-certyfikacja-dobrowolna",
+			"class":"1",
+			"categories":["opakowania","ŻywnoŚĆ","kosmetyki","wyroby tekstylne","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt przeszedł pomyślnie badania i spełnia normy techniczne oraz standardy jakości i bezpieczeństwa zapisane w normach GOST. Dobrowolny certyfikat GOST R nie zastępuje certyfikatu obowiązkowego GOST R.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak PCT stanowi potwierdzenie uzyskania przez producenta danego wyrobu dobrowolnego certyfikatu zgodności z normami GOST. Normy GOST to dokumenty obowiązujące na terenie Federacji Rosyjskiej ustanowione przez Federalną Agencję Regulacji Technicznych i Metrologii ROSSTANDART.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak PCT certyfikacji dobrowolnej może być przyznany dowolnym produktom, jednak nie może on zastępować obowiązkowego certyfikatu GOST R. Znak ten może znajdować się także na odpadach powstałych po wykorzystaniu produktów podlegających certyfikacji.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"179",
+			"count":"1",
+			"title":"PCT (Certyfikacja Obowiązkowa)",
+			"url":"http://bureaukb.pl/certyfikat-zgodnosci-gost-r-obowiazkowy",
+			"class":"1",
+			"categories":["ŻywnoŚĆ","kosmetyki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt przeszedł pomyślnie badania i spełnia normy techniczne oraz standardy jakości i bezpieczeństwa zapisane w normach GOST. Certyfikat GOST R jest obowiązkowo wymagany między innymi przez rosyjskie służby celne przy wwozie towarów na terytorium Federacji Rosyjskiej.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak PCT certyfikacji obowiązkowej stanowi potwierdzenie uzyskania przez producenta danego wyrobu certyfikatu zgodności z normami GOST. Znak ten obowiązuje w odniesieniu do certyfikatów wydanych od 27 grudnia 2010 roku. Normy GOST to dokumenty obowiązujące na terenie Federacji Rosyjskiej ustanowione przez Federalną Agencję Regulacji Technicznych i Metrologii ROSSTANDART.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak PCT certyfikacji obowiązkowej obejmuje wybrane grupy produktów. Można go znaleźć m.in. na napojach, żywności specjalizowanej, dodatkach do żywności, kosmetykach, chemii gospodarczej, środkach ochrony roślin, produktach higienicznych oraz wybranych produktach przeznaczonych do kontaktu z żywnością. Znak ten może znajdować się także na odpadach powstałych po wykorzystaniu produktów podlegających certyfikacji.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"178",
+			"count":"1",
+			"title":"PCT (Certyfikacja Obowiązkowa)",
+			"url":"http://bureaukb.pl/certyfikat-zgodnosci-gost-r-obowiazkowy",
+			"class":"1",
+			"categories":["ŻywnoŚĆ","kosmetyki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt przeszedł pomyślnie badania i spełnia normy techniczne oraz standardy jakości i bezpieczeństwa zapisane w normach GOST. Certyfikat GOST R jest obowiązkowo wymagany między innymi przez rosyjskie służby celne przy wwozie towarów na terytorium Federacji Rosyjskiej.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak stanowi potwierdzenie uzyskania przez producenta danego wyrobu certyfikatu zgodności z normami GOST. Znak ten obowiązuje w odniesieniu do certyfikatów wydanych do 27 grudnia 2010 roku. Normy GOST to dokumenty obowiązujące na terenie Federacji Rosyjskiej ustanowione przez Federalną Agencję Regulacji Technicznych i Metrologii ROSSTANDART.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak PCT certyfikacji obowiązkowej obejmuje wybrane grupy produktów. Można go znaleźć m.in. na napojach, żywności specjalizowanej, dodatkach do żywności, kosmetykach, chemii gospodarczej, środkach ochrony roślin, produktach higienicznych oraz wybranych produktach przeznaczonych do kontaktu z żywnością. Znak ten może znajdować się także na odpadach powstałych po wykorzystaniu produktów podlegających certyfikacji.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"177",
+			"count":"1",
+			"title":"Rainforest Aliance Verified Mark",
+			"url":"http://www.rainforest-alliance.org/certification-verification",
+			"class":"1",
+			"categories":["opakowania","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt został wytworzony zgodnie ze standardami organizacji Rainforest Alliance.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak potwierdza legalność pochodzenia surowca drzewnego i gwarantuje, że dany produkt nie zawiera surowców pochodzących z nielegalnej wycinki drzew.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest produktom leśnym (surowiec drzewny) i produktom opartym na surowcu drzewnym, np. opakowaniom drewnianym, meblom, produktom tartacznym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"176",
+			"count":"1",
+			"title":"Carbon Neutral Product",
+			"url":"http://www.carbonneutral.com/",
+			"class":"3",
+			"categories":["materiaŁy budowlane","kosmetyki","urzĄdzenia elektryczne i elektroniczne","opakowania","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest przez organizację CARBON NEUTRAL i stanowi potwierdzenie, że dany produkt spełnia standardy zapisane w dokumencie The CarbonNeutral Protocol. Oznacza to, że produkt wykazuje neutralny bilans węglowy i jest przyjazny dla środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt nie przyczynia się do emisji gazów cieplarnianych, uznawanych za główne źródło globalnego ocieplenia.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest różnym kategoriom produktów, do których zaliczyć można przykładowo: wyroby budowlane, kosmetyki, sprzęt elektryczny i elektroniczny, opakowania.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"175",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten informuje, że opakowanie wyprodukowano z polimeru o nazwie polistyren (RPS) – numer 5 lub 05 pochodzącego z recyklingu (tzw. recyklat).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z surowca wtórnego, unikając w ten sposób konieczności wykorzystania pierwotnych zasobów środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowania opatrzone tym znakiem należy po wykorzystaniu wrzucać do pojemników na odpady oznaczonych napisami TWORZYWA SZTUCZNE lub PLASTIK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"174",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten informuje, że opakowanie wyprodukowano z polimeru o nazwie polipropylen (RPP) – numer 5 lub 05 pochodzącego z recyklingu (tzw. recyklat).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z surowca wtórnego, unikając w ten sposób konieczności wykorzystania pierwotnych zasobów środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowania opatrzone tym znakiem należy po wykorzystaniu wrzucać do pojemników na odpady oznaczonych napisami TWORZYWA SZTUCZNE lub PLASTIK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"173",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten informuje, że opakowanie wyprodukowano z polimeru o nazwie polietylen o małej gęstości (RLDPE, RPE-LD) – numer 4 lub 04 pochodzącego z recyklingu (tzw. recyklat).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z surowca wtórnego, unikając w ten sposób konieczności wykorzystania pierwotnych zasobów środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowania opatrzone tym znakiem należy po wykorzystaniu wrzucać do pojemników na odpady oznaczonych napisami TWORZYWA SZTUCZNE lub PLASTIK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"172",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten informuje, że opakowanie wyprodukowano z polimeru o nazwie polichlorek winylu (RPVC lub RV) – numer 3 lub 03 pochodzącego z recyklingu (tzw. recyklat).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z surowca wtórnego, unikając w ten sposób konieczności wykorzystania pierwotnych zasobów środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowania opatrzone tym znakiem należy po wykorzystaniu wrzucać do pojemników na odpady oznaczonych napisami TWORZYWA SZTUCZNE lub PLASTIK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"171",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten informuje, że opakowanie wyprodukowano z polimeru o nazwie wysokogęstościowy polietylen (RHDPE, RHD-PE, RPE-HD) - numer 2 lub 02 pochodzącego z recyklingu (tzw. recyklat).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z surowca wtórnego, unikając w ten sposób konieczności wykorzystania pierwotnych zasobów środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowania opatrzone tym znakiem należy po wykorzystaniu wrzucać do pojemników na odpady oznaczonych napisami TWORZYWA SZTUCZNE lub PLASTIK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"170",
+			"count":"1",
+			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z polimeru o nazwie politereftalan etylenu (RPET, RPETE, RPETP, RPET-P) – numer 1 lub 01 pochodzącego z recyklingu (tzw. recyklat).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z surowca wtórnego, unikając w ten sposób konieczności wykorzystania pierwotnych zasobów środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowania opatrzone tym znakiem należy po wykorzystaniu wrzucać do pojemników na odpady oznaczonych napisami TWORZYWA SZTUCZNE lub PLASTIK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"149",
+			"count":"2",
+			"title":"LUOMU",
+			"url":"http://www.evira.fi",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt opatrzony znakiem spełnił kryteria ekologiczne certyfikacji produktów prowadzonej przez fińskie Ministerstwo Rolnictwa i Leśnictwa.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt opatrzony tym znakiem został wytworzony w sposób przyjazny dla środowiska, bez użycia nawozów mineralnych, z zachowaniem naturalnego obiegu substancji w przyrodzie i przy zachowaniu dobrostanu roślin i zwierząt.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest produktom żywnościowym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"148",
+			"count":"1",
+			"title":"OK Compost Water",
+			"url":"http://www.okcompost.be/en/home/",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkty/opakowania opatrzone tym znakiem są zdatne do rozkładu pod wpływem działania organizmów żywych (np. mikroorganizmów) w wodach słodkich.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt/opakowanie przyczynia się do zmniejszenia ilości odpadów w rzekach, jeziorach i innych rodzajach wód słodkich.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Nie oznacza to, że produkt lub opakowanie są zdatne do rozkładu w wodzie morskiej.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Certyfikat&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak stanowi potwierdzenie uzyskania certyfikatu AIB-VINÇOTTE GROUP.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"147",
+			"count":"1",
+			"title":"OK Biobased",
+			"url":"http://www.okcompost.be/en/home/",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak stanowi potwierdzenie obecności naturalnych surowców odnawialnych w finalnym produkcie lub jego opakowaniu. W zależności od wielkości zawartości surowców naturalnych na znaku mogą znajdować się różne liczby gwiazdek (* = 20-40% surowców odnawialnych, ** = 40-60%, *** = 60-80%, **** = powyżej 80%).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Wykorzystywanie surowców odnawialnych jest korzystne, bowiem zmniejsza zapotrzebowanie na nieodnawialne zasoby środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Certyfikat&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak stanowi potwierdzenie uzyskania certyfikatu AIB-VINÇOTTE GROUP&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"146",
+			"count":"1",
+			"title":"OK Compost Home",
+			"url":"http://www.okcompost.be/en/home/",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak gwarantuje biodegradację produktu lub jego opakowania w przydomowym kompoście.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Termin „biodegradowalny” jest często używany, ale biodegradacja jest wysoce zależna od środowiska. Coś, co rozłoży się w przemysłowej kompostowni, nie zawsze rozłoży się w przydomowych warunkach. Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Certyfikat&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak stanowi potwierdzenie uzyskania certyfikatu AIB-VINÇOTTE GROUP.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"145",
+			"count":"3",
+			"title":"RESY",
+			"url":"www.resy.de",
+			"class":"2",
+			"categories":["opakowania","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak świadczy o przynależności danego opakowania do systemu RESY. System oparty jest na niemieckiej ustawie opakowaniowej i stosuje się go tylko na opakowaniach transportowych wykonanych z tektury lub papieru.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Symbol gwarantuje, że dane opakowanie można poddać recyklingowi oraz że będzie podlegało zbiórce przeprowadzanej przez organizacje należące do tego systemu. Każdy z uczestników systemu RESY otrzymuje numer identyfikacyjny, który zostaje umieszczony pod znakiem.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"144",
+			"count":"9",
+			"title":"RoHS",
+			"url":"http://www.mg.gov.pl/NR/rdonlyres/6178185C-DCEB-4E7A-B0D8-920A480D1FEC/53502/200295WE.pdf",
+			"class":"1",
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak stanowi deklarację producenta, że dany produkt spełnia obowiązkowe kryteria dyrektywy ROHS 2002/95/WE, dotyczącej ograniczenia użycia substancji niebezpiecznych dla zdrowia i życia ludzkiego oraz dla środowiska w sprzęcie elektrycznym i elektronicznym.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Producent deklaruje, że w materiale jednorodnym zawartym w produkcie nie znajduje się więcej niż:&lt;/p&gt;&lt;br /&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;• 0,1% ołowiu&lt;br /&gt;• 0,01% kadmu&lt;br /&gt;• 0,1% rtęci&lt;br /&gt;• 0,1% sześciowartościowego chromu&lt;br /&gt;• 0,1% polibromowanych bifenyli&lt;br /&gt;• 0,1% polibromowanych eterów fenylowych.&lt;br /&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest urządzeniom elektrycznym i elektronicznym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"143",
+			"count":"1",
+			"title":"Energy Star",
+			"url":"http://www.energystar.gov/",
+			"class":"1",
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt spełnia obowiązkowe kryteria programu ENERGY STAR w zakresie efektywności energetycznej.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak stanowi gwarancję, że produkt spełnia obowiązkowe kryteria energetyczne.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest urządzeniom elektrycznym i elektronicznym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"142",
+			"count":"1",
+			"title":"Energy Saving Recommended",
+			"url":"http://www.energysavingtrust.org.uk/",
+			"class":"2",
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt jest energooszczędny i zużywa mniej energii w porównaniu do innych podobnych produktów z tej samej kategorii produktowej.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Oszczędność energii to nie tylko oszczędności finansowe, ale także mniejsze zapotrzebowanie na nieodnawialne zasoby naturalne oraz niższe emisje zanieczyszczeń do środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest urządzeniom elektrycznym i elektronicznym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"141",
+			"count":"1",
+			"title":"EPEAT Bronze",
+			"url":"http://www.epeat.net",
+			"class":"3",
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt przeszedł pomyślnie proces certyfikacji w ramach programu EPEAT. Ocena BRONZE oznacza, że spełnia on wszystkie kryteria obowiązkowe oraz do 50% dodatkowych. Produkt oznaczony tym znakiem uzyskał trzeci poziom w zakresie ekologiczności certyfikatów przyznawanych w ramach programu EPEAT.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt opatrzony znakiem został zaprojektowany zgodnie z zasadami projektowania dla środowiska, z uwzględnieniem całego cyklu życia tego produktu. Do jego wyprodukowania wybrano materiały o mniejszej uciążliwości środowiskowej, wykazuje się on przedłużoną trwałością, oszczędnością energii oraz został tak zaprojektowany, aby postępowanie z powstałymi po jego wykorzystaniu odpadami było jak najmniej uciążliwe dla środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest urządzeniom elektrycznym i elektronicznym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"140",
+			"count":"1",
+			"title":"EPEAT Silver",
+			"url":"http://www.epeat.net",
+			"class":"3",
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt przeszedł pomyślnie proces certyfikacji w ramach programu EPEAT. Ocena SILVER oznacza, że spełnia on wszystkie kryteria obowiązkowe oraz 50-75% dodatkowych – srebro (SILVER). Produkt oznaczony tym znakiem uzyskał drugi poziom w zakresie ekologiczności certyfikatów przyznawanych w ramach programu EPEAT.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt opatrzony znakiem został zaprojektowany zgodnie z zasadami projektowania dla środowiska, z uwzględnieniem całego cyklu życia tego produktu. Do jego wyprodukowania wybrano materiały o mniejszej uciążliwości środowiskowej, wykazuje się on przedłużoną trwałością, oszczędnością energii oraz został tak zaprojektowany, aby postępowanie z powstałymi po jego wykorzystaniu odpadami było jak najmniej uciążliwe dla środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest urządzeniom elektrycznym i elektronicznym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"139",
+			"count":"1",
+			"title":"EPEAT Gold",
+			"url":"http://www.epeat.net",
+			"class":"3",
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt przeszedł pomyślnie proces certyfikacji w ramach programu EPEAT. Ocena GOLD oznacza, że spełnia on wszystkie kryteria obowiązkowe oraz 75% dodatkowych – złoto (GOLD). Produkt oznaczony tym znakiem wykazuje się najwyższą ekologicznością spośród wszystkich możliwych stopni (kolorów) przyznawanych w ramach programu EPEAT.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt opatrzony znakiem został zaprojektowany zgodnie z zasadami projektowania dla środowiska, z uwzględnieniem całego cyklu życia tego produktu. Do jego wyprodukowania wybrano materiały o mniejszej uciążliwości środowiskowej, wykazuje się on przedłużoną trwałością, oszczędnością energii oraz został tak zaprojektowany, aby postępowanie z powstałymi po jego wykorzystaniu odpadami było jak najmniej uciążliwe dla środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest urządzeniom elektrycznym i elektronicznym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"138",
+			"count":"1",
+			"title":"EPEAT",
+			"url":"http://www.epeat.net",
+			"class":"3",
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt przeszedł pomyślnie proces certyfikacji w ramach programu EPEAT i spełnił wszystkie obowiązkowe kryteria.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt opatrzony znakiem został zaprojektowany zgodnie z zasadami projektowania dla środowiska, z uwzględnieniem całego cyklu życia tego produktu. Do jego wyprodukowania wybrano materiały o mniejszej uciążliwości środowiskowej, wykazuje się on przedłużoną trwałością, oszczędnością energii oraz został tak zaprojektowany, aby postępowanie z powstałymi po jego wykorzystaniu odpadami było jak najmniej uciążliwe dla środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest urządzeniom elektrycznym i elektronicznym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"137",
+			"count":"1",
+			"title":"Federal Energy Management Program (FEMP)",
+			"url":"http://www1.eere.energy.gov/femp/",
+			"class":"2",
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Urządzenie elektryczne i elektroniczne wykazuje się obniżoną energochłonnością – ze względu na swą efektywność energetyczną zyskało aprobatę programu FEMP (Federal Energy Management Program).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Obniżanie energochłonności jest nie tylko pozytywne ze względów ekonomicznych, ale także z punktu widzenia ochrony środowiska. Przyczynia się do ograniczenia zużycia nieodnawialnych zasobów naturalnych i ograniczenia emisji zanieczyszczeń do powietrza, wody i gleby.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest urządzeniom elektrycznym i elektronicznym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"136",
+			"count":"1",
+			"title":"Etykietka Energetyczna UE",
+			"url":"http://www.ign.org.pl/files/content/20/ustawa_prawo_energetyczne.pdf",
+			"class":"1",
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Etykieta pokazuje wydajność energetyczną urządzeń za pomocą kolorów i przyporządkowanej im skali liter (A-G). Sprzęt najmniej oszczędny jest zaklasyfikowany do energetycznej klasy G, oznaczonej czerwonym paskiem, natomiast najbardziej wydajny do klasy A, z paskiem zielonym. Oprócz zużycia energii skala może pokazywać inne parametry istotne dla danego produktu, np. zużycie CO2 lub efektywność paliwową. Skala A-G może być rozszerzona o trzy dodatkowe klasy: A+, A++ oraz A+++, dla najbardziej efektywnych produktów.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Dzięki wprowadzonej skali można w prosty sposób oszacować energooszczędność produktu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest urządzeniom elektrycznym i elektronicznym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"135",
+			"count":"2",
+			"title":"Skin Tolernant Textiles (Medycznie sprawdzony i przetestowany dla toksyn)",
+			"url":"http://www.koerpervertraegliche-textilien.de/",
+			"class":"1",
+			"categories":["wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt medycznie przetestowany i sprawdzony pod kątem toksyczności.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Sygnalizuje końcowemu konsumentowi dodatkową gwarancję bezpieczeństwa w zakresie naturalności dla skóry.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest wyrobom tekstylnym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"134",
+			"count":"2",
+			"title":"ECOLOGO",
+			"url":"http://www.ecologo.org/en/",
+			"class":"3",
+			"categories":["opakowania","urzĄdzenia elektryczne i elektroniczne","materiaŁy budowlane","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak jest etykietą nadawaną w ramach krajowego systemu ekoznakowania funkcjonującego w Kanadzie.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkty nim opatrzone wyróżniają się w swojej kategorii produktowej mniejszym oddziaływaniem na środowisko i spełnianiem kompleksowych kryteriów ekologicznych dotyczących całego cyklu życia wyrobów.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest kategoriom produktów, takim jak: opakowania, sprzęt elektryczny i elektroniczny, paliwa i środki transportu, meble, środki czystości, produkty spożywcze oraz materiały budowlane. Znak ten można także znaleźć na odpadach powstałych po wykorzystaniu produktów nim opatrzonych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"133",
+			"count":"1",
+			"title":"China Environnmental Labelling",
+			"url":"http://www.greencouncil.org/eng/greenlabel/china.asp",
+			"class":"3",
+			"categories":["opakowania","ŻywnoŚĆ","kosmetyki","wyroby tekstylne","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Etykieta nadawana w ramach krajowego systemu ekoznakowania funkcjonującego w Chińskiej Republice Ludowej.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkty nim opatrzone wyróżniają się w swojej kategorii produktowej mniejszym oddziaływaniem na środowisko i spełnianiem kompleksowych kryteriów ekologicznych dotyczących całego cyklu życia wyrobów.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest kategoriom produktów, do których zaliczyć można przykładowo: sprzęt elektryczny i elektroniczny, baterie, wyroby papierowe, napoje, zabawki, tekstylia, materiały budowlane, ceramikę sanitarną oraz meble. Znak ten można także znaleźć na odpadach powstałych po wykorzystaniu produktów nim opatrzonych.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"132",
+			"count":"2",
+			"title":"Rugmark",
+			"url":"http://www.rugmarkindia.org",
+			"class":"1",
+			"categories":["wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak informuje, że dany produkt został wytworzony bez wykorzystywania pracy dzieci.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest wyrobom tekstylnym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"131",
+			"count":"1",
+			"title":"Environmentálne Vhodny Produkt",
+			"url":"http://www.sazp.sk/public/index/index.php?lang=en",
+			"class":"3",
+			"categories":["wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt spełnia wieloaspektowe kryteria środowiskowe.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt wykazuje obniżony negatywny wpływ na środowisko poprzez zmniejszenie zużycia energii oraz surowców i substancji niebezpiecznych.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Obniżona energochłonność wiąże się z mniejszym zużyciem nieodnawialnych zasobów naturalnych oraz niższymi emisjami zanieczyszczeń do środowiska.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest wyrobom tekstylnym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"130",
+			"count":"1",
+			"title":"ECO Safe",
+			"url":"http://www.ecosafetextile.com/en/index.html",
+			"class":"2",
+			"categories":["wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt tekstylny opatrzony tym znakiem jest bezpieczny dla zdrowia użytkownika z chemicznego i fizyko-mechanicznego punktu widzenia.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak gwarantuje, że do wytworzenia danego produktu nie użyto farb zawierających związki rakotwórcze lub alergizujące, nie stosowano innych szkodliwych substancji, takich jak formaldehyd, ftalany czy metale ciężkie. Produkt nie zawiera drobnych elementów grożących zadławieniem lub w inny sposób zagrażających zdrowiu oraz życiu użytkownika.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest wyrobom tekstylnym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"129",
+			"count":"1",
+			"title":"OE Blended Standart",
+			"url":"http://textileexchange.org/content/oe-standards",
+			"class":"2",
+			"categories":["wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt tekstylny zawiera minimum 5% certyfikowanego organicznego włókna bawełny, które może być łączone z innymi włóknami, w tym z bawełną konwencjonalną.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Bawełna organiczna zawarta w produkcie została wyprodukowana na plantacjach uprawianych w sposób przyjazny dla środowiska, bez użycia nawozów mineralnych oraz środków ochrony roślin.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest wyrobom tekstylnym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"128",
+			"count":"1",
+			"title":"OE 100 Standart",
+			"url":"http://textileexchange.org/content/oe-standards",
+			"class":"3",
+			"categories":["wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt tekstylny został w całości (100%) wytworzony na bazie certyfikowanego organicznego włókna bawełny i dotyczy to zarówno włókien, przędzy, jak i wyrobów gotowych.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Bawełna w produkcie została wyprodukowana na plantacjach uprawianych w sposób przyjazny dla środowiska, bez użycia nawozów mineralnych oraz środków ochrony roślin.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest produktom tekstylnym.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"126",
+			"count":"3",
+			"title":"OEKO-TEX ® Standard 1000, STEP (Sustainable Textile Production) Zrównoważona Produkcja Tkanin",
+			"url":"https://www.oeko-tex.com/en/manufacturers/concept/sustainable_textile_production_step/step.xhtml",
+			"class":"2",
+			"categories":["wyroby tekstylne","odpady",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Producent danych wyrobów włókienniczych lub tekstylnych spełnił wymagania środowiskowe w zakresie procesu produkcji dotyczące sześciu różnych modułów: zarządzania chemikaliami, oddziaływania na środowisko, zarządzania środowiskiem, zarządzania jakością, odpowiedzialności społecznej oraz bezpieczeństwa i higieny pracy.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Producenci produktów certyfikowanych tym znakiem respektują zakaz stosowania określonych substancji, prowadzą w odpowiedni sposób gospodarkę wodno-ściekową oraz ograniczają emisje do powietrza, w tym emisję hałasu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest producentom wyrobów włókienniczych i tekstyliów.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
 			"id":"125",
 			"count":"2",
 			"title":"Tekstylia Godne Zaufania, OEKO-TEX ® Standard 100plus",
