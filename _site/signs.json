@@ -1,7 +1,349 @@
 {
-	"categories":["odpady","opakowania","ŻywnoŚĆ","kosmetyki","wyroby tekstylne","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","dopady","urzĄdzenia elekrtyczne i elektroniczne",null],
+	"categories":["odpady","opakowania","ŻywnoŚĆ","kosmetyki","wyroby tekstylne","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","dopady","urzĄdzenia elekrtyczne i elektroniczne","sprzĘt elektryczny i elektroniczny","ŻywonoŚĆ",null],
 	"signs":
 	[
+		{
+			"id":"115",
+			"count":"1",
+			"title":"Agriculture Biologique (AB)",
+			"url":"http://www.agencebio.org/",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"<p><strong>Korzyści</strong></p><br /><br /><p>Produkt opatrzony tym znakiem zawiera co najmniej w 95% składniki organiczne wyprodukowane na terenie Unii Europejskiej zgodne z przepisami prawnymi dotyczącymi rolnictwa ekologicznego.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak ten przyznawany jest produktom żywnościowym.</p><br />"
+		},
+		{
+			"id":"100",
+			"count":"1",
+			"title":"AGROBIO",
+			"url":"http://www.agrobio.pt/pt/",
+			"class":"3",
+			"categories":["ŻywonoŚĆ","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Produkt powstał przy zachowaniu podstawowych zasad rolnictwa ekologicznego.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Do wytworzenia tego produktu nie użyto syntetycznych nawozów mineralnych ani środków ochrony roślin. Produkcja odbyła się z zachowaniem różnorodności biologicznej i zapewnieniem odpowiednich warunków życia zwierząt hodowlanych.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak przyznawany jest żywności oraz produktom pochodzenia rolniczego.</p><br />"
+		},
+		{
+			"id":"99",
+			"count":"1",
+			"title":"Znak PCBC S.A. Spełnienia Wymagań Rolnictwa Ekologicznego",
+			"url":"http://www.pcbc.gov.pl/index.php?option=com_content&view=article&id=424&Itemid=4",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak przyznawany przez Polskie Centrum Badań i Certyfikacji. Stanowi potwierdzenie spełnienia wymagań rolnictwa ekologicznego.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Produkt żywnościowy wytworzony został w produkcji rolnej i przetwórstwie rolno-spożywczym prowadzonymi zgodnie z europejskimi normami ekologicznymi, czyli bez użycia chemicznych środków ochrony roślin oraz nawozów syntetycznych.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak ten stosowany jest w odniesieniu do żywności oraz produktów pochodzenia rolniczego.</p><br />"
+		},
+		{
+			"id":"98",
+			"count":"1",
+			"title":"Rainforest Alliance Certified Seal",
+			"url":"http://www.rainforest-alliance.org/certification-verification",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Produkt został wyprodukowany zgodnie ze standardami zrównoważonego rolnictwa (Sustainable Agriculture Network) i/lub standardami odpowiedzialnego leśnictwa (Forest Stewardship Council).</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Znak gwarantuje także dbałość o aspekty społeczne, związane z wytwarzaniem danego produktu, np. godziwe traktowanie pracowników i ich rodzin, którym gwarantowany jest dostęp do edukacji i opieki zdrowotnej. Procesy wytwórcze były prowadzone z dbałością o środowisko, szczególnie zachowanie bioróżnorodności.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak przyznawany jest produktom pochodzenia rolnego oraz leśnego, np. żywności czy opakowaniom drewnianym.</p><br />"
+		},
+		{
+			"id":"97",
+			"count":"1",
+			"title":"Milieukeur Ecolabel",
+			"url":"http://www.smk.nl/19/home.html",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Produkt nie zawiera lub posiada znikome ilości pestycydów i nawozów sztucznych.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Jego produkcja odbywała się w taki sposób, aby zagwarantować dobrostan zwierząt i ochronę przyrody przy spełnieniu zasad rolnictwa ekologicznego.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak ten przyznawany jest produktom żywnościowym.</p><br />"
+		},
+		{
+			"id":"96",
+			"count":"2",
+			"title":"EKO",
+			"url":"www.skal.nl",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"<p><strong>Korzyści</strong></p><br /><br /><p>Znak stanowi gwarancję, że produkt zawiera więcej niż 95% organicznych komponentów wyprodukowanych zgodnie z zasadami rolnictwa ekologicznego.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak ten przyznawany jest produktom żywnościowym.</p><br />"
+		},
+		{
+			"id":"95",
+			"count":"1",
+			"title":"BIOHELLAS",
+			"url":"http://www.bio-hellas.gr/en/Home/tabid/36/Default.aspx",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","wyroby tekstylne","kosmetyki","odpady",null],
+			"body":"<p><strong>Korzyści</strong></p><br /><br /><p>Produkt opatrzony znakiem:</p><br /><div class="highlight"><pre><code class="text language-text" data-lang="text">• jest wolny od wszelkich szkodliwych substancji chemicznych stosowanych w rolnictwie konwencjonalnym<br />• został wyprodukowany zgodnie z kryteriami rolnictwa ekologicznego, tj. z zachowaniem bioróżnorodności, z dbałością o dobrostan zwierząt oraz bez stosowania nawozów mineralnych.<br /></code></pre></div><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak stosowany jest w odniesieniu do produktów żywnościowych oraz takich, które zawierają składniki pochodzenia rolnego, np. wyrobów tekstylnych, kosmetyków.</p><br />"
+		},
+		{
+			"id":"93",
+			"count":"2",
+			"title":"KRAV",
+			"url":"http://www.krav.se/",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"<p><strong>Korzyści</strong></p><br /><br /><p>Produkt nim opatrzony jest ekologiczny i został wytworzony bez użycia nawozów sztucznych i chemicznych środków ochrony roślin, przy spełnieniu wymogów prawnych przewidzianych dla rolnictwa ekologicznego.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak ten przyznawany jest produktom żywnościowym.</p><br />"
+		},
+		{
+			"id":"92",
+			"count":"1",
+			"title":"BIO-Siegel",
+			"url":"http://www.bio-siegel.de/",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"<p><strong>Korzyści</strong></p><br /><br /><p>Żywność opatrzona znakiem stanowi produkt rolnictwa ekologicznego wytworzony w kontrolowanych warunkach spełniających standardy rolnictwa ekologicznego.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak ten przyznawany jest produktom pochodzenia rolniczego, w tym żywności.</p><br />"
+		},
+		{
+			"id":"91",
+			"count":"1",
+			"title":"Poznaj Dobrą Żywność",
+			"url":"http://www.minrol.gov.pl/pol/Jakosc-zywnosci/Poznaj-Dobra-Zywnosc/",
+			"class":"1",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak przyznawany jest przez ministra rolnictwa i rozwoju wsi. Ma na celu podnoszenie zaufania konsumenta do tego wyrobu.</p><br /><br /><p>Informuje o:</p><br /><div class="highlight"><pre><code class="text language-text" data-lang="text">• wysokiej i stabilnej jakości produktu żywnościowego<br />• doskonałych walorach smakowych i zdrowotnych.<br /></code></pre></div><br /><p><strong>Korzyści</strong></p><br /><br /><p>Oznaczenie ma na celu pomaganie konsumentom w wyborze artykułów rolno-spożywczych spełniających najwyższe kryteria i posiadających najwyższą jakość handlową.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak ten przyznawany jest produktom żywnościowym.</p><br />"
+		},
+		{
+			"id":"90",
+			"count":"1",
+			"title":"BIODAR",
+			"url":"http://www.kmetijski-zavod.si/",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak jest etykietą rolnictwa ekologicznego stosowaną w ramach systemu ekoznakowania w Słowenii. Oznacza, że produkty nim opatrzone są ekologiczne i pochodzą z gospodarstw rolnych prowadzonych zgodnie ze standardami Międzynarodowej Federacji Rolnictwa Ekologicznego (IFOAM).</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Produkty żywnościowe zostały wyprodukowane:</p><br /><div class="highlight"><pre><code class="text language-text" data-lang="text">• w sposób przyjazny dla środowiska<br />• bez użycia nawozów mineralnych<br />• z zachowaniem bioróżnorodności<br />• z zapewnieniem dobrostanu zwierząt.<br /></code></pre></div><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak stosowany jest dla żywności.</p><br />"
+		},
+		{
+			"id":"89",
+			"count":"1",
+			"title":"Sprawiedliwy Handel",
+			"url":"http://www.fairtrade.org.pl/",
+			"class":"2",
+			"categories":["opakowania","ŻywnoŚĆ","kosmetyki","wyroby tekstylne","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Celem znakowania jest troska o pracowników z krajów ubogich.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Produkt opatrzony znakiem został wyprodukowany w sposób zapewniający:</p><br /><div class="highlight"><pre><code class="text language-text" data-lang="text">• spełnienie standardów Międzynarodowej Organizacji Pracy<br />• równe warunki dla kobiet i mężczyzn<br />• sprawiedliwe wynagrodzenie pracowników<br />• standardy ekologiczne.<br /></code></pre></div><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak ten może być przyznany dowolnej grupie produktów. Można go znaleźć na opakowaniach, żywności, kosmetykach, wyrobach tekstylnych, materiałach budowlanych, urządzeniach elektycznych i elektronicznych, zabawkach oraz odpadach.</p><br />"
+		},
+		{
+			"id":"88",
+			"count":"1",
+			"title":"Współnotowe Oznakowowanie Rolnictwa Ekologicznego (Organic Farming) - oznakowanie obowiązuje od 1 lipca 2010 roku",
+			"url":"http://ec.europa.eu/agriculture/organic/home_pl",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak obowiązuje od 1 lipca 2010 roku jako oficjalny znak Unii Europejskiej, który przyznawany jest produktom pochodzenia rolnego spełniającym unijne przepisy prawne w zakresie rolnictwa ekologicznego.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Znak stanowi potwierdzenie, że:</p><br /><div class="highlight"><pre><code class="text language-text" data-lang="text">• produkt nim opatrzony spełnia wymogi oficjalnego nadzoru<br />• pochodzi z certyfikowanych gospodarstw ekologicznych<br />• przynajmniej 95% składników produktu wyprodukowano metodami ekologicznymi, tj. w sposób przyjazny dla środowiska, bez użycia nawozów mineralnych, z zachowaniem bioróżnorodności oraz zapewnieniem dobrostanu zwierząt.<br /></code></pre></div><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Wspólnotowe oznakowanie można znaleźć na produktach żywnościowych. Będzie się także znajdowało na odpadach powstałych po wykorzystaniu tych produktów.</p><br />"
+		},
+		{
+			"id":"87",
+			"count":"2",
+			"title":"Współnotowe Oznakowowanie Rolnictwa Ekologicznego (Organic Farming) - oznakowanie obowiązuje do 1 lipca 2010 roku",
+			"url":"http://ec.europa.eu/agriculture/organic/home_pl",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak obowiązywał do 1 lipca 2010 roku jako oficjalny znak Unii Europejskiej, który przyznawany był produktom pochodzenia rolnego spełniającym unijne przepisy prawne w zakresie rolnictwa ekologicznego.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Znak stanowi potwierdzenie, że:</p><br /><div class="highlight"><pre><code class="text language-text" data-lang="text">• produkt nim opatrzony spełnia wymogi oficjalnego nadzoru<br />• pochodzi z certyfikowanych gospodarstw ekologicznych<br />• przynajmniej 95% składników produktu wyprodukowano metodami ekologicznymi, tj. w sposób przyjazny dla środowiska, bez użycia nawozów mineralnych, z zachowaniem bioróżnorodności oraz zapewnieniem dobrostanu zwierząt.<br /></code></pre></div><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Wspólnotowe oznakowanie można znaleźć na produktach żywnościowych. Będzie się także znajdowało na odpadach powstałych po wykorzystaniu tych produktów.</p><br />"
+		},
+		{
+			"id":"86",
+			"count":"1",
+			"title":"Ekoland",
+			"url":"http://www.ekolandpolska.pl/",
+			"class":"3",
+			"categories":["ŻywnoŚĆ","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak przyznawany jest przez stowarzyszenie EKOLAND. Stanowi gwarancję, że produkt nim opatrzony jest ekologiczny. Produkt został wyprodukowany zgodnie z kryteriami tego stowarzyszenia, które odpowiadają (a nawet je przewyższają) wymaganiom Międzynarodowej Federacji Rolnictwa Ekologicznego (IFOAM) oraz są zgodne ze stosownymi regulacjami Unii Europejskiej w zakresie rolnictwa ekologicznego.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Produkt opatrzony znakiem EKOLAND został wytworzony w sposób przyjazny dla środowiska, bez użycia nawozów mineralnych, z zachowaniem naturalnego obiegu substancji w przyrodzie i przy zachowaniu dobrostanu roślin i zwierząt.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak przyznawany jest produktom pochodzenia rolniczego, w tym żywności.</p><br />"
+		},
+		{
+			"id":"85",
+			"count":"1",
+			"title":"CLIMATOP",
+			"url":"http://climatop.org/",
+			"class":"3",
+			"categories":["materiaŁy budowlane","kosmetyki","urzĄdzenia elektryczne i elektroniczne","wyroby tekstylne","odpady",null],
+			"body":"<p><strong>Korzyści</strong></p><br /><br /><p>Dany produkt lub usługa wykazują się wyróżniającą w swej kategorii produktowej przyjaznością dla klimatu, poprzez zmniejszenie emisji gazów cieplarnianych. Znak przyznawany jest na podstawie analizy cyklu życia produktu i porównania z innymi produktami.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak ten może być przyznany dowolnej grupie produktów, ale najczęściej można go znaleźć na materiałach budowlanych, kosmetykach, tekstyliach oraz urządzeniach elektrycznych i elektronicznych.</p><br />"
+		},
+		{
+			"id":"84",
+			"count":"1",
+			"title":"Certified Green Dealer",
+			"url":"http://certifiedgreendealer.org/",
+			"class":"1",
+			"categories":["materiaŁy budowlane",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak informuje o przynależności do programu amerykańskich sprzedawców materiałów budowlanych, który składa się z systemu szkoleń (kształcenie online) dotyczących aspektów ekologicznych budynków i produktów.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak przyznawany jest organizacjom działającym w branży budowlanej.</p><br />"
+		},
+		{
+			"id":"83",
+			"count":"2",
+			"title":"Carbon Neutral Company",
+			"url":"http://www.carbonneutral.com/",
+			"class":"3",
+			"categories":["opakowania","ŻywnoŚĆ","kosmetyki","wyroby tekstylne","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak stanowi potwierdzenie, że dana organizacja (np. producent) pomyślnie przeszła proces certyfikacji realizowany przez jednostkę CARBON NEUTRAL.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Obecność znaku dowodzi, że organizacja spełniła standardy zapisane w The CarbonNeutral Protocol i że podjęła inicjatywę na rzecz zniwelowania swego śladu węglowego. Oznacza to także, że organizacja zmniejszyła emisję do środowiska gazów cieplarnianych oraz podjęła działania kompensacyjne powodujące, że ślad węglowy jej działalności jest neutralny (zerowy).</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Znak stanowi gwarancję działań podjętych w ramach danej organizacji na rzecz środowiska, szczególnie zaś zapobiegania globalnemu ociepleniu.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Przyznawany jest organizacjom za ich działalność na rzecz neutralizacji śladu węglowego. W praktyce może być przyznany organizacji produkującej dowolne produkty lub świadczącej usługi.</p><br />"
+		},
+		{
+			"id":"82",
+			"count":"1",
+			"title":"BRE Global Certified Environmental Profile",
+			"url":"http://www.bre.co.uk/",
+			"class":"3",
+			"categories":["materiaŁy budowlane","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Dany produkt lub obiekt budowlany spełniają kompleksowe kryteria środowiskowe opracowane przez organizację BRE.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Produkt lub obiekt opatrzony znakiem wykazuje się wyróżniającą ekologicznością w porównaniu do podobnych produktów należących do tej samej kategorii produktowej/obiektowej.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znakiem certyfikowane są nie tylko materiały budowlane, ale także całe obiekty budowlane. Znajduje się on także na odpadach powstałych po wykorzystaniu tych produktów.</p><br />"
+		},
+		{
+			"id":"81",
+			"count":"1",
+			"title":"BASF Eco-Efficiency Analysis",
+			"url":"Przyznawanym jest różnym grupom produktów, w tym materiałom budowlanym i budynkom, kosmetykom, środkom farmaceutycznym, opakowaniom i środkom transportu.",
+			"class":"3",
+			"categories":["materiaŁy budowlane","kosmetyki","opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak przyznawany jest produktom, które pomyślnie przejdą kompleksową ocenę ekoefektywności, uwzględniającą kryteria środowiskowe, ekonomiczne i społeczne. Ocena obejmuje cały cykl życia produktów: od wydobycia surowców przez produkcję, użytkowanie do końcowego zagospodarowania.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Znak gwarantuje, że produkt lub usługa nim opatrzone są nie tylko przyjazne dla środowiska, ale wykazują się także efektywnością z ekonomicznego i społecznego punktu widzenia.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Przyznawanym jest różnym grupom produktów, w tym materiałom budowlanym i budynkom, kosmetykom, środkom farmaceutycznym, opakowaniom i środkom transportu.</p><br />"
+		},
+		{
+			"id":"80",
+			"count":"1",
+			"title":"ABNT",
+			"url":"http://www.abnt.org.br/",
+			"class":"3",
+			"categories":["materiaŁy budowlane","kosmetyki","wyroby tekstylne","sprzĘt elektryczny i elektroniczny","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak gwarantuje, że dany produkt spełnia kompleksowe kryteria środowiskowe opracowane przez organizację ABNT dotyczące całego cyklu jego życia.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Produkty opatrzone znakiem wykazują się wyróżniającą ekologicznością w porównaniu do podobnych produktów należących do tej samej kategorii produktowej.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na materiałach budowlanych, kosmetykach, tekstyliach oraz urządzeniach elektrycznych i elektronicznych.</p><br />"
+		},
+		{
+			"id":"79",
+			"count":"1",
+			"title":"Ślad Węglowy",
+			"url":"http://www.carbontrust.com/",
+			"class":"1",
+			"categories":["opakowania","ŻywnoŚĆ","kosmetyki","wyroby tekstylne","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Dla danego produktu lub usługi została wykonana analiza śladu węglowego. Znak informuje o wielkości emisji gazów cieplarnianych przypadającej na fragment lub cały cykl życia danego produktu lub usługi. Przyznawany jest przez organizację Carbon Trust.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Znak stanowi gwarancję, że obliczenia śladu węglowego zostały wykonane zgodnie z wytycznymi organizacji Carbon Trust i stosownymi normami. Liczba zawarta w znaku oznacza wielkość emisji gazów cieplarnianych w przeliczeniu na ditlenek węgla (CO2 eq) i jest wyrażona w jednostkach masowych (gramy, kilogramy, tony).</p><br /><br /><p><strong>Warto wiedzieć</strong></p><br /><br /><p>Gazy cieplarniane uznawane są za główne źródło globalnego ocieplenia, dlatego im niższa wartość śladu węglowego (mniejsza wartość liczbowa w znaku), tym lepiej dla środowiska.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Może być przyznany dowolnej grupie produktów, w tym także opakowaniom.</p><br />"
+		},
+		{
+			"id":"78",
+			"count":"1",
+			"title":"Unijny Margaretka",
+			"url":"http://ec.europa.eu/environment/ecolabel/",
+			"class":"3",
+			"categories":["kosmetyki","materiaŁy budowlane","zabawki","urzĄdzenia elektryczne i elektroniczne","wyroby tekstylne","opakowania","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Oficjalny znak ekologiczny funkcjonujący w ramach unijnego systemu ekoznakowania.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Obecność znaku na produkcie lub jego opakowaniu oznacza, że spełnił on kompleksowe – właściwe dla swej kategorii produktowej – kryteria środowiskowe dotyczące całego cyklu życia. Przyznawany jest produktom i usługom wykazującym się kompleksową ekologicznością.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Przyznawany jest szerokiej gamie produktów i usług, w tym kosmetykom, materiałom budowlanym, wyrobom tekstylnym, zabawkom, urządzeniom elektrycznym i elektronicznym, detergentom, wyrobom papierowym oraz nawozom.</p><br />"
+		},
+		{
+			"id":"77",
+			"count":"1",
+			"title":"Niebieski Anioł",
+			"url":"http://www.blauer-engel.de/",
+			"class":"3",
+			"categories":["opakowania","materiaŁy budowlane","wyroby tekstylne","zabawki","urzĄdzenia elektryczne i elektroniczne","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak funkcjonuje w ramach niemieckiego systemu ekoznakowania.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Przyznawany jest produktom wyróżniającym się w swej kategorii produktowej tym, że są:</p><br /><div class="highlight"><pre><code class="text language-text" data-lang="text">• bardziej przyjazne dla środowiska i zdrowia człowieka<br />• znacząco korzystne dla środowiska<br />• spełniają stosowne standardy sprawności technicznej oraz wymagania z zakresu ochrony bezpieczeństwa, zdrowia i higieny pracy.<br /></code></pre></div><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Przyznawany jest szerokiej grupie produktów, między innymi: opakowaniom, materiałom budowlanym, wyrobom tekstylnym, zabawkom, urządzeniom elektrycznym i elektronicznym, artykułom gospodarstwa domowego, wyrobom chemicznym, systemom cieplnym oraz środkom transportu.</p><br />"
+		},
+		{
+			"id":"76",
+			"count":"1",
+			"title":"Nordycki Łabędź",
+			"url":"http://www.nordic-ecolabel.org/",
+			"class":"3",
+			"categories":["kosmetyki","zabawki","wyroby tekstylne","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak funkcjonujący w ramach nordyckiego systemu ekoznakowania na terenie takich krajów jak: Szwecja, Norwegia, Finlandia, Dania i Islandia.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Przyznawany jest produktom wyróżniającym się w swej kategorii produktowej tym, że są bardziej przyjazne dla środowiska i zdrowia człowieka, na przykład poprzez niższe zużycie energii, mniejszą emisję zanieczyszczeń czy mniejszą ilość generowanych odpadów.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Przyznawany jest szerokiej grupie produktów: materiałom budowlanym, wyrobom tekstylnym, zabawkom, urządzeniom elektrycznym i elektronicznym, artykułom gospodarstwa domowego oraz środkom czystości.</p><br />"
+		},
+		{
+			"id":"75",
+			"count":"1",
+			"title":"IHIK",
+			"url":"http://www.ihtk.de/ihtk-en.htm",
+			"class":"1",
+			"categories":["kosmetyki","odpady",null],
+			"body":"<p><strong>Korzyści</strong></p><br /><br /><p>Produkt na żadnym etapie produkcyjnym nie był testowany na zwierzętach. Zawiera składniki pochodzące tylko od zwierząt żywych.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Głównie na kosmetykach oraz odpadach powstałych po wykorzystaniu tych produktów.</p><br />"
+		},
+		{
+			"id":"74",
+			"count":"1",
+			"title":"Leaping Bunny",
+			"url":"http://www.gocrueltyfree.org/",
+			"class":"1",
+			"categories":["kosmetyki","urzĄdzenia elektryczne i elektroniczne","odpady",null],
+			"body":"<p><strong>Korzyści</strong></p><br /><br /><p>Produkt i jego składniki nie były testowane na zwierzętach.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Głównie na kosmetykach, ale można go znaleźć także na urządzeniach elektrycznych i elektronicznych (sprzęt AGD) oraz na produktach użytku domowego, np. środkach czystości.</p><br />"
+		},
+		{
+			"id":"73",
+			"count":"1",
+			"title":"Nature Organic Cosmetics",
+			"url":"http://www.natrue.org/",
+			"class":"3",
+			"categories":["kosmetyki","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak przyznawany jest przez organizację NATRUE kosmetykom ekologicznym.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Znak gwarantuje, że produkt spełnia wymagania stawiane przez organizację NATRUE kosmetykom naturalnym. Dodatkowo zapewnia, że co najmniej 95% składników naturalnych produktu pochodzi z kontrolowanych upraw ekologicznych lub kontrolowanych tzw. dzikich zbiorów. Obecnie bardzo niewiele produktów kosmetycznych jest w stanie spełnić te rygorystyczne wymagania, będące prawdziwym wyzwaniem dla producentów.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na kosmetykach oraz odpadach powstałych po wykorzystaniu tych produktów.</p><br />"
+		},
+		{
+			"id":"72",
+			"count":"1",
+			"title":"Nature Natural Cosmetics with Organic Portion",
+			"url":"http://www.natrue.org/",
+			"class":"3",
+			"categories":["kosmetyki","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak przyznawany jest przez organizację NATRUE kosmetykom naturalnym zawierającym dodatkowo pewną ilość składników ekologicznych.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Znak gwarantuje, że produkt spełnia wymagania stawiane przez organizację NATRUE kosmetykom naturalnym. Dodatkowo zapewnia, że co najmniej 70% naturalnych składników produktu pochodzi z kontrolowanych upraw ekologicznych lub kontrolowanych tzw. dzikich zbiorów, co oznacza, że zostały one wytworzone ze szczególnym poszanowaniem środowiska naturalnego.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na kosmetykach oraz odpadach powstałych po wykorzystaniu tych produktów.</p><br />"
+		},
+		{
+			"id":"71",
+			"count":"2",
+			"title":"Nature Natural Cosmetics",
+			"url":"http://www.natrue.org/",
+			"class":"2",
+			"categories":["kosmetyki","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Znak stanowi podstawową etykietę przyznawaną kosmetykom naturalnym przez organizację NATRUE, która określa, jakie składniki i sposób ich przetworzenia są dozwolone w certyfikowanych przez nią produktach. W przypadku znaku Natural Cosmetics w kosmetykach można stosować tylko składniki naturalne, co nie znaczy, że muszą one pochodzić z kontrolowanych upraw ekologicznych.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Znak gwarantuje, że produkt wytworzono ze składników naturalnych o niskim stopniu przetworzenia, z poszanowaniem natury.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na kosmetykach oraz odpadach powstałych po wykorzystaniu tych produktów.</p><br />"
+		},
+		{
+			"id":"70",
+			"count":"1",
+			"title":"ECO Garantie",
+			"url":"http://ecogarantie.com/",
+			"class":"3",
+			"categories":["kosmetyki","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Produkt opatrzony znakiem spełnił wymagania stawiane kosmetykom naturalnym z dodatkiem składników ekologicznych w ramach certyfikacji Ecogarantie.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Znak gwarantuje, że opatrzony nim produkt:</p><br /><div class="highlight"><pre><code class="text language-text" data-lang="text">• zawiera dużą ilość naturalnych surowców roślinnych pochodzących z kontrolowanych upraw ekologicznych<br />• nie był testowany na zwierzętach<br />• jest wolny od GMO<br />• został wytworzony pod ścisłą kontrolą dotyczącą użycia stabilizatorów, emulgatorów, konserwantów.<br /></code></pre></div><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Certyfikacja znakiem obejmuje zasadniczo trzy kategorie produktów, takie jak: kosmetyki, środki czyszczące i sól morska.</p><br />"
+		},
+		{
+			"id":"69",
+			"count":"1",
+			"title":"ECO Control",
+			"url":"http://www.eco-control.com/",
+			"class":"3",
+			"categories":["kosmetyki","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Produkt opatrzony znakiem spełnił wymagania stawiane kosmetykom naturalnym z dodatkiem składników ekologicznych w ramach certyfikacji EcoControl.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Znak gwarantuje, że opatrzony nim produkt:</p><br /><div class="highlight"><pre><code class="text language-text" data-lang="text">• zawiera składniki wytwarzane z surowców naturalnych<br />• jest wolny od GMO i pochodnych przemysłu petrochemicznego<br />• zawiera czyste oleje roślinne z kontrolowanych upraw ekologicznych.<br /></code></pre></div><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Certyfikacja znakiem obejmuje produkty żywnościowe i kosmetyki.</p><br />"
+		},
+		{
+			"id":"68",
+			"count":"2",
+			"title":"Vegan",
+			"url":"http://www.vegansociety.com/",
+			"class":"",
+			"categories":["kosmetyki","ŻywnoŚĆ","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Dany produkt nie był testowany na zwierzętach. Zawiera opakowanie biodegradowalne lub zdolne do recyklingu.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Znak gwarantuje, że produkt nie zawiera:</p><br /><div class="highlight"><pre><code class="text language-text" data-lang="text">• syntetycznych konserwantów<br />• substancji pochodzących z roślin modyfikowanych genetycznie<br />• syntetycznych zapachów i barwników.<br /></code></pre></div><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Certyfikacja znakiem obejmuje produkty żywnościowe i kosmetyki.</p><br />"
+		},
+		{
+			"id":"67",
+			"count":"1",
+			"title":"Eco Cosmebio",
+			"url":"www.cosmebio.org",
+			"class":"3",
+			"categories":["kosmetyki","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Produkt spełnia opracowane w 2002 roku kompleksowe kryteria dotyczące produkcji kosmetyków ekologicznych, w tym wymaganie, że minimum 95% jego składników jest organicznych lub pochodzi z certyfikowanych upraw ekologicznych.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Znak gwarantuje, że produkt nim opatrzony jest niemal w całości oparty na surowcach ekologicznych, nie zawiera syntetycznych barwników i związków zapachowych, nie zawiera syntetycznych konserwantów takich jak paraben lub fenoksyetanol, jest wolny od GMO oraz substancji pochodzenia petrochemicznego, a także że nie poddano go obróbce jonizacyjnej.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Na kosmetykach oraz odpadach powstałych po wykorzystaniu tych produktów.</p><br />"
+		},
+		{
+			"id":"66",
+			"count":"1",
+			"title":"Bio Cosmebio",
+			"url":"www.cosmebio.org",
+			"class":"3",
+			"categories":["kosmetyki","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Produkt spełnia opracowane w 2002 roku kompleksowe kryteria dotyczące produkcji kosmetyków naturalnych, w tym wymaganie, że minimum 95% jego składników jest naturalnych lub pochodzenia naturalnego.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Produkt opatrzony znakiem jest niemal w całości oparty na surowcach naturalnych, nie zawiera syntetycznych barwników i związków zapachowych, nie zawiera syntetycznych konserwantów takich jak paraben lub fenoksyetanol, jest wolny od GMO oraz substancji pochodzenia petrochemicznego, a także że nie poddano go obróbce jonizacyjnej.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak można znaleźć głównie na kosmetykach oraz odpadach powstałych po wykorzystaniu tych produktów.</p><br />"
+		},
+		{
+			"id":"65",
+			"count":"3",
+			"title":"Soil Association Organic",
+			"url":"http://www.soilassociation.org/",
+			"class":"3",
+			"categories":["kosmetyki","ŻywnoŚĆ","wyroby tekstylne","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Produkt zawiera maksymalną możliwą ilość składników organicznych/ekologicznych .</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Znak gwarantuje, że produkt nim opatrzony jest organiczny w 95% lub organiczny w przynajmniej 70% i wtedy towarzyszy mu dopisek „ze składnikami organicznymi”.<br />Ponadto znak stanowi gwarancję, że produkt jest wolny od GMO, często biodegradowalny i przyjazny dla środowiska.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak można znaleźć na kosmetykach, żywności i wyrobach tekstylnych oraz na odpadach powstałych po wykorzystaniu tych produktów.</p><br />"
+		},
+		{
+			"id":"64",
+			"count":"4",
+			"title":"BDIH",
+			"url":"HTTP://WWW.BDIH.DE",
+			"class":"3",
+			"categories":["kosmetyki","odpady","ŻywnoŚĆ",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Produkt zawiera surowce roślinne pochodzące z kontrolowanych upraw ekologicznych oraz certyfikowanych dzikich zbiorów. Jeśli w produkcie znajdują się surowce pochodzenia zwierzęcego, to zostały one tylko od żywych zwierząt. Produkt nie był testowany na zwierzętach, a do jego wytwarzania stosowano tylko związki uzyskiwane z wybranych substancji naturalnych.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Produkt nie zawiera:</p><br /><div class="highlight"><pre><code class="text language-text" data-lang="text">• organiczno-syntetycznych środków barwiących<br />• syntetycznych substancji zapachowych<br />• substancji uzyskiwanych przy destylacji ropy naftowej.<br /></code></pre></div><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak można znaleźć głównie na kosmetykach i żywności oraz odpadach powstałych po wykorzystaniu tych produktów.</p><br />"
+		},
+		{
+			"id":"63",
+			"count":"1",
+			"title":"Ecocert",
+			"url":"http://www.ecocert.com/",
+			"class":"3",
+			"categories":["kosmetyki","ŻywnoŚĆ","odpady",null],
+			"body":"<p><strong>Co oznacza</strong></p><br /><br /><p>Produkt zawiera surowce pozyskane tylko od żywych zwierząt. Nie był testowany na zwierzętach. Jako konserwantów użyto związków bazujących wyłącznie na wybranych i nieszkodliwych substancjach.</p><br /><br /><p><strong>Korzyści</strong></p><br /><br /><p>Znak gwarantuje, że produkt nie zawiera:</p><br /><div class="highlight"><pre><code class="text language-text" data-lang="text">- organizmów modyfikowanych genetycznie (GMO)<br />- substancji uzyskiwanych na drodze destylacji ropy naftowej<br />- emulgatorów PEG<br />- syntetycznych substancji zapachowych i barwiących.<br /></code></pre></div><br /><p>Ecocert gwarantuje także, że opakowanie produktu zaprojektowano w sposób przyjazny środowisku.</p><br /><br /><p><strong>Gdzie znajdziesz</strong></p><br /><br /><p>Znak można znaleźć głównie na kosmetykach i żywności oraz odpadach powstałych po wykorzystaniu tych produktów.</p><br />"
+		},
 		{
 			"id":"62",
 			"count":"1",
