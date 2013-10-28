@@ -1,5 +1,5 @@
 {
-	"categories":["odpady","opakowania","ŻywnoŚĆ","kosmetyki","wyroby tekstylne","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki","dopady","urzĄdzenia elekrtyczne i elektroniczne","sprzĘt elektryczny i elektroniczny","ŻywonoŚĆ",null],
+	"categories":["odpady","opakowania","ŻywnoŚĆ","kosmetyki","wyroby tekstylne","materiaŁy budowlane","urzĄdzenia elektryczne i elektroniczne","zabawki",null],
 	"signs":
 	[
 		{
@@ -195,7 +195,7 @@
 			"id":"145",
 			"count":"3",
 			"title":"RESY",
-			"url":"www.resy.de",
+			"url":"http://www.resy.de",
 			"class":"2",
 			"categories":["opakowania","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak świadczy o przynależności danego opakowania do systemu RESY. System oparty jest na niemieckiej ustawie opakowaniowej i stosuje się go tylko na opakowaniach transportowych wykonanych z tektury lub papieru.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Symbol gwarantuje, że dane opakowanie można poddać recyklingowi oraz że będzie podlegało zbiórce przeprowadzanej przez organizacje należące do tego systemu. Każdy z uczestników systemu RESY otrzymuje numer identyfikacyjny, który zostaje umieszczony pod znakiem.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
@@ -483,7 +483,7 @@
 			"id":"112",
 			"count":"1",
 			"title":"UN",
-			"url":"WWW.COBRO.ORG.PL",
+			"url":"http://www.cobro.org.pl",
 			"class":"1",
 			"categories":["opakowania","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak UN został wprowadzony przez ONZ (Komitet Ekspertów Europejskiej Komisji Gospodarczej) dla transportu towarów niebezpiecznych, zgodnie z umową europejską o przewozie drogowym towarów niebezpiecznych (ADR). Pakowany towar zaliczany jest do jednej z 13 klas zagrożeń i otrzymuje czterocyfrowy numer UN (ONZ), który pojawia się przy znaku. Numer ten odpowiada niebezpiecznym właściwościom towaru i na jego podstawie dobiera się właściwy sposób przewozu, odpowiednie opakowanie i procedury postępowania gwarantujące bezpieczeństwo w normalnych warunkach transportu drogowego.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak gwarantuje, że opakowanie zostało dopasowane do niebezpiecznych właściwości zapakowanego towaru i stanowi jego bezpieczne zabezpieczenie.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten można znaleźć na opakowaniach towarów niebezpiecznych.&lt;/p&gt;&lt;br /&gt;"
@@ -492,7 +492,7 @@
 			"id":"111",
 			"count":"5",
 			"title":"FSC (Forest Stewardship Council)",
-			"url":"www.pl.fsc.org",
+			"url":"http://www.pl.fsc.org",
 			"class":"1",
 			"categories":["opakowania","zabawki","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Drewno lub papier użyty do wyrobu produktu pochodzi z lasów certyfikowanych w systemie FSC. Znak potwierdza legalność pochodzenia surowca.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Certyfikat FSC® jest gwarancją, że został wykorzystany surowiec wytworzony zgodnie z zasadami odpowiedzialnego leśnictwa, prowadzonego w taki sposób, aby równoważyć przyrodnicze, społeczne i ekonomiczne aspekty gospodarki leśnej przy poszanowaniu praw obecnego pokolenia do korzystania z zasobów leśnych, oraz mając na względzie potrzeby przyszłych generacji.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest produktom zawierających surowce leśne, przykładowo: opakowaniom, zabawkom, papierowym materiałom biurowym.&lt;/p&gt;&lt;br /&gt;"
@@ -593,7 +593,7 @@
 			"title":"AGROBIO",
 			"url":"http://www.agrobio.pt/pt/",
 			"class":"3",
-			"categories":["ŻywonoŚĆ","odpady",null],
+			"categories":["ŻywnoŚĆ","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt powstał przy zachowaniu podstawowych zasad rolnictwa ekologicznego.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Do wytworzenia tego produktu nie użyto syntetycznych nawozów mineralnych ani środków ochrony roślin. Produkcja odbyła się z zachowaniem różnorodności biologicznej i zapewnieniem odpowiednich warunków życia zwierząt hodowlanych.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest żywności oraz produktom pochodzenia rolniczego.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
@@ -627,7 +627,7 @@
 			"id":"96",
 			"count":"2",
 			"title":"EKO",
-			"url":"www.skal.nl",
+			"url":"http://www.skal.nl",
 			"class":"3",
 			"categories":["ŻywnoŚĆ","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak stanowi gwarancję, że produkt zawiera więcej niż 95% organicznych komponentów wyprodukowanych zgodnie z zasadami rolnictwa ekologicznego.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten przyznawany jest produktom żywnościowym.&lt;/p&gt;&lt;br /&gt;"
@@ -762,7 +762,7 @@
 			"id":"81",
 			"count":"1",
 			"title":"BASF Eco-Efficiency Analysis",
-			"url":"Przyznawanym jest różnym grupom produktów, w tym materiałom budowlanym i budynkom, kosmetykom, środkom farmaceutycznym, opakowaniom i środkom transportu.",
+			"url":"http://www.basf.com/group/corporate/en/sustainability/eco-efficiency-analysis/eco-efficiency-analysis",
 			"class":"3",
 			"categories":["materiaŁy budowlane","kosmetyki","opakowania","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest produktom, które pomyślnie przejdą kompleksową ocenę ekoefektywności, uwzględniającą kryteria środowiskowe, ekonomiczne i społeczne. Ocena obejmuje cały cykl życia produktów: od wydobycia surowców przez produkcję, użytkowanie do końcowego zagospodarowania.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak gwarantuje, że produkt lub usługa nim opatrzone są nie tylko przyjazne dla środowiska, ale wykazują się także efektywnością z ekonomicznego i społecznego punktu widzenia.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Przyznawanym jest różnym grupom produktów, w tym materiałom budowlanym i budynkom, kosmetykom, środkom farmaceutycznym, opakowaniom i środkom transportu.&lt;/p&gt;&lt;br /&gt;"
@@ -773,7 +773,7 @@
 			"title":"ABNT",
 			"url":"http://www.abnt.org.br/",
 			"class":"3",
-			"categories":["materiaŁy budowlane","kosmetyki","wyroby tekstylne","sprzĘt elektryczny i elektroniczny","odpady",null],
+			"categories":["materiaŁy budowlane","kosmetyki","wyroby tekstylne","urzĄdzenia elektryczne i elektroniczne","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak gwarantuje, że dany produkt spełnia kompleksowe kryteria środowiskowe opracowane przez organizację ABNT dotyczące całego cyklu jego życia.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkty opatrzone znakiem wykazują się wyróżniającą ekologicznością w porównaniu do podobnych produktów należących do tej samej kategorii produktowej.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na materiałach budowlanych, kosmetykach, tekstyliach oraz urządzeniach elektrycznych i elektronicznych.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
@@ -1044,7 +1044,7 @@
 			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
 			"class":"1",
 			"categories":["opakowania","odpady",null],
-			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z papieru lub tektury powlekanych tworzywem sztucznym.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/&lt;strong&gt;”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „&lt;/strong&gt;” oznacza materiał dominujący. Przykładowo, symbol „C/PP” oznacza mieszaninę papieru i polipropylenu, w której polipropylen stanowi materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z papieru lub tektury powlekanych tworzywem sztucznym.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/**”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „**” oznacza materiał dominujący. Przykładowo, symbol „C/PP” oznacza mieszaninę papieru i polipropylenu, w której polipropylen stanowi materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
 			"id":"48",
@@ -1128,7 +1128,7 @@
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z blachy stalowej (FE) – numer 40.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowania po wykorzystaniu należy wrzucać do pojemników na odpady oznaczonych napisem METALE.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
-			"id":"",
+			"id":"39",
 			"count":"2",
 			"title":"Recycle now",
 			"url":"http://www.recyclenow.com/",
@@ -1178,7 +1178,7 @@
 			"title":"Znak określający rodzaj materiału z jakiego wykonane są baterie (ogniwa)",
 			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
 			"class":"1",
-			"categories":["urzĄdzenia elekrtyczne i elektroniczne","odpady",null],
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Dana bateria (ogniwo) zbudowana jest z układu alkalicznego (alkaline) – numer 19.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Segregowanie zużytych baterii i akumulatorów oszczędza środowisko także dlatego, że na drodze recyklingu możliwe jest odzyskanie z nich metali, które mogą być cennym surowcem wtórnym do produkcji nowych wyrobów. Jest to ważne, bowiem metale produkowane są z rud metali, będących nieodnawialnymi surowcami mineralnymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Zużyte baterie i akumulatory ze względu na obecność metali stanowią odpad niebezpieczny i wymagają segregacji. Nie wolno umieszczać ich w pojemnikach z innymi rodzajami odpadów. Należy je wrzucać do specjalnych pojemników na zużyte baterie lub przekazywać do punktów selektywnej zbiórki odpadów komunalnych zorganizowanych w poszczególnych miejscowościach.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na bateriach (ogniwach), które stanowią często nieodzowne akcesoria do wielu urządzeń elektrycznych i elektronicznych. W związku z tym można go znaleźć także na zużytych bateriach albo w zużytym elektrosprzęcie.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
@@ -1187,7 +1187,7 @@
 			"title":"Znak określający rodzaj materiału z jakiego wykonane są baterie (ogniwa)",
 			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
 			"class":"1",
-			"categories":["urzĄdzenia elekrtyczne i elektroniczne","odpady",null],
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak informuje, że dana bateria (ogniwo) zbudowana jest z układu węglowo-cynkowego (CZ) – numer 14.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Segregowanie zużytych baterii i akumulatorów oszczędza środowisko także dlatego, że na drodze recyklingu możliwe jest odzyskanie z nich metali, które mogą być cennym surowcem wtórnym do produkcji nowych wyrobów. Jest to ważne, bowiem metale produkowane są z rud metali, będących nieodnawialnymi surowcami mineralnymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Zużyte baterie i akumulatory ze względu na obecność metali stanowią odpad niebezpieczny i wymagają segregacji. Nie wolno umieszczać ich w pojemnikach z innymi rodzajami odpadów. Należy je wrzucać do specjalnych pojemników na zużyte baterie lub przekazywać do punktów selektywnej zbiórki odpadów komunalnych zorganizowanych w poszczególnych miejscowościach.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na bateriach (ogniwach), które stanowią często nieodzowne akcesoria do wielu urządzeń elektrycznych i elektronicznych. W związku z tym można go znaleźć także na zużytych bateriach albo w zużytym elektrosprzęcie.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
@@ -1196,7 +1196,7 @@
 			"title":"Znak określający rodzaj materiału z jakiego wykonane są baterie (ogniwa)",
 			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
 			"class":"1",
-			"categories":["urzĄdzenia elekrtyczne i elektroniczne","odpady",null],
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Dana bateria (ogniwo) zbudowana jest z układu srebrowo-cynkowego (SO(Z)) – numer 13.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Segregowanie zużytych baterii i akumulatorów oszczędza środowisko także dlatego, że na drodze recyklingu możliwe jest odzyskanie z nich metali, które mogą być cennym surowcem wtórnym do produkcji nowych wyrobów. Jest to ważne, bowiem metale produkowane są z rud metali, będących nieodnawialnymi surowcami mineralnymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Zużyte baterie i akumulatory ze względu na obecność metali stanowią odpad niebezpieczny i wymagają segregacji. Nie wolno umieszczać ich w pojemnikach z innymi rodzajami odpadów. Należy je wrzucać do specjalnych pojemników na zużyte baterie lub przekazywać do punktów selektywnej zbiórki odpadów komunalnych zorganizowanych w poszczególnych miejscowościach.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na bateriach (ogniwach), które stanowią często nieodzowne akcesoria do wielu urządzeń elektrycznych i elektronicznych. W związku z tym można go znaleźć także na zużytych bateriach albo w zużytym elektrosprzęcie.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
@@ -1205,7 +1205,7 @@
 			"title":"Znak określający rodzaj materiału z jakiego wykonane są baterie (ogniwa)",
 			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
 			"class":"1",
-			"categories":["urzĄdzenia elekrtyczne i elektroniczne","odpady",null],
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Dana bateria (ogniwo) zbudowana jest z układu litowego (Li) – numer 12.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Segregowanie zużytych baterii i akumulatorów oszczędza środowisko także dlatego, że na drodze recyklingu możliwe jest odzyskanie z nich metali, które mogą być cennym surowcem wtórnym do produkcji nowych wyrobów. Jest to ważne, bowiem metale produkowane są z rud metali, będących nieodnawialnymi surowcami mineralnymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Zużyte baterie i akumulatory ze względu na obecność metali stanowią odpad niebezpieczny i wymagają segregacji. Nie wolno umieszczać ich w pojemnikach z innymi rodzajami odpadów. Należy je wrzucać do specjalnych pojemników na zużyte baterie lub przekazywać do punktów selektywnej zbiórki odpadów komunalnych zorganizowanych w poszczególnych miejscowościach.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na bateriach (ogniwach), które stanowią często nieodzowne akcesoria do wielu urządzeń elektrycznych i elektronicznych. W związku z tym można go znaleźć także na zużytych bateriach albo w zużytym elektrosprzęcie.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
@@ -1214,7 +1214,7 @@
 			"title":"Znak określający rodzaj materiału z jakiego wykonane są baterie (ogniwa)",
 			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
 			"class":"1",
-			"categories":["urzĄdzenia elekrtyczne i elektroniczne","odpady",null],
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Dana bateria (ogniwo) zbudowana jest z układu niklowo-metalowo-wodorkowego (NiMH) – numer 11.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Segregowanie zużytych baterii i akumulatorów oszczędza środowisko także dlatego, że na drodze recyklingu możliwe jest odzyskanie z nich metali, które mogą być cennym surowcem wtórnym do produkcji nowych wyrobów. Jest to ważne, bowiem metale produkowane są z rud metali, będących nieodnawialnymi surowcami mineralnymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Zużyte baterie i akumulatory ze względu na obecność metali stanowią odpad niebezpieczny i wymagają segregacji. Nie wolno umieszczać ich w pojemnikach z innymi rodzajami odpadów. Należy je wrzucać do specjalnych pojemników na zużyte baterie lub przekazywać do punktów selektywnej zbiórki odpadów komunalnych zorganizowanych w poszczególnych miejscowościach.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na bateriach (ogniwach), które stanowią często nieodzowne akcesoria do wielu urządzeń elektrycznych i elektronicznych. W związku z tym można go znaleźć także na zużytych bateriach albo w zużytym elektrosprzęcie.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
@@ -1223,7 +1223,7 @@
 			"title":"Znak określający rodzaj materiału z jakiego wykonane są baterie (ogniwa)",
 			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
 			"class":"1",
-			"categories":["urzĄdzenia elekrtyczne i elektroniczne","odpady",null],
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Dana bateria (ogniwo) zbudowana jest z układu niklowo-kadmowego (NiCD) – numer 10.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Segregowanie zużytych baterii i akumulatorów oszczędza środowisko także dlatego, że na drodze recyklingu możliwe jest odzyskanie z nich metali, które mogą być cennym surowcem wtórnym do produkcji nowych wyrobów. Jest to ważne, bowiem metale produkowane są z rud metali, będących nieodnawialnymi surowcami mineralnymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Zużyte baterie i akumulatory ze względu na obecność metali stanowią odpad niebezpieczny i wymagają segregacji. Nie wolno umieszczać ich w pojemnikach z innymi rodzajami odpadów. Należy je wrzucać do specjalnych pojemników na zużyte baterie lub przekazywać do punktów selektywnej zbiórki odpadów komunalnych zorganizowanych w poszczególnych miejscowościach.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na bateriach (ogniwach), które stanowią często nieodzowne akcesoria do wielu urządzeń elektrycznych i elektronicznych. W związku z tym można go znaleźć także na zużytych bateriach albo w zużytym elektrosprzęcie.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
@@ -1232,7 +1232,7 @@
 			"title":"Znak określający rodzaj materiału z jakiego wykonane są baterie (ogniwa)",
 			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
 			"class":"1",
-			"categories":["urzĄdzenia elekrtyczne i elektroniczne","odpady",null],
+			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Dana bateria (ogniwo) zbudowana jest z układu ołowiowo-kwasowego (LEAD) – numer 08.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Segregowanie zużytych baterii i akumulatorów oszczędza środowisko także dlatego, że na drodze recyklingu możliwe jest odzyskanie z nich metali, które mogą być cennym surowcem wtórnym do produkcji nowych wyrobów. Jest to ważne, bowiem metale produkowane są z rud metali, będących nieodnawialnymi surowcami mineralnymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Zużyte baterie i akumulatory ze względu na obecność metali stanowią odpad niebezpieczny i wymagają segregacji. Nie wolno umieszczać ich w pojemnikach z innymi rodzajami odpadów. Należy je wrzucać do specjalnych pojemników na zużyte baterie lub przekazywać do punktów selektywnej zbiórki odpadów komunalnych zorganizowanych w poszczególnych miejscowościach.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na bateriach (ogniwach), które stanowią często nieodzowne akcesoria do wielu urządzeń elektrycznych i elektronicznych. W związku z tym można go znaleźć także na zużytych bateriach albo w zużytym elektrosprzęcie.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
@@ -1268,7 +1268,7 @@
 			"title":"NAPM recycled 50% approved",
 			"url":"http://www.napm.org.uk/recycled_mark.htm",
 			"class":"2",
-			"categories":["opakowania","dopady",null],
+			"categories":["opakowania","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Jest to potwierdzenie, że wyrób został w 50% wyprodukowany przy użyciu (włókien) surowców wtórnych.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Ponowne wykorzystanie surowców w przemyśle papierniczym przyczynia się do oszczędności zasobów leśnych oraz zmniejszenia ilości odpadów.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Certyfikat&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Dany wyrób papierowy lub tekturowy (np. opakowanie) uzyskał certyfikat stowarzyszenia The National Association of Paper Merchants (NAPM).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten umieszczany jest na różnych wyrobach z papieru i tektury, między innymi na opakowaniach i materiałach biurowych.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
@@ -1277,7 +1277,7 @@
 			"title":"NAPM recycled 75% approved",
 			"url":"http://www.napm.org.uk/recycled_mark.htm",
 			"class":"2",
-			"categories":["opakowania","dopady",null],
+			"categories":["opakowania","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Jest to potwierdzenie, że wyrób został w 75% wyprodukowany przy użyciu (włókien) surowców wtórnych.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Ponowne wykorzystanie surowców w przemyśle papierniczym przyczynia się do oszczędności zasobów leśnych oraz zmniejszenia ilości odpadów.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Certyfikat&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Dany wyrób papierowy lub tekturowy (np. opakowanie) uzyskał certyfikat stowarzyszenia The National Association of Paper Merchants (NAPM).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten umieszczany jest na różnych wyrobach z papieru i tektury, między innymi na opakowaniach i materiałach biurowych.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
@@ -1437,7 +1437,7 @@
 			"id":"4",
 			"count":"8",
 			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
-			"url":"Znak identyfikujący rodzaj materiału opakowaniowego",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
 			"class":"1",
 			"categories":["opakowania","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z polimeru o nazwie politereftalan etylenu (PET, PETE, PETP, PET-P) – numer 1 lub 01.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowania opatrzone tym znakiem należy po wykorzystaniu wrzucać do pojemników na odpady oznaczonych napisami TWORZYWA SZTUCZNE, PLASTIK lub PET.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
