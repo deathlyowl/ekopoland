@@ -207,7 +207,7 @@
 			"url":"http://www.mg.gov.pl/NR/rdonlyres/6178185C-DCEB-4E7A-B0D8-920A480D1FEC/53502/200295WE.pdf",
 			"class":"1",
 			"categories":["urzĄdzenia elektryczne i elektroniczne","odpady",null],
-			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak stanowi deklarację producenta, że dany produkt spełnia obowiązkowe kryteria dyrektywy ROHS 2002/95/WE, dotyczącej ograniczenia użycia substancji niebezpiecznych dla zdrowia i życia ludzkiego oraz dla środowiska w sprzęcie elektrycznym i elektronicznym.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Producent deklaruje, że w materiale jednorodnym zawartym w produkcie nie znajduje się więcej niż:&lt;/p&gt;&lt;br /&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;• 0,1% ołowiu&lt;br /&gt;• 0,01% kadmu&lt;br /&gt;• 0,1% rtęci&lt;br /&gt;• 0,1% sześciowartościowego chromu&lt;br /&gt;• 0,1% polibromowanych bifenyli&lt;br /&gt;• 0,1% polibromowanych eterów fenylowych.&lt;br /&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest urządzeniom elektrycznym i elektronicznym.&lt;/p&gt;&lt;br /&gt;"
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak stanowi deklarację producenta, że dany produkt spełnia obowiązkowe kryteria dyrektywy ROHS 2002/95/WE, dotyczącej ograniczenia użycia substancji niebezpiecznych dla zdrowia i życia ludzkiego oraz dla środowiska w sprzęcie elektrycznym i elektronicznym.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Producent deklaruje, że w materiale jednorodnym zawartym w produkcie nie znajduje się więcej niż:&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;br /&gt;&lt;li&gt;0,1% ołowiu&lt;/li&gt;&lt;br /&gt;&lt;li&gt;0,01% kadmu&lt;/li&gt;&lt;br /&gt;&lt;li&gt;0,1% rtęci&lt;/li&gt;&lt;br /&gt;&lt;li&gt;0,1% sześciowartościowego chromu&lt;/li&gt;&lt;br /&gt;&lt;li&gt;0,1% polibromowanych bifenyli&lt;/li&gt;&lt;br /&gt;&lt;li&gt;0,1% polibromowanych eterów fenylowych.&lt;/li&gt;&lt;br /&gt;&lt;/ul&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak przyznawany jest urządzeniom elektrycznym i elektronicznym.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
 			"id":"143",
@@ -642,7 +642,7 @@
 			"body":"&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Produkt opatrzony znakiem:&lt;/p&gt;&lt;br /&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;• jest wolny od wszelkich szkodliwych substancji chemicznych stosowanych w rolnictwie konwencjonalnym&lt;br /&gt;• został wyprodukowany zgodnie z kryteriami rolnictwa ekologicznego, tj. z zachowaniem bioróżnorodności, z dbałością o dobrostan zwierząt oraz bez stosowania nawozów mineralnych.&lt;br /&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak stosowany jest w odniesieniu do produktów żywnościowych oraz takich, które zawierają składniki pochodzenia rolnego, np. wyrobów tekstylnych, kosmetyków.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
-			"id":"95w",
+			"id":"115",
 			"count":"1",
 			"title":"Agriculture Biologique (AB)",
 			"url":"http://www.agencebio.org/",
@@ -788,7 +788,7 @@
 		{
 			"id":"78",
 			"count":"1",
-			"title":"Unijny Margaretka",
+			"title":"Unijna Margaretka",
 			"url":"http://ec.europa.eu/environment/ecolabel/",
 			"class":"3",
 			"categories":["kosmetyki","materiaŁy budowlane","zabawki","urzĄdzenia elektryczne i elektroniczne","wyroby tekstylne","opakowania","odpady",null],
@@ -880,7 +880,7 @@
 			"count":"2",
 			"title":"Vegan",
 			"url":"http://www.vegansociety.com/",
-			"class":"",
+			"class":"3",
 			"categories":["kosmetyki","ŻywnoŚĆ","odpady",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Dany produkt nie był testowany na zwierzętach. Zawiera opakowanie biodegradowalne lub zdolne do recyklingu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak gwarantuje, że produkt nie zawiera:&lt;/p&gt;&lt;br /&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;• syntetycznych konserwantów&lt;br /&gt;• substancji pochodzących z roślin modyfikowanych genetycznie&lt;br /&gt;• syntetycznych zapachów i barwników.&lt;br /&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Certyfikacja znakiem obejmuje produkty żywnościowe i kosmetyki.&lt;/p&gt;&lt;br /&gt;"
 		},
