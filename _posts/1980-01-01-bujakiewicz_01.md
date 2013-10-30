@@ -1,7 +1,8 @@
----
+w---
 layout: nothing
 tags: story
 author: Katarzyna Bujakiewicz
+youtube: "http://youtu.be/Nm3cmDsqJFQ"
 title: Lola
 ---
 — To jest stare — pokręciła głową Zuza, moja córka. 
@@ -11,6 +12,7 @@ title: Lola
 — Po co mi taki stary łach? — zapytała, dodając — Obiecałaś mi nowe Pet Shopy. 
 
 — Myślałam, że kupiłam ci już wszystkie, jakie istnieją — odparłam, zgodnie z prawdą. 
+
 Naprawdę tak myślałam. Za tę zalegającą w jej pokoju kawalerię kolorowych, plastikowych kucyków można byłoby się kopsnąć na niezłe wakacje. 
 
 — Cały czas ukazują się nowe — odparła, niewzruszona. 

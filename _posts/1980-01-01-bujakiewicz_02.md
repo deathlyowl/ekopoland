@@ -2,6 +2,7 @@
 layout: nothing
 tags: story
 author: Katarzyna Bujakiewicz
+youtube: "http://youtu.be/ThBh3raRces"
 title: Mission impossible
 ---
 Minęła dwunasta. Koziołki odtańczyły swój taniec, przedszkolanki zabrały swoich zezowatych i szczerbatych podopiecznych, a Paula jak siedziała na poznańskim rynku, tak siedziała. Apatycznie przeżuwając kawałek margherity, przyglądała się tłumowi zalegającemu koślawą kostkę brukową. Nie śpieszyło się jej z powrotem do dusznego biura i komputera. Nadziwić się za to nie mogła, co takiego jest w tych ludziach, że w taki upał chce im się przymierzać, oglądać, porównywać i kupować. Bo przecież o tym świadczyły te wszystkie torby i torebki ze znanymi markami, z którymi turyści paradowali w skwarze po mieście.
