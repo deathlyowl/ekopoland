@@ -1,15 +1,708 @@
 {
-	"categories":["odpady","opakowania",null],
+	"categories":["waste","packaging","foods","cosmetics","textiles","construction materials","electronics and household appliances","toys",null],
 	"signs":
 	[
+		{
+			"id":"80",
+			"count":"1",
+			"title":"ABNT",
+			"url":"http://www.abnt.org.br/",
+			"class":"3",
+			"categories":["construction materials","cosmetics","textiles","electronics and household appliances","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label guarantees that the product complies with comprehensive environmental criteria developed by the organisation ABNT concerning its entire life cycle.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Products with this label demonstrate distinctive environmental performance as compared to similar products belonging to the same product category.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;You can find the label on construction materials, cosmetics, textiles and electrical and electronic equipment. It can be also found on waste generated after the use of such products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"79",
+			"count":"1",
+			"title":"CARBON FOOTPRINT",
+			"url":"http://www.carbontrust.com/",
+			"class":"1",
+			"categories":["packaging","foods","cosmetics","textiles","construction materials","electronics and household appliances","toys","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is awarded by the organisation Carbon Trust. It means that for a carbon footprint analysis was performed for a given product or service. The label informs on the volume of greenhouse gas emission attributable to a part or the entire life cycle of a given product or service.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label ensures that carbon footprint calculations have been made in accordance with the guidance of the organisation Carbon Trust and applicable standards. The figure presented on the label means the amount of greenhouse gas emissions equivalent to carbon dioxide (CO2 eq) and it is expressed in mass units (grams, kilograms, tonnes).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Greenhouse gases are considered to be the major source of global warming, thus, the lower the carbon footprint value (lower numerical value in the label), the better it is for the environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label can be awarded to any group of products, including packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"78",
+			"count":"1",
+			"title":"EU ECOLABEL",
+			"url":"http://ec.europa.eu/environment/ecolabel/",
+			"class":"3",
+			"categories":["cosmetics","construction materials","toys","electronics and household appliances","textiles","packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The official environmental label functioning in the EU eco-labelling system.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The presence of the label on the product or its packaging means that it has complied with comprehensive - specific for its product category - environmental criteria concerning the entire life cycle. It is awarded to products and services demonstrating comprehensive environmental performance.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;It  is awarded to a broad range of products and services, including cosmetics, construction materials, textile products, toys, electrical and electronic equipment, detergents, paper products and fertilizers. It can be also found on waste generated after the use of such products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"77",
+			"count":"1",
+			"title":"THE BLUE ANGEL",
+			"url":"http://www.blauer-engel.de/",
+			"class":"3",
+			"categories":["packaging","construction materials","textiles","toys","electronics and household appliances","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is functioning in the German eco-labelling system.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is awarded to products that stand out in their product category by being:&lt;br /&gt;- more friendly for the environment and human health&lt;br /&gt;- significantly beneficial for the environment&lt;br /&gt;- compliant with applicable standards of technical efficiency and requirements relating to occupational safety, health and hygiene.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label is awarded to a broad group of products including: construction materials, textile products, toys, electrical and electronic equipment, household articles, chemicals, heating systems and means of transport. It can be also found on waste generated after the use of such products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"76",
+			"count":"1",
+			"title":"NORDIC ECOLABEL",
+			"url":"http://www.nordic-ecolabel.org/",
+			"class":"3",
+			"categories":["cosmetics","toys","textiles","construction materials","electronics and household appliances","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Label functioning in the Nordic eco-labelling system in such countries as: Sweden, Norway, Finland, Denmark and Iceland.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is awarded to products that stand out in their product category by being more friendly to the environment and human health, for example through lower consumption of energy, lower emission of pollutants or smaller volume of waste generated.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;It is awarded to a broad group of products: construction materials, textile products, toys, electrical and electronic equipment, household articles and cleaning agents. It can be also found on waste generated after the use of such products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"75",
+			"count":"1",
+			"title":"IHTK",
+			"url":"http://www.ihtk.de/ihtk-en.htm",
+			"class":"1",
+			"categories":["cosmetics","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The product has not been tested on animals at any production stage. It contains ingredients derived only from living animals.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on cosmetics and waste generated after the use of such products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"74",
+			"count":"1",
+			"title":"LEAPING BUNNY",
+			"url":"http://www.gocrueltyfree.org/",
+			"class":"1",
+			"categories":["cosmetics","electronics and household appliances","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The product and its ingredients have not been tested on animals.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.This label is placed mainly on cosmetics, but it can be also found on electrical and electronic equipment (household appliances) and household products, such as cleaning agents. It can be also found on waste generated after the use of such products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"73",
+			"count":"1",
+			"title":"NATRUE ORGANIC COSMETICS",
+			"url":"http://www.natrue.org/",
+			"class":"3",
+			"categories":["cosmetics","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Organic Cosmetics label is awarded by the organisation NATRUE to organic cosmetics.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Label guarantees that the product meets the requirements of the organisation NATRUE for natural cosmetics. In addition, this label ensures that at least 95% of the natural product ingredients come from controlled organic farming or controlled, so-called wild crops. Currently, very few cosmetics are able to meet these stringent requirements, which constitute a real challenge for manufacturers.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on cosmetics and waste generated after the use of such products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"72",
+			"count":"1",
+			"title":"NATRUE NATURAL COSMETICS WITH ORGANIC PORTION",
+			"url":"http://www.natrue.org/",
+			"class":"3",
+			"categories":["cosmetics","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Natural Cosmetics with Organic Portion label is awarded by the organisation NATRUE to natural cosmetics that also contain some quantity of organic ingredients.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Label guarantees that the product meets the requirements of the organisation NATRUE for natural cosmetics. In addition, this label ensures that at least 70% of the natural product ingredients come from controlled organic farming or controlled, so-called wild crops, which means that they are made with particular respect for the natural environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on cosmetics and waste generated after the use of such products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"71",
+			"count":"2",
+			"title":"NATRUE NATURAL COSMETICS",
+			"url":"http://www.natrue.org/",
+			"class":"2",
+			"categories":["cosmetics","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Natural Cosmetics mark is the basic label awarded to natural cosmetics by the organisation NATRUE, which specifies which ingredients and the method of their processing are allowed in the products that it certifies. In case of Natural Cosmetics labels, only natural ingredients may be used in cosmetics, which does not mean that they have to be derived from controlled organic farming.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Label guarantees that the product is made from natural ingredients with a low degree of processing, with respect for nature.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on cosmetics and waste generated after the use of such products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"70",
+			"count":"1",
+			"title":"ECO GARANTIE",
+			"url":"http://ecogarantie.com/",
+			"class":"3",
+			"categories":["cosmetics","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label indicates that the product bearing it has met the requirements for natural cosmetics with the addition of organic ingredients under Ecogarantie certification process.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label guarantees that the product bearing it:&lt;br /&gt;- contains a large amount of natural raw materials from controlled organic farming&lt;br /&gt;- was not tested on animals&lt;br /&gt;- is free from GMOs&lt;br /&gt;-has been manufactured under the strict control concerning the use of stabilisers, emulsifiers, preservatives.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Generally, certification covers with the label three categories of products, such as: cosmetics, cleaning agents and sea salt. It can be also found on waste generated after the use of such products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"69",
+			"count":"1",
+			"title":"ECO CONTROL",
+			"url":"http://www.eco-control.com/",
+			"class":"3",
+			"categories":["cosmetics","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label indicates that the product bearing it has met the requirements for natural cosmetics with the addition of organic ingredients under EcoControl certification process.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label guarantees that the product bearing it:&lt;br /&gt;- contains ingredients made from natural raw materials&lt;br /&gt;- is free from GMOs and derivatives of the petrochemical industry&lt;br /&gt;- contains pure vegetable oils from controlled organic farming.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Certification includes food products and cosmetics.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"68",
+			"count":"2",
+			"title":"VEGAN",
+			"url":"http://www.vegansociety.com/",
+			"class":"3",
+			"categories":["cosmetics","foods","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The product was not tested on animals. It contains biodegradable and recyclable packaging.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label guarantees that the product does not contain:&lt;br /&gt;- synthetic preservatives&lt;br /&gt;- substances derived from genetically modified plants&lt;br /&gt;- synthetic fragrances and dyes.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Certification includes food products and cosmetics.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"67",
+			"count":"1",
+			"title":"ECO COSMEBIO",
+			"url":"www.cosmebio.org",
+			"class":"3",
+			"categories":["cosmetics","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The product complies with the comprehensive criteria developed in 2002 concerning the manufacture of organic cosmetics, including the requirement that at least 95% of its ingredients are organic or derived from certified organic farming.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label guarantees that the product bearing it is almost entirely based on natural raw materials, does not contain any synthetic colouring matters and odoriferous compounds, does not contain synthetic preservatives, such as paraben or fenoxyethanol, is free from GMOs and substances of petrochemical origin, and it was not subject to ionization treatment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found mainly on cosmetics and waste generated after the use of these products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"66",
+			"count":"1",
+			"title":"BIO COSMEBIO",
+			"url":"www.cosmebio.org ",
+			"class":"3",
+			"categories":["cosmetics","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The product complies with the comprehensive criteria developed in 2002 concerning the manufacture of natural cosmetics, including the requirement that at least 95% of its ingredients are natural or of natural origin.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label guarantees that the product bearing it is almost entirely based on natural raw materials, does not contain any synthetic colouring matters and odoriferous compounds, does not contain synthetic preservatives, such as paraben or fenoxyethanol, is free from GMOs and substances of petrochemical origin, and it was not subject to ionization treatment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found mainly on cosmetics and waste generated after the use of these products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"65",
+			"count":"3",
+			"title":"SOIL ASSOCIATION ORGANIC",
+			"url":"http://www.soilassociation.org/",
+			"class":"3",
+			"categories":["cosmetics","foods","textiles","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The product contains the maximum possible amount of organic/ego components.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label guarantees that the product bearing it is organic in 95% or - if there is an insufficient quantity of organic ingredients - organic in at least in 70% and then there is a note &amp;quot;with organic ingredients&amp;quot;. In addition, the label is a guarantee that the product is free from GMOs, often biodegradable and environmentally friendly.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found mainly on cosmetics, food products, textiles  and waste generated after the use of these products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"64",
+			"count":"4",
+			"title":"BDIH",
+			"url":"HTTP://WWW.BDIH.DE",
+			"class":"3",
+			"categories":["cosmetics","waste","foods",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The product contains plant raw materials derived from controlled organic farms and certified wild crops, which have been derived only from living animals. The product was not tested on animals and only compounds derived from selected natural substances were used for its production.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The product does not contain:&lt;br /&gt;- organic and synthetic colouring matters&lt;br /&gt;- synthetic odoriferous substances&lt;br /&gt;- substances obtained from the distillation of crude oil.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found mainly on cosmetics and food products and waste generated after the use of these products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"63",
+			"count":"1",
+			"title":"ECOCERT",
+			"url":"http://www.ecocert.com/",
+			"class":"3",
+			"categories":["cosmetics","foods","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The product contains materials derived only from living animals. It was not tested on animals. Only compounds based on selected and non-hazardous substances were used as preservatives.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label guarantees that the product does not contain:&lt;br /&gt;- Genetically Modified Organisms (GMOs)&lt;br /&gt;- substances obtained from the distillation of crude oil&lt;br /&gt;- PEG emulsifiers&lt;br /&gt;- synthetic odoriferous substances and colouring matters.&lt;br /&gt;Ecocert warrants also that the product packaging is designed in an environmentally friendly manner.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found mainly on cosmetics and food products and waste generated after the use of these products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"62",
+			"count":"1",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://en.wikipedia.org/wiki/Recycling_codes",
+			"class":"1",
+			"categories":["waste","packaging",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from a copolymer called acrylonitrile butadiene styrene (ABS).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the sign PLASTICS.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"61",
+			"count":"1",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["waste","packaging",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from a composite consisting of glass and metal other than aluminium and galvanised steel sheet - number 98.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best method for the management of packaging waste with this label, the best solution is to contact an organisation responsible for municipal waste management in the area and follow its guidelines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;There may be the abbreviation &amp;quot;C/&lt;strong&gt;&amp;quot; under the label, which specifies the materials forming the composite, and &amp;quot;&lt;/strong&gt;&amp;quot; means the dominant material. The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"60",
+			"count":"1",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["waste","packaging",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from a composite consisting of glass and galvanised steel sheet - number 97.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best method for the management of packaging waste with this label, the best solution is to contact an organisation responsible for municipal waste management in the area and follow its guidelines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;There may be the abbreviation &amp;quot;C/&lt;strong&gt;&amp;quot; under the label, which specifies the materials forming the composite, and &amp;quot;&lt;/strong&gt;&amp;quot; means the dominant material. The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"59",
+			"count":"1",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["waste","packaging",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from a composite consisting of aluminium and glass - number 96.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best method for the management of packaging waste with this label, the best solution is to contact an organisation responsible for municipal waste management in the area and follow its guidelines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;There may be the abbreviation &amp;quot;C/&lt;strong&gt;&amp;quot; under the label, which specifies the materials forming the composite, and &amp;quot;&lt;/strong&gt;&amp;quot; means the dominant material. The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"58",
+			"count":"1",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from a composite consisting of plastic and glass - number 95.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best method for the management of packaging waste with this label, the best solution is to contact an organisation responsible for municipal waste management in the area and follow its guidelines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;There may be the abbreviation &amp;quot;C/&lt;strong&gt;&amp;quot; under the label, which specifies the materials forming the composite, and &amp;quot;&lt;/strong&gt;&amp;quot; means the dominant material. The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"57",
+			"count":"1",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from a composite consisting of plastic and metal other than aluminium and galvanised steel sheet - number 92.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best method for the management of packaging waste with this label, the best solution is to contact an organisation responsible for municipal waste management in the area and follow its guidelines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;There may be the abbreviation &amp;quot;C/&lt;strong&gt;&amp;quot; under the label, which specifies the materials forming the composite, and &amp;quot;&lt;/strong&gt;&amp;quot; means the dominant material. The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"56",
+			"count":"1",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from a composite consisting of plastic and galvanised steel sheet - number 91.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best method for the management of packaging waste with this label, the best solution is to contact an organisation responsible for municipal waste management in the area and follow its guidelines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;There may be the abbreviation &amp;quot;C/&lt;strong&gt;&amp;quot; under the label, which specifies the materials forming the composite, and &amp;quot;&lt;/strong&gt;&amp;quot; means the dominant material. The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"55",
+			"count":"2",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from a composite consisting of low-density polyethylene (LDPE) and aluminium, and polyethylene is the dominant material - number 90.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best method for the management of packaging waste with this label, the best solution is to contact an organisation responsible for municipal waste management in the area and follow its guidelines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"54",
+			"count":"1",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from a composite consisting of plastic and aluminium - number 90. &lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best method for the management of packaging waste with this label, the best solution is to contact an organisation responsible for municipal waste management in the area and follow its guidelines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;There may be the abbreviation &amp;quot;C/&lt;strong&gt;&amp;quot; under the label, which specifies the materials forming the composite, and &amp;quot;&lt;/strong&gt;&amp;quot; means the dominant material. The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"53",
+			"count":"1",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://en.wikipedia.org/wiki/Recycling_codes",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from laminated paper – number 87. &lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best method for the management of packaging waste with this label, the best solution is to contact an organisation responsible for municipal waste management in the area and follow its guidelines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;There may be the abbreviation &amp;quot;C/&lt;strong&gt;&amp;quot; under the label, which specifies the materials forming the composite, and &amp;quot;&lt;/strong&gt;&amp;quot; means the dominant material.&lt;br /&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"51",
+			"count":"5",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from paper coated with aluminium, and paper is the dominant material - number 84.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best method for the management of packaging waste with this label, the best solution is to contact an organisation responsible for municipal waste management in the area and follow its guidelines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"50",
+			"count":"2",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from paper or cardboard coated with polyethylene terephthalate (PAPPET) – number 81.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best method for the management of packaging waste with this label, the best solution is to contact an organisation responsible for municipal waste management in the area and follow its guidelines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"49",
+			"count":"1",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from paper or paperboard coated with plastic.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best method for the management of packaging waste with this label, the best solution is to contact an organisation responsible for municipal waste management in the area and follow its guidelines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;There may be the abbreviation &amp;quot;C/&lt;strong&gt;&amp;quot; under the label, which specifies the materials forming the composite, and &amp;quot;&lt;/strong&gt;&amp;quot; means the dominant material. For instance, the symbol &amp;quot;C/PP&amp;quot; means a mixture of paper and polypropylene where polypropylene is the dominant material.&lt;br /&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"48",
+			"count":"5",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made of brown glass (GLS) - number 72.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the signs COLOURED GLASS or GLASS.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"47",
+			"count":"5",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made of green glass (GLS) - number 71.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the signs COLOURED GLASS or GLASS.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"46",
+			"count":"5",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made of colourless glass (GLS) - number 70.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the signs COLOURLESS GLASS or GLASS.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"45",
+			"count":"2",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from fabrics other than cotton and jute (TEX) - number 62.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In case of textile products, their multiple use is recommended, which also applies to packaging made from natural fibres. If, however, the packaging can no longer be used, in order to select the best form for its management it is advisable to contact the nearest point for separate waste collection or organisation responsible for waste management in the area. &lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"44",
+			"count":"2",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from jute (TEX) – number 61.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In case of textile products, their multiple use is recommended, which also applies to packaging made from natural fibres. If, however, the packaging can no longer be used, in order to select the best form for its management it is advisable to contact the nearest point for separate waste collection or organisation responsible for waste management in the area. &lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"43",
+			"count":"4",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from cotton (COT) – number 60. &lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In case of textile products, their multiple use is recommended, which also applies to packaging made from natural fibres. If, however, the packaging can no longer be used, in order to select the best form for its management it is advisable to contact the nearest point for separate waste collection or organisation responsible for waste management in the area. &lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"42",
+			"count":"3",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from cork (FOR) – number 51.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best form for wood packaging waste management it is advisable to contact the nearest point for separate waste collection or organisation responsible for waste management in the area.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"41",
+			"count":"3",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from wood (FOR) – number 50.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best form for wood packaging waste management it is advisable to contact the nearest point for separate waste collection or organisation responsible for waste management in the area.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"40",
+			"count":"4",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label informs us that the packaging is made from steel sheet (FE) – number 40.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the sign METALS.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"39",
+			"count":"2",
+			"title":"RECYCLE NOW",
+			"url":"http://www.recyclenow.com/",
+			"class":"2",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label indicates that the packaging is recyclable.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging with this label can be recycled into a new product of full value. It contributes to the reduction in the waste volume, and to saving of natural resources. It is important that such product or packaging should be segregated after use and put into a suitable waste container.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"38",
+			"count":"7",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from coated paper or coated paperboard (PBD, PPB) - number 23.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label most likely should be disposed to waste containers marked with the signs PAPER or WASTE PAPER. However, before discarding, it is advisable to become acquainted with detailed guidelines on waste segregation applicable in the area. Not all paper or paper-related waste can be put in the same container.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"37",
+			"count":"4",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from paper (PAP) – number 22.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the signs PAPER or WASTE PAPER.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"36",
+			"count":"4",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from flat board (PAP) – number 21.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the signs PAPER or WASTE PAPER.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"34",
+			"count":"9",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from corrugated board (PCB, PAP, C PAP) – number 20.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the signs PAPER or WASTE PAPER.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"33",
+			"count":"2",
+			"title":"LABEL SPECIFYING THE TYPE OF MATERIAL THAT BATTERIES (CELLS) ARE MADE FROM",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
+			"class":"1",
+			"categories":["electronics and household appliances","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The battery (cell) is made up of an alkali system (alkaline) – number 19.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Sorting of waste batteries and accumulators saves the environment also because through recycling it is possible to recover metals which may be valuable secondary raw materials for the manufacture of new products. It is important as metals are manufactured from ores which are non-renewable mineral resources.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Due to the presence of metals, used batteries and accumulators are hazardous waste and need to be segregated. They shall not be placed in containers with other types of waste. They shall be discarded to special containers for used batteries or delivered to the points for separate collection of municipal waste organised in different towns/cities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be This label is placed on batteries (cells), which are often essential accessories for many types of electrical and electronic equipment. Therefore, it can also be found on used batteries or in the used electrical equipment.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"32",
+			"count":"2",
+			"title":"LABEL SPECIFYING THE TYPE OF MATERIAL THAT BATTERIES (CELLS) ARE MADE FROM",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
+			"class":"1",
+			"categories":["electronics and household appliances","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label informs us that the battery (cell) is made up of a carbon-zinc system (CZ) - number 14.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Sorting of waste batteries and accumulators saves the environment also because through recycling it is possible to recover metals which may be valuable secondary raw materials for the manufacture of new products. It is important as metals are manufactured from ores which are non-renewable mineral resources.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Due to the presence of metals, used batteries and accumulators are hazardous waste and need to be segregated. They shall not be placed in containers with other types of waste. They shall be discarded to special containers for used batteries or delivered to the points for separate collection of municipal waste organised in different towns/cities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label is placed on batteries (cells), which are often essential accessories for many types of electrical and electronic equipment. Therefore, it can also be found on used batteries or in the used electrical equipment.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"31",
+			"count":"2",
+			"title":"LABEL SPECIFYING THE TYPE OF MATERIAL THAT BATTERIES (CELLS) ARE MADE FROM",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
+			"class":"1",
+			"categories":["electronics and household appliances","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The battery (cell) is made up of a silver-zinc system (SO(Z)) – number 13.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Sorting of waste batteries and accumulators saves the environment also because through recycling it is possible to recover metals which may be valuable secondary raw materials for the manufacture of new products. It is important as metals are manufactured from ores which are non-renewable mineral resources.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Due to the presence of metals, used batteries and accumulators are hazardous waste and need to be segregated. They shall not be placed in containers with other types of waste. They shall be discarded to special containers for used batteries or delivered to the points for separate collection of municipal waste organised in different towns/cities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label is placed on batteries (cells), which are often essential accessories for many types of electrical and electronic equipment. Therefore, it can also be found on used batteries or in the used electrical equipment.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"30",
+			"count":"2",
+			"title":"LABEL SPECIFYING THE TYPE OF MATERIAL THAT BATTERIES (CELLS) ARE MADE FROM",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
+			"class":"1",
+			"categories":["electronics and household appliances","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The battery (cell) is made up of a lithium system (Li) – number 12.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Sorting of waste batteries and accumulators saves the environment also because through recycling it is possible to recover metals which may be valuable secondary raw materials for the manufacture of new products. It is important as metals are manufactured from ores which are non-renewable mineral resources.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Due to the presence of metals, used batteries and accumulators are hazardous waste and need to be segregated. They shall not be placed in containers with other types of waste. They shall be discarded to special containers for used batteries or delivered to the points for separate collection of municipal waste organised in different towns/cities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label is placed on batteries (cells), which are often essential accessories for many types of electrical and electronic equipment. Therefore, it can also be found on used batteries or in the used electrical equipment.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"29",
+			"count":"2",
+			"title":"LABEL SPECIFYING THE TYPE OF MATERIAL THAT BATTERIES (CELLS) ARE MADE FROM",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
+			"class":"1",
+			"categories":["electronics and household appliances","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The battery (cell) is made up of a nickel--metal-hydride system (NiMH) – number 11.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Sorting of waste batteries and accumulators saves the environment also because through recycling it is possible to recover metals which may be valuable secondary raw materials for the manufacture of new products. It is important as metals are manufactured from ores which are non-renewable mineral resources.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Due to the presence of metals, used batteries and accumulators are hazardous waste and need to be segregated. They shall not be placed in containers with other types of waste. They shall be discarded to special containers for used batteries or delivered to the points for separate collection of municipal waste organised in different towns/cities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label is placed on batteries (cells), which are often essential accessories for many types of electrical and electronic equipment. Therefore, it can also be found on used batteries or in the used electrical equipment.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"28",
+			"count":"2",
+			"title":"LABEL SPECIFYING THE TYPE OF MATERIAL THAT BATTERIES (CELLS) ARE MADE FROM",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
+			"class":"1",
+			"categories":["electronics and household appliances","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The battery (cell) is made up of a nickel-cadmium system (NiCD) – number 10.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Sorting of waste batteries and accumulators saves the environment also because through recycling it is possible to recover metals which may be valuable secondary raw materials for the manufacture of new products. It is important as metals are manufactured from ores which are non-renewable mineral resources.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Due to the presence of metals, used batteries and accumulators are hazardous waste and need to be segregated. They shall not be placed in containers with other types of waste. They shall be discarded to special containers for used batteries or delivered to the points for separate collection of municipal waste organised in different towns/cities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label is placed on batteries (cells), which are often essential accessories for many types of electrical and electronic equipment. Therefore, it can also be found on used batteries or in the used electrical equipment.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"27",
+			"count":"2",
+			"title":"LABEL SPECIFYING THE TYPE OF MATERIAL THAT BATTERIES (CELLS) ARE MADE FROM",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
+			"class":"1",
+			"categories":["electronics and household appliances","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The battery (cell) is made up of a lead-acid system (LEAD) – number 08.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Sorting of waste batteries and accumulators saves the environment also because through recycling it is possible to recover metals which may be valuable secondary raw materials for the manufacture of new products. It is important as metals are manufactured from ores which are non-renewable mineral resources.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Due to the presence of metals, used batteries and accumulators are hazardous waste and need to be segregated. They shall not be placed in containers with other types of waste. They shall be discarded to special containers for used batteries or delivered to the points for separate collection of municipal waste organised in different towns/cities.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label is placed on batteries (cells), which are often essential accessories for many types of electrical and electronic equipment. Therefore, it can also be found on used batteries or in the used electrical equipment.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"26",
+			"count":"1",
+			"title":"SEPARATE COLLECTION OF ELECTRICAL AND ELECTRONIC EQUIPMENT",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20090790666",
+			"class":"1",
+			"categories":["electronics and household appliances","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label informs us that used electrical and electronic equipment (&amp;quot;electro waste&amp;quot;) shall not be discarded together with other types of waste to the containers for municipal waste (household dustbins).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Electro-waste should be disposed to authorised places (so-called points for separate collection of municipal waste), which are organised in different towns/cities or the option of the so-called junk disposal should be used. Used electrical and electronic equipment can be also disposed to the points of sale or service, provided that they collect such equipment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Disposal of waste marked with this label to household waste containers is dangerous for the environment. Such conduct is punishable with a fine up to PLN 5,000.&lt;br /&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label is placed directly on electrical and electronic equipment and in its documentation (e.g. user&amp;#39;s manual), it can be put on packaging of these types of products and on resulting waste (electro-waste).&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"25",
+			"count":"1",
+			"title":"ENVIRONMENTAL CARE",
+			"url":"http://www.wtrosceonature.com",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The manufacturer marketing the product has started cooperation with the recovery organisation Polski System Recyklingu S.A. &lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The established cooperation ensured the collection and recycling of a certain percentage of packaging used for production. These types of activities help to keep packaging in a closed cycle and to process (recycle) it into secondary raw material.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"24",
+			"count":"1",
+			"title":"DOL-EKO",
+			"url":"http://www.doleko.org.pl",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The manufacturer marketing the product has started cooperation with the recovery organisation DOL-EKO S.A.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The established cooperation ensured the collection and recycling of a certain percentage of packaging used for production. These types of activities help to keep packaging in a closed cycle and to process (recycle) it into secondary raw material.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"23",
+			"count":"2",
+			"title":"NAP RECYCLED 50% APPROVED",
+			"url":"http://www.napm.org.uk/recycled_mark.htm",
+			"class":"2",
+			"categories":["waste","packaging",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This is to confirm that the product is made in 50% from secondary raw materials (fibres).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The re-use of raw materials in the paper industry contributes to savings in forest resources and to the reduction in the waste volume.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Certificate&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The paper or cardboard paper product (e.g. packaging) obtained the certificated of The National Association of Paper Merchants (NAPM).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label is placed on various paper or cardboard products, including, inter alia, office packaging and materials. Therefore, it can be also found on waste resulting from this type of products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"22",
+			"count":"2",
+			"title":"NAPM RECYCLED 75% APPROVED",
+			"url":"http://www.napm.org.uk/recycled_mark.htm",
+			"class":"2",
+			"categories":["waste","packaging",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This is to confirm that the product is made in 75% from secondary raw materials (fibres).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The re-use of raw materials in the paper industry contributes to savings in forest resources and to the reduction in the waste volume.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Certificate&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The paper or cardboard paper product (e.g. packaging) obtained the certificated of The National Association of Paper Merchants (NAPM).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label is placed on various paper or cardboard products, including, inter alia, office packaging and materials. Therefore, it can be also found on waste resulting from this type of products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"21",
+			"count":"2",
+			"title":"NAPM RECYCLED 100% APPROVED",
+			"url":"http://www.napm.org.uk/recycled_mark.htm",
+			"class":"2",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This is to confirm that the product is made in 100% from secondary raw materials (fibres).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The re-use of raw materials in the paper industry contributes to savings in forest resources and to the reduction in the waste volume.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Certificate&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The paper or cardboard paper product (e.g. packaging) obtained the certificated of The National Association of Paper Merchants (NAPM).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label is placed on various paper or cardboard products, including, inter alia, office packaging and materials. Therefore, it can be also found on waste resulting from this type of products.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"20",
+			"count":"3",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"1",
+			"categories":["waste","packaging",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label informs us that the packaging is made from aluminium (ALU) – number 41.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the sign METALS.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"19",
+			"count":"1",
+			"title":"GLASS WASTE MANAGEMENT",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:13:13:31994L0062:PL:PDF",
+			"class":"1",
+			"categories":["waste","packaging",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label encourages consumers to put used glass packaging in containers intended for this purpose.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Acting in accordance with the label instructions helps to re-use raw materials, which reduces the demand on primary natural resources and reduces the waste volume.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"18",
+			"count":"10",
+			"title":"OK BIODEGRADABLE SOIL",
+			"url":"http://www.okcompost.be/en/home/",
+			"class":"2",
+			"categories":["waste","packaging",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is the guarantee that the packaging is biodegradable in soil and that it will be fully decomposed by living organisms (e.g. soil microorganisms) and will have no negative impact on the environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Biodegradation in soils means a significant added valued for agricultural and horticultural products, as after their use, they may be decomposed on the spot.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Certificate&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The mark is the confirmation of the certificate of the AIB-Vinçotte Group.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"17",
+			"count":"1",
+			"title":"OK COMPOST",
+			"url":"http://www.okcompost.be/en/home/",
+			"class":"2",
+			"categories":["waste","packaging",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label guarantees that the packaging is compatible with the European standard EN 13432 concerning industrial compostability.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;It indicates the suitability of the packaging to composting (degradation under the influence of microorganisms to carbon dioxide, water and biomass).&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Certificate&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The mark is the confirmation of the certificate of the AIB-Vinçotte Group.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"16",
+			"count":"1",
+			"title":"COMPOSTABLE",
+			"url":"http://www.bpiworld.org/BPI-Public/Program.html",
+			"class":"2",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is compostable - it is also biodegradable.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is decomposed under composting conditions, providing the so-called healthy compost.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Certificate&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The mark is the confirmation of the certificate of the US Composting Council and Biodegradable Products Institute.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"15",
+			"count":"1",
+			"title":"RECOVERABLE THROUGH RECYCLING",
+			"url":"http://www.cobro.org.pl ",
+			"class":"2",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging can be recycled.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;**Benefits&amp;quot;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Recyclability means that it is possible to recycle the waste resulting from this packaging into a new product of full value. Such activity will contribute to savings of primary natural raw materials and to the decrease in the general volume of waste.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, the packaging should be segregated and disposed to a waste container of relevant category.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Certificate&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The mark is the confirmation of the certificate COBRO – Packaging Research Institute in Warsaw.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"14",
+			"count":"1",
+			"title":"RECOVERABLE THROUGH RECYCLING",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"2",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging with this label can be recycled.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The waste resulting from such packaging can be recycled into a new product of full value. This will contribute to savings of primary natural raw materials and to the decrease in the general volume of waste.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;br /&gt;After use, the packaging should be segregated and disposed to a waste container of relevant category.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"13",
+			"count":"4",
+			"title":"COMPOSTABLE (ORGANIC RECYCLING)",
+			"url":"http://www.cobro.org.pl/",
+			"class":"2",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is compostable.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Under the influence of microorganisms, the packaging is degraded into carbon dioxide, water and biomass. Pursuant to the European standard, the biodecomposition time shall not be longer than six months.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Certificate&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The mark is the confirmation of the certificate DIN CERTCO/COBRO.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is placed on packaging and is of significant importance during the identification of the resulting packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"12",
+			"count":"1",
+			"title":"REUSABLE",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"2",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;It indicates that the packaging is reusable.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;It is worth considering the re-use of such packaging and not throwing it away after a single use - it may fulfil its function repeatedly.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Extending the life of products is environmentally friendly - it prevents the production of new packaging and excessive exploitation of natural resources.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is placed on packaging and is of significant importance during the identification of the resulting packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"11",
+			"count":"1",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://www.europedirect-rzeszow.pl/wp-content/uploads/2013/05/Prawa-obywatelskie-Moje-prawa_Europe_Direct_Rzeszow_2013.pdf",
+			"class":"1",
+			"categories":["waste","packaging",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The product contains hazardous substances and warns against combining it with household waste.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;In order to select the best method for the management of waste produced after the use of the product with this label, the best solution is to contact an organisation responsible for municipal waste management in the area and follow its guidelines.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is placed on products containing hazardous substances or on their packaging. Thus, it can be also found on waste generated after use of this type of products or its packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"10",
+			"count":"9",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from other polymers not included in the identification labels with number 1-6, or from a number of different polymers. It includes the word &amp;quot;INNE&amp;quot; or &amp;quot;OTHERS&amp;quot; and it is assigned the number 7 or 07.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the sign PLASTICS.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"9",
+			"count":"6",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from a polymer called polystyrene (PS) – number 6 or 06.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the sign PLASTICS.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"8",
+			"count":"6",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label informs us that the packaging is made from a polymer called polypropylene (PP) – number 5 or 05.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the sign PLASTICS.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"7",
+			"count":"8",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from a polymer called low-density polyethylene (LDPE, PE-LD) – number 4 or 04.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the sign PLASTICS.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"6",
+			"count":"10",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The packaging is made from a polymer called polyvinyl chloride (PVC or V) – number 3 or 03.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the sign PLASTICS.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"5",
+			"count":"9",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label informs us that the packaging is made from a polymer called high-density polyethylene (HDPE, HD-PE, PE-HD) – number 2 or 02.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the sign PLASTICS.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"4",
+			"count":"2",
+			"title":"LABEL IDENTIFYING THE TYPE OF PACKAGING MATERIAL",
+			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
+			"class":"1",
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Packaging made from a polymer called polyethylene terephthalate (PET, PETE, PETP, PET-P) - number 1 or 01.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;After use, packaging with this label should be disposed to waste containers marked with the sign PLASTICS or PET.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is of significant importance during the identification of packaging waste and while deciding about its future fate.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on packaging.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"3",
+			"count":"2",
+			"title":"MOBIUS LOOP",
+			"url":"http://www.cobro.org.pl/",
+			"class":"2",
+			"categories":["packaging","foods","cosmetics","textiles","construction materials","electronics and household appliances","toys","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label specifies the suitability of the product or its packaging for recycling. A product or packaging with this label can be recycled into a new product of full value.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Recycling contributes to the reduction in the waste volume, and to saving of natural resources.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;What to do with&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;It is important that such product or packaging should be segregated after use and put into a suitable waste container. Mobius Loop may apply only to products or to their packaging.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;It is good to know&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;If there is a number inside the label or under it, it informs that the product or packaging already contains secondary material that had been recycled. Thus, there was no need to use original natural raw materials and the volume of waste has been reduced. The number placed at the label specifies the percentage content of secondary raw material in the final material.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label can be found on various product categories, including packaging made from recyclable materials.&lt;/p&gt;&lt;br /&gt;"
+		},
+		{
+			"id":"2",
+			"count":"4",
+			"title":"BIN IT, KEEP CLEAN",
+			"url":"http://thetidyman.com",
+			"class":"1",
+			"categories":["packaging","foods","cosmetics","textiles","construction materials","electronics and household appliances","toys","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Having used the product or its packaging, you should discard it (preferably pre-segregated) to an appropriate waste container without littering the surrounding or natural environment.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;This label can be found on all product categories, including packaging and resulting waste.&lt;/p&gt;&lt;br /&gt;"
+		},
 		{
 			"id":"1",
 			"count":"2",
 			"title":"Green Point",
 			"url":"http://www.gruener-punkt.de/en/",
 			"class":"1",
-			"categories":["opakowania","odpady",null],
-			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Producent wniósł wkład finansowy w budowę oraz funkcjonowanie systemu odzysku i recyklingu odpadów opakowaniowych w Polsce tworzonego przez Rekopol Organizacja Odzysku S.A. zgodnie z zasadami wynikającymi z przepisów prawa polskiego i Unii Europejskiej w sprawie opakowań i odpadów opakowaniowych.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Korzyści&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Tego typu działania pomagają w utrzymaniu opakowań w obiegu zamkniętym oraz przerabianiu ich na surowiec wtórny.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+			"categories":["packaging","waste",null],
+			"body":"&lt;p&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Information trademark, which means that the manufacturer had made a financial contribution to the construction and functioning of the system of recovery and recycling of packaging waste in Poland created by Rekopol Organizacja Odzysku S.A. in accordance with the principles under the provisions of the law of Poland and the European Union concerning packaging and packaging waste.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;These types of activities help to keep packaging in a closed cycle and to process it into secondary raw material.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Where to find&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;The label is placed on packaging and thus it can be also found on packaging waste.&lt;/p&gt;&lt;br /&gt;"
 		}
 	]
 }
