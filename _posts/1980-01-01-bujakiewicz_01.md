@@ -1,4 +1,4 @@
-w---
+---
 layout: nothing
 tags: story
 author: Katarzyna Bujakiewicz
