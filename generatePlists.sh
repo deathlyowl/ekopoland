@@ -16,5 +16,6 @@ cat _site/signs.json | sed 's/,null//' | plutil -convert xml1 - -o Xcode_stuff/p
 echo "    signs.en"
 cat _site/signs.en.json | sed 's/,null//' | plutil -convert xml1 - -o Xcode_stuff/en.lproj/signs.plist
 
-echo "* Place files below into Xcode project file:"
+echo "* Placing files below into Xcode project directory:"
 tree Xcode_stuff
+cp -r Xcode_stuff/* ~/coding/ekopoland/
