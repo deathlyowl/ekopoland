@@ -13,7 +13,7 @@
 		},
 		{
 			"id":"185",
-			"count":"5",
+			"count":"7",
 			"title":"Cosmos Organic",
 			"url":"http://www.cosmos-standard.org/",
 			"class":"3",
@@ -202,7 +202,7 @@
 		},
 		{
 			"id":"144",
-			"count":"9",
+			"count":"12",
 			"title":"RoHS",
 			"url":"http://www.mg.gov.pl/NR/rdonlyres/6178185C-DCEB-4E7A-B0D8-920A480D1FEC/53502/200295WE.pdf",
 			"class":"1",
@@ -211,7 +211,7 @@
 		},
 		{
 			"id":"143",
-			"count":"1",
+			"count":"2",
 			"title":"Energy Star",
 			"url":"http://www.energystar.gov/",
 			"class":"1",
@@ -499,7 +499,7 @@
 		},
 		{
 			"id":"110",
-			"count":"2",
+			"count":"1",
 			"title":"Program Zatwierdzenia Systemów Certyfikacji Leśnej",
 			"url":"http://www.pefc-polska.pl/",
 			"class":"3",

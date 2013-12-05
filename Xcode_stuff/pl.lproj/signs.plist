@@ -45,7 +45,7 @@
 			<key>class</key>
 			<string>3</string>
 			<key>count</key>
-			<string>5</string>
+			<string>7</string>
 			<key>id</key>
 			<string>185</string>
 			<key>title</key>
@@ -461,7 +461,7 @@
 			<key>class</key>
 			<string>1</string>
 			<key>count</key>
-			<string>9</string>
+			<string>12</string>
 			<key>id</key>
 			<string>144</string>
 			<key>title</key>
@@ -480,7 +480,7 @@
 			<key>class</key>
 			<string>1</string>
 			<key>count</key>
-			<string>1</string>
+			<string>2</string>
 			<key>id</key>
 			<string>143</string>
 			<key>title</key>
@@ -1123,7 +1123,7 @@
 			<key>class</key>
 			<string>3</string>
 			<key>count</key>
-			<string>2</string>
+			<string>1</string>
 			<key>id</key>
 			<string>110</string>
 			<key>title</key>
