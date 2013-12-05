@@ -49,7 +49,7 @@
 		},
 		{
 			"id":"181",
-			"count":"2",
+			"count":"1",
 			"title":"Goodweave",
 			"url":"http://www.goodweave.org",
 			"class":"1",
@@ -356,7 +356,7 @@
 		{
 			"id":"126",
 			"count":"3",
-			"title":"OEKO-TEX ® Standard 1000, STEP (Sustainable Textile Production) Zrównoważona Produkcja Tkanin",
+			"title":"OEKO-TEX ® Standard 1000, STEP Zrównoważona Produkcja Tkanin",
 			"url":"https://www.oeko-tex.com/en/manufacturers/concept/sustainable_textile_production_step/step.xhtml",
 			"class":"2",
 			"categories":["wyroby tekstylne","odpady",null],
@@ -527,7 +527,7 @@
 		{
 			"id":"107",
 			"count":"2",
-			"title":"Chronione oznaeczenie geograficzne",
+			"title":"Chronione oznaczenie geograficzne",
 			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:343:0001:0029:pl:PDF",
 			"class":"1",
 			"categories":["ŻywnoŚĆ","odpady",null],
@@ -698,7 +698,7 @@
 		{
 			"id":"88",
 			"count":"1",
-			"title":"Współnotowe Oznakowowanie Rolnictwa Ekologicznego (Organic Farming) - oznakowanie obowiązuje od 1 lipca 2010 roku",
+			"title":"Współnotowe Oznakowowanie Rolnictwa Ekologicznego Euroliść",
 			"url":"http://ec.europa.eu/agriculture/organic/home_pl",
 			"class":"3",
 			"categories":["ŻywnoŚĆ","odpady",null],
@@ -707,7 +707,7 @@
 		{
 			"id":"87",
 			"count":"2",
-			"title":"Współnotowe Oznakowowanie Rolnictwa Ekologicznego (Organic Farming) - oznakowanie obowiązuje do 1 lipca 2010 roku",
+			"title":"Wspólnotowe Oznakowowanie Rolnictwa Ekologicznego",
 			"url":"http://ec.europa.eu/agriculture/organic/home_pl",
 			"class":"3",
 			"categories":["ŻywnoŚĆ","odpady",null],
@@ -815,7 +815,7 @@
 		{
 			"id":"75",
 			"count":"1",
-			"title":"IHIK",
+			"title":"IHTK",
 			"url":"http://www.ihtk.de/ihtk-en.htm",
 			"class":"1",
 			"categories":["kosmetyki","odpady",null],
@@ -833,7 +833,7 @@
 		{
 			"id":"73",
 			"count":"1",
-			"title":"Nature Organic Cosmetics",
+			"title":"Natrue Organic Cosmetics",
 			"url":"http://www.natrue.org/",
 			"class":"3",
 			"categories":["kosmetyki","odpady",null],
@@ -842,7 +842,7 @@
 		{
 			"id":"72",
 			"count":"1",
-			"title":"Nature Natural Cosmetics with Organic Portion",
+			"title":"Natrue Natural Cosmetics with Organic Portion",
 			"url":"http://www.natrue.org/",
 			"class":"3",
 			"categories":["kosmetyki","odpady",null],
@@ -851,7 +851,7 @@
 		{
 			"id":"71",
 			"count":"2",
-			"title":"Nature Natural Cosmetics",
+			"title":"Natrue Natural Cosmetics",
 			"url":"http://www.natrue.org/",
 			"class":"2",
 			"categories":["kosmetyki","odpady",null],
@@ -945,7 +945,7 @@
 			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
 			"class":"1",
 			"categories":["opakowania","odpady",null],
-			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z materiału mieszanego składającego się ze szkła i metalu innego niż aluminium i blacha stalowa ocynkowana – numer 98.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/&lt;strong&gt;”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „&lt;/strong&gt;” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z materiału mieszanego składającego się ze szkła i metalu innego niż aluminium i blacha stalowa ocynkowana – numer 98.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/**”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „**” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
 			"id":"60",
@@ -954,7 +954,7 @@
 			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
 			"class":"1",
 			"categories":["opakowania","odpady",null],
-			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z materiału mieszanego składającego się ze szkła i stalowej blachy ocynkowanej – numer 97.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/&lt;strong&gt;”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „&lt;/strong&gt;” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z materiału mieszanego składającego się ze szkła i stalowej blachy ocynkowanej – numer 97.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/**”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „**” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
 			"id":"59",
@@ -963,7 +963,7 @@
 			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
 			"class":"1",
 			"categories":["opakowania","odpady",null],
-			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z materiału mieszanego składającego się z aluminium i szkła – numer 96.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/&lt;strong&gt;”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „&lt;/strong&gt;” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z materiału mieszanego składającego się z aluminium i szkła – numer 96.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/**”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „**” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
 			"id":"58",
@@ -972,7 +972,7 @@
 			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
 			"class":"1",
 			"categories":["opakowania","odpady",null],
-			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z materiału mieszanego składającego się z tworzywa sztucznego i szkła – numer 95.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/&lt;strong&gt;”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „&lt;/strong&gt;” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z materiału mieszanego składającego się z tworzywa sztucznego i szkła – numer 95.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/**”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „**” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
 			"id":"57",
@@ -981,7 +981,7 @@
 			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
 			"class":"1",
 			"categories":["opakowania","odpady",null],
-			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z materiału mieszanego składającego się z tworzywa sztucznego i metalu innego niż aluminium i blacha stalowa ocynkowana – numer 92.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/&lt;strong&gt;”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „&lt;/strong&gt;” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z materiału mieszanego składającego się z tworzywa sztucznego i metalu innego niż aluminium i blacha stalowa ocynkowana – numer 92.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/**”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „**” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
 			"id":"56",
@@ -990,7 +990,7 @@
 			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
 			"class":"1",
 			"categories":["opakowania","odpady",null],
-			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z materiału mieszanego składającego się z tworzywa sztucznego i blachy stalowej ocynkowanej – numer 91.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/&lt;strong&gt;”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „&lt;/strong&gt;” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z materiału mieszanego składającego się z tworzywa sztucznego i blachy stalowej ocynkowanej – numer 91.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/**”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „**” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
 			"id":"55",
@@ -1008,7 +1008,7 @@
 			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
 			"class":"1",
 			"categories":["opakowania","odpady",null],
-			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z materiału mieszanego składającego się z tworzywa sztucznego i aluminium – numer 90.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/&lt;strong&gt;”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „&lt;/strong&gt;” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z materiału mieszanego składającego się z tworzywa sztucznego i aluminium – numer 90.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/**”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „**” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
 			"id":"53",
@@ -1017,7 +1017,7 @@
 			"url":"http://en.wikipedia.org/wiki/Recycling_codes",
 			"class":"1",
 			"categories":["opakowania","odpady",null],
-			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z papieru laminowanego – numer 87.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/&lt;strong&gt;”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „&lt;/strong&gt;” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
+			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z papieru laminowanego – numer 87.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;W celu wybrania najlepszej formy zagospodarowania odpadu opakowaniowego opatrzonego takim znakiem najlepiej skontaktować się z organizacją odpowiedzialną za gospodarkę odpadami komunalnymi na danym terenie i postępować zgodnie z jej wytycznymi.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Pod znakiem może się znajdować skrót „C/**”, wskazujący na materiały wchodzące w skład kompozytu, przy czym „**” oznacza materiał dominujący.&lt;br /&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
 			"id":"51",
@@ -1056,7 +1056,7 @@
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano ze szkła brązowego (GLS) – numer 72.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowania po wykorzystaniu należy wrzucać do pojemników na odpady oznaczonych napisami SZKŁO KOLOROWE lub SZKŁO.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
 		},
 		{
-			"id":"46",
+			"id":"47",
 			"count":"5",
 			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
 			"url":"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=DD:15:03:31997D0129:PL:PDF",
@@ -1393,7 +1393,7 @@
 			"count":"5",
 			"title":"Znak identyfikujący rodzaj materiału opakowaniowego",
 			"url":"http://isap.sejm.gov.pl/DetailsServlet?id=WDU20040940927",
-			"class":"2",
+			"class":"1",
 			"categories":["odpady","opakowania",null],
 			"body":"&lt;p&gt;&lt;strong&gt;Co oznacza&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowanie wyprodukowano z polimeru o nazwie polistyren (PS) – numer 6 lub 06.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Co zrobić&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Opakowania opatrzone tym znakiem należy po wykorzystaniu wrzucać do pojemników na odpady oznaczonych napisami TWORZYWA SZTUCZNE lub PLASTIK.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Warto wiedzieć&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Znak ten ma istotne znaczenie przy identyfikacji odpadów opakowaniowych oraz podejmowaniu decyzji odnośnie do ich dalszego losu.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;&lt;strong&gt;Gdzie znajdziesz&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Na opakowaniach i odpadach opakowaniowych.&lt;/p&gt;&lt;br /&gt;"
 		},
