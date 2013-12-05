@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>categories</key>
+	<array>
+		<string>transport</string>
+		<string>air</string>
+		<string>current</string>
+		<string>food</string>
+		<string>garden</string>
+		<string>home</string>
+		<string>office</string>
+		<string>shopping</string>
+		<string>waste</string>
+		<string>water</string>
+	</array>
+	<key>tips</key>
+	<array>
+		<dict>
+			<key>body</key>
+			<string>In summer, water your garden in the evening. This way you will reduce water loss due to evaporation and ensure better absorption of moisture.</string>
+			<key>category</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Check out the weather forecast before watering your garden, it may be about to rain.</string>
+			<key>category</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Rainwater is a great solution for watering your garden. Install a rain barrel at a downspout. Use it in your garden instead of drinking water from the tap.</string>
+			<key>category</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Turn on the dishwasher when completely filled. This way you will use less water than while washing dishes by hand.</string>
+			<key>category</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Install a tap aerator. This way you can reduce water consumption by up to 30% and the water stream will seem stronger.</string>
+			<key>category</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Take a quick shower instead of a bath. During a bath on average you use as much water as during three five-minute showers.</string>
+			<key>category</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Save money by saving water! Turn off the tap when brushing your teeth or shaving. This simple procedure will reduce fees and have a positive impact on the resources of drinking water.</string>
+			<key>category</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Change the water heater setting - it does not have to be set at more than 60° C.</string>
+			<key>category</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>While on vacation and diving, do not touch coral reefs or tear off their sections as souvenirs. This way you will help protect the coast from the impact of waves and maintain a natural refuge for sea creatures.</string>
+			<key>category</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Install a dual flush that enables to flush different levels of water or the one with a stop button. This way you can adjust water usage to your current needs and reduce its wastage.</string>
+			<key>category</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Avoid washing dishes under running water.</string>
+			<key>category</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Install water-saving nozzles on taps - this way you will effectively reduce water consumption.</string>
+			<key>category</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Take care of any water leaks (taps, cisterns). A leaking or dripping tap burdens not only your budget but also the environment.</string>
+			<key>category</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Buy products with no additional packaging. Please note that the product itself may stand on a shelf on average for a few months, but its packaging has an expected service life counted in minutes after the purchase.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Disposable products marked as Compost Home are suitable for home composting. Separate them from other waste and compost them as natural products.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Consider using a garden composter. A good portion of what you throw in the trash can be used as compost.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Support upcycling. Make use of waste materials or useless products and convert them into new materials or products, find new applications for them. By using the potential waste, you increase its value for the environment.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Do not dispose of expired medicines, chemicals and other toxic waste by pouring them down the drain. They poison the bacteria that help purify wastewater and contribute to the deterioration of water quality and the environment.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Residues of pesticides or insecticides pose a threat to human health. Check with local authorities to ensure where they should be disposed of safely for the environment.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Dispose of cotton balls, cotton pads and make-up remover wipes in the trash - not in the toilet.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Your household decisions are meaningful. If you segregate glass, aluminum cans, paper and batteries from regular waste, it will be easier to re-use them.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>If you want to get coffee to go, bring your own mug. Think of the number of paper cups that can be saved this way.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>When segregating waste, try to keep them as clean as possible. Dirt reduces the quality of recyclables compared to the original materials.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>One overpackaged cream is not the end of the world, but the whole batch means tons of wasted natural resources and producing unnecessary waste.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>By recycling you support the creation of new jobs. The greater environmental awareness, the more likely the emergence of institutions involved in the processing of raw materials.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Any toxic substances, such as paints, oils and greases, should be delivered to a local collection point. If there is no such a point in the area, let the paint dry completely by adding sawdust to it. Never pour such substances down the drain - they may interfere with the work of a wastewater treatment plant.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Bring back your used batteries for recycling. You can take the battery to a service station or find out where the local authorities recommend to dispose of this type of waste.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Some products, such as refrigerators and other electrical equipment, must be disposed of in a special way, only this way they won't pollute the environment. Contact a specialised company engaged in the disposal of electronic waste in your area. If the items still have some value, sell them over the Internet or donate them to others who may find them useful.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Deliver medical waste to special collection points or leave them at the nearest pharmacy. If you dispose of them in the trash or sewage system, they will cause a serious threat to the environment.</string>
+			<key>category</key>
+			<string>waste</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>If you decide to go by car, plan your travel. Make sure that you have selected the best route.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>If you are going away for a weekend with your family, consider travelling by train. This way you can avoid traffic jams and the related stress as well as decrease the level of air pollution.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Check your tyre pressure. By keeping it at an appropriate level, you will reduce the wear and tear of your tyres and lengthen their service life. You will also save valuable resources. Oil needed to produce tyres and fuel whose consumption is greater if tyres are under-inflated.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Educate future generations by setting a good example. Walk, use a bike or take a bus to get to work. This way you will demonstrate that they can choose the greener ways of travelling.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>When you drive a car, apply eco-driving techniques. Use engine braking and avoid unnecessary loads in the car, turn off unnecessary electrical equipment, use air conditioning in moderation and ensure proper tyre pressure. This way you will reduce fuel consumption and wear and tear of vehicle parts. In addition, you will reduce the environmental impact of using a car.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Spare yourself and the environment from that. Burn calories, not petrol. Switching from car to bike will be beneficial to your wallet, health and the climate.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>On hot days use public transport or a bike. Light and heat cause reactions in car exhaust fumes resulting in harmful gases such as tropospheric ozone. The consequence is poor air quality and smog, which makes it difficult to breathe.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Remember that in most cases you can rely on public means of transport, not only on your own car. They generate lower exhaust emissions and cause less environmental impact per passenger. Travelling by tram or bus is often more profitable compared to the costs associated with the maintenance of a car.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Are you travelling to work alone? Then you have got a few vacant seats. Make use of them! Ask at work if anybody lives near you. You can also use public transport.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Choose wisely! Your car pollutes the environment most during short trips when its engine is not warmed. Choose to bike instead of driving or go on foot.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>There are many ways to reach your destination - especially when travelling within the city. Instead of choosing a car - walk, ride a bike, take a bus or tram. Your physical condition will improve and in addition you will contribute to the reduction of air pollution, traffic and noise.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>If you want to get coffee to go, bring your own mug. Think of the number of paper cups that can be saved this way.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Eco-friendliness means the quality. Products that are really environmentally-friendly are the high quality products. Do not rely on price as the sole criterion for purchasing decisions. Look for credible eco-labels because only then you can be sure that the product is worth the money.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Buy recycled products. This way you will reduce the energy consumption required to produce a new batch of paper, glass and aluminum.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Pay attention to packaging and labels. Look for those that are labelled as organic, marked with certificate numbers and the names of control units.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Buy products with no additional packaging. Please note that the product itself may stand on a shelf on average for a few months, but its packaging has an expected service life counted in minutes after the purchase.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Producers of organic cosmetics look for the most natural ingredients. They should be of agricultural origin (herbs, milk, honey, fruits) and come from certified organic farms.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Check the manufacturers. If they declare to be using organic, bio or natural materials, call and e-mail them asking for the confirmation of the declaration. This way not only you become a conscious consumer, but also contribute to improved accuracy of the information provided on product labels.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>By choosing organic cosmetics, you are guaranteed that only raw materials coming from live animals (honey, milk, eggs, etc.) have been used during their production and that they do not contain any additives of petrochemical origin.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Buy movies, music and games over the Internet, in the form of electronic files. This way you can positively impact the environment in many ways. You do not emit exhaust fumes during a trip to the store and save money on CDs/ DVDs, plastic boxes, packaging and transport. In addition, digital products often cost less.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Buy products made from recycled materials, this way you close their life cycles.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>When buying new electronic equipment, choose energy efficient products - preferably labelled as A++, A+ or A. Also, look for products with the Energy Star label. Despite their higher price, you will save on electricity bills in the long run.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>When buying a new printer, look for products with refillable cartridges. It is an economical and environmentally friendly solution. If you cannot adopt such a solution, leave used cartridges at the place where you buy the new ones.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Biodegradable bags help reduce the consumption of plastic and paper bags. By choosing them, you can contribute to reduce the amount of waste requiring management.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Be a conscious consumer. Pay attention to the products you buy. Look for products with symbols defining their impact on the environment, e.g. with recyclable packaging, safe for the ozone layer or not tested on animals.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Are you going shopping? Take your own bag or a backpack with you. This way you will reduce the consumption of plastic bags that usually are thrown in the trash anyway.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Choose eco-certified chemical cleaning products. Eco certificates ensure ecological compliance and safe manufacturing process.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Avoid buying overpackaged products where the packaging is often much bigger than the content. If possible, choose products without packaging or with reusable or collective packaging.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>The best environmental solution is buying products without packaging. However, if a product is wrapped, pay attention to whether the packaging is suitable for recycling or what materials it is made of.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>When buying cosmetics, you can also take care of the environment. On the packaging you will find a variety of certification marks indicating organic production process, safety and maintaining the balance between people, animals and plants.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>When choosing cosmetics, read their labels. The composition is more important than the smell or looks.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>You can donate undamaged clothes that you do not wear to the needy. You will make the donees happy, reduce your waste and contribute to protect the environment.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>When you buy a handbag, shoes or jewelry, pay attention not only to the look, but also to the raw materials from which they are made. Think of the environment. Pay attention to ecological marks that confirm the environmentally-friendly production and sustainability of the used materials.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Be aware that your purchasing decisions affect the environment and surroundings in which we live. Choose high-quality products manufactured with the use of methods that have had possibly least harmful influence on the natural environment. Support companies that produce in a responsible manner. This way you can show that you approve such behaviour.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Clothes from second-hand stores are a great way to emphasise your style and be fashionable. The environment will only benefit.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Please note that products made from natural raw materials are not only visually appealing, but also completely biodegradable.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>When choosing clothes, pay attention not only to the fashion, but also to the material from which they were made. Not all the plants used to produce fabrics come from organic sources which limit the harmful impact of production on the environment.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Pay attention to the marks on packaging. They show how to handle it after use.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Use reusable bags - as long as possible. This way you will contribute to reduce waste as well as materials and energy used to produce new ones. Also, remember about proper waste segregation and recycling.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>When trying to be green, keep in mind it is important to make the purchased products serve as long as possible, so share them with others if you can.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Buy local products that do not require long distance transport. This way you will not only save the energy needed to transport them from abroad or from remote regions of the country but also support local businesses.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Choose wood from legal sources. You will help to protect forest areas. Many suppliers of construction materials sell legal and eco-friendly certified wood. When you buy wood, look for Forest Stewardship Council (FSC) and PROGRAMME FOR THE ENDORSEMENT OF FOREST CERTIFICATION SCHEMES (PEFC) certificates.</string>
+			<key>category</key>
+			<string>shopping</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Use a power strip. You will cut off the power supply to all the connected electrical devices with one flick of the switch, reducing the power consumption.</string>
+			<key>category</key>
+			<string>office</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Are you travelling to work alone? Then you have got a few vacant seats. Make use of them! Ask at work if anybody lives near you. You can also use public transport.</string>
+			<key>category</key>
+			<string>office</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Consider whether it is necessary to hold another business meeting. Sometimes a phone call or video conference is enough.</string>
+			<key>category</key>
+			<string>office</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Pay attention to the type of paper you purchase. Choose recycled or FSC (Good Forest Stewardship and Chain of Custody)/ PEFC (Programme for the Endorsement of Forest Certification) certified paper.</string>
+			<key>category</key>
+			<string>office</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Try to use the space on the paper effectively. Set narrow margins in a text editor - it will reduce the number of pages. Do not use the whole A4 page for short notes.</string>
+			<key>category</key>
+			<string>office</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Avoid printing emails. You can store them on your computer or on an external drive.</string>
+			<key>category</key>
+			<string>office</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Charge your laptop and mobile phone as long as necessary. Do not leave the charger plugged in after use.</string>
+			<key>category</key>
+			<string>office</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>When you leave your workplace, reduce the heating temperature and make sure that all the windows are closed.</string>
+			<key>category</key>
+			<string>office</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>When choosing paper, furniture or other office equipment made of wood, consider their responsible production and consumption that is necessary to preserve the forest resources for present and future generations.</string>
+			<key>category</key>
+			<string>office</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Do not dispose of unnecessary paper that has been one side printed. It can be used to take notes, fax or for further printing.</string>
+			<key>category</key>
+			<string>office</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>If possible, avoid printing. Print only what is necessary, preferably duplex (on both sides of a page) and on recycled paper.</string>
+			<key>category</key>
+			<string>office</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Do you run a business and regularly send mail and parcels, also locally? Choose bicycle couriers. Bicycles easily avoid traffic jams so your package may be delivered quicker and you can contribute to the improvement of the air quality in the city.</string>
+			<key>category</key>
+			<string>office</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Buy motion and twilight sensors - avoid situations where lights remain on unnecessarily.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>During the heating season, air the rooms briefly and effectively. This way you will reduce the loss of energy used for heating.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Use energy-saving washing programs - it will reduce electricity consumption.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Use a power strip. You will cut off the power supply to all the connected electrical devices with one flick of the switch, reducing the power consumption.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Do not throw parts of vegetables in the trash. Put them in a backyard composter. Oxygen and microorganisms will convert them into a healthy compost.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Cover pots with lids during cooking, it will save a significant part of the energy needed to cook the food.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>If possible, select a supplier of electricity that generates power also from renewable energy sources. This way you will show power suppliers that people want clean energy.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Reduce electricity consumption of your refrigerator. Do not place it near heat sources such as radiators, stoves or windows exposed to the south.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Do not throw out old carpets, towels, blankets or sheets. Instead, ask your local animal shelter whether they find them useful.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Reduce your heating bills. Increase efficiency of radiators by installing reflective panels or aluminum foil sheets behind them. This way you will direct the heat inward.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Prefer reusable products. Avoid disposable plastic cups, handkerchiefs, napkins, plastic bags and other similar products. In the long run using them usually costs more and also requires more resources and energy compared to similar reusable products.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>If you want to descale your taps, kettles, irons and other household items, try vinegar instead of chemicals.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Make others happy! Have you got toys, books and games that you do not use any more? Do not throw them away, they can make other people happy and you will protect the environment.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>When washing clothes, think of yourself and the environment. When possible, wash at a temperature no higher than 40°C. Only use your washing machine when it is full. You will save on cleaning products, extend the service life of your washing machine and avoid unnecessary water and energy consumption. Dose washing powder according to the instructions on the package. Overdosing results in the introduction of more pollutants into sewage. If setting the relevant dose is a problem, consider buying washing powder tablets.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Think of the environment during your housework. Save water (especially hot water). Pay attention to the environmental impact of the equipment you use, i.e. rags, brushes, scrapers, etc. Choose products made of natural fibres (cotton, flax, hemp, coconut) or wood from certified tree farms.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Buy eco-certified products. The certificates tell you that both the materials used and the production process are subject to strict quality control and any harmful impact to the environment of the product has been reduced to the minimum.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Support upcycling. Make use of waste materials or useless products and convert them into new materials or products, find new applications for them. By using the potential waste, you increase its value for the environment.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Do not dispose of expired medicines, chemicals and other toxic waste by pouring them down the drain. They poison the bacteria that help purify wastewater and contribute to the deterioration of water quality and the environment.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Residues of pesticides or insecticides pose a threat to human health. Check with local authorities to ensure where they should be disposed of safely for the environment.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Dispose of cotton balls, cotton pads and make-up remover wipes in the trash - not in the toilet</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Turn on the dishwasher when completely filled. This way you will use less water than while washing dishes by hand.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Install a tap aerator. This way you can reduce water consumption by up to 30% and the water stream will seem stronger.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Take a quick shower instead of a bath. During a bath on average you use as much water as during three five-minute showers.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>An electric kettle is a real power eater! Boil only as much water as you need.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Save money by saving water! Turn off the tap when brushing your teeth or shaving. This simple procedure will reduce fees and have a positive impact on the resources of drinking water.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Your household decisions are meaningful. If you segregate glass, aluminum cans, paper and batteries from regular waste, it will be easier to re-use them.</string>
+			<key>category</key>
+			<string>home</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Use a push lawn mower - it does not generate fumes and helps keep fit.</string>
+			<key>category</key>
+			<string>garden</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Disposable products marked as Compost Home are suitable for home composting. Separate them from other waste and compost them as natural products.</string>
+			<key>category</key>
+			<string>garden</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Consider using a garden composter. A good portion of what you throw in the trash can be used as compost.</string>
+			<key>category</key>
+			<string>garden</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>If you want to get rid of weeds, pour them with boiling water. They will get brown and die within a few hours. This treatment will not leave any toxic residues and the area will be safe and suitable for children to play.</string>
+			<key>category</key>
+			<string>garden</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>If you have your own garden, a pond is a good way to create more biodiversity. Animals such as frogs, snails and dragonflies love small ponds.</string>
+			<key>category</key>
+			<string>garden</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Mulch around plants is very beneficial. It helps maintain the proper temperature of the soil, prevents the spread of weeds and reduces evaporation. Remember though, that it shouldn't be placed too close to stems or trunks - in winter the plants might begin to rot. Use pebbles, bark, pine cones, cut grass, compost from leaves or bruised ceramics.</string>
+			<key>category</key>
+			<string>garden</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>In summer, water your garden in the evening. This way you will reduce water loss due to evaporation and ensure better absorption of moisture.</string>
+			<key>category</key>
+			<string>garden</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Check out the weather forecast before watering your garden, it may be about to rain.</string>
+			<key>category</key>
+			<string>garden</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Rainwater is a great solution for watering your garden. Install a rain barrel at a downspout. Use it in your garden instead of drinking water from the tap.</string>
+			<key>category</key>
+			<string>garden</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>When buying locally produced traditional food, there is a better chance to get natural products and in addition you support local business.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>A lunch box is a good idea. If you still need to wrap food, use foil or paper for food instead of aluminum foil. This way you will reduce the amount of waste.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>If possible, buy fish that come from organic aquaculture. Non-organic farming uses a large number of chemical substances.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Read the label to check whether the food is suitable for eating. Food products with a Best before... date may actually stay fresh much longer when properly stored and don't have to be thrown in the trash just after exceeding the date on the label. Products that are microbiologically perishable and perishable goods in general, such as meat, are marked with a use-by date. Please note that after this date the products are not suitable for consumption unless they have been previously frozen or properly processed.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>The labelling of organic food products indicates the place of manufacture of the organic agricultural raw materials included in the product. There are three options. EU Agriculture if the agricultural raw material comes from the EU; Non-EU Agriculture if the agricultural raw material comes from third countries; EU/ non-EU Agriculture if part of the raw material comes from the EU and the other part from third countries.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>If you are looking for foods containing no genetically modified ingredients, buy organic products. They are labelled with the following marks.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>In summer buy fresh vegetables and seasonal fruits rather than the frozen ones. They are healthier and tastier than frozen products. Also, you will save the energy needed for their processing, transport and storage.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Labels marked with the EU organic farming label (the EU eco leaf) ensure that at least 95% of the product ingredients come from organic farming and the production process has been supervised.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Choose products labelled with the organic farming logo. It guarantees the organic origin of the purchased food and certifies the sustainable methods of production.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>If possible, buy food products with a long shelf life (pasta, cereal, rice) in collective packaging. This way you will reduce the amount of waste produced after their use.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Plan your shopping list in respect of specific dishes. This way you will avoid wasting food, reduce your costs and environmental load associated with the production of thrown and rotten products.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Conscious consumers know that they have to read product labels to make the right purchasing decisions. It will be easier to choose the right product that meets your expectations and needs if you have a basic knowledge of the marks and contents that can be found on product labels.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Organic food does not contain artificial colouring, fragrances, flavours and preservatives.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Organic food is produced using natural methods in a clean and safe environment, without chemical fertilizers, synthetic pesticides, antibiotics, growth hormones and genetically modified organisms. It affects the protection of human health and the environment.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>By buying organic food you help to preserve biodiversity and many valuable species of plants and animals.</string>
+			<key>category</key>
+			<string>food</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>An electric kettle is a real power eater! Boil only as much water as you need.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>When buying new electronic equipment, choose energy efficient products - preferably labelled as A++, A+ or A. Also, look for products with the Energy Star label. Despite their higher price, you will save on electricity bills in the long run.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Charge your laptop and mobile phone as long as necessary. Do not leave the charger plugged in after use.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Use a power strip. You will cut off the power supply to all the connected electrical devices with one flick of the switch, reducing the power consumption.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Do not throw parts of vegetables in the trash. Put them in a backyard composter. Oxygen and microorganisms will convert them into a healthy compost.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Cover pots with lids during cooking, it will save a significant part of the energy needed to cook the food.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>If possible, select a supplier of electricity that generates power also from renewable energy sources. This way you will show power suppliers that people want clean energy.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Reduce electricity consumption of your refrigerator. Do not place it near heat sources such as radiators, stoves or windows exposed to the south.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Use rechargeable accumulators instead of batteries. You will save money and reduce the number of waste batteries containing harmful substances in the environment.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Use energy-saving washing programs - it will reduce electricity consumption.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Do not place any furniture in front of radiators - it will increase effectiveness of their work.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>During the heating season, air the rooms briefly and effectively. This way you will reduce the loss of energy used for heating.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Do not open doors or windows when air conditioning is on. Set a temperature that is about 5-7° C lower than the outdoor temperature. You will also avoid energy loss by taking care of the equipment maintenance.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Pay attention to the marks on packaging. One of electronics certificates is the Energy Star - awarded to energy-efficient household appliances, office and gardening materials.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Buy motion and twilight sensors - avoid situations where lights remain on unnecessarily.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Replace regular light bulbs with energy-saving ones. They consume less energy and have longer life span. Remember that you cannot dispose of such a bulb in the trash after use because it contains about 5 mg of mercury. It has to be delivered to one of the points from where it will be directed for further processing (point of selective collection of municipal waste, the so called gratowisko).</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Turn on artificial lights only when it is needed and turn them off as soon as they become unnecessary. This will be beneficial for your health, wallet and the environment.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Natural daylight is better for your eyes than artificial light. Use it as much as possible for the benefit of your own health and the environment.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Choose energy-efficient household appliances &amp; audio/video devices. This way you will reduce your own costs, but also help the environment in which you live.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Save energy by disconnecting electrical devices from the power source (do not leave them in stand-by mode). If left in stand-by mode, they waste energy.</string>
+			<key>category</key>
+			<string>current</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Do you run a business and regularly send mail and parcels, also locally? Choose bicycle couriers. Bicycles easily avoid traffic jams so your package may be delivered quicker and you can contribute to the improvement of the air quality in the city.</string>
+			<key>category</key>
+			<string>air</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>On hot days use public transport or a bike. Light and heat cause reactions in car exhaust fumes resulting in harmful gases such as tropospheric ozone. The consequence is poor air quality and smog, which makes it difficult to breathe.</string>
+			<key>category</key>
+			<string>air</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Remember that in most cases you can rely on public means of transport, not only on your own car. They generate lower exhaust emissions and cause less environmental impact per passenger. Travelling by tram or bus is often more profitable compared to the costs associated with the maintenance of a car.</string>
+			<key>category</key>
+			<string>air</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>There are many ways to reach your destination - especially when travelling within the city. Instead of choosing a car - walk, ride a bike, take a bus or tram. Your physical condition will improve and in addition you will contribute to the reduction of air pollution, traffic and noise.</string>
+			<key>category</key>
+			<string>air</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>You may help significantly reduce carbon dioxide emissions by turning off all unnecessary light sources.</string>
+			<key>category</key>
+			<string>air</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Products containing no ozone-depleting gases are marked as CFC Free or Ozone Friendly.</string>
+			<key>category</key>
+			<string>air</string>
+		</dict>
+	</array>
+</dict>
+</plist>

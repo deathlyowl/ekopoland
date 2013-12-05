@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>categories</key>
+	<array>
+		<string>biuro</string>
+		<string>dom</string>
+		<string>odpady</string>
+		<string>ogród</string>
+		<string>powietrze</string>
+		<string>prąd</string>
+		<string>transport</string>
+		<string>woda</string>
+		<string>zakupy</string>
+		<string>Żywność</string>
+	</array>
+	<key>tips</key>
+	<array>
+		<dict>
+			<key>body</key>
+			<string>Kupując żywność tradycyjną wytwarzaną lokalnie, masz większą gwarancję, że spożywasz produkty naturalne, a dodatkowo wspierasz lokalną przedsiębiorczość.</string>
+			<key>category</key>
+			<string>Żywność</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Pojemnik na drugie śniadanie to dobry pomysł. Jeśli jednak potrzebujesz opakować jedzenie, używaj folii lub papieru do żywności zamiast folii aluminiowej. Dzięki temu zmniejszysz ilość wyrzucanych śmieci.</string>
+			<key>category</key>
+			<string>Żywność</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jeżeli masz taką możliwość, kupuj ryby z hodowli ekologicznych. Przy hodowlach nieekologicznych używa się dużej ilości substancji chemicznych.</string>
+			<key>category</key>
+			<string>Żywność</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jeżeli zastanawiasz się, czy produkt spożywczy nadaje się do jedzenia, spójrz na jego etykietę. Produkty spożywcze oznaczone datą minimalnej trwałości „Najlepiej spożyć przed…”, gdy są odpowiednio przechowane, mogą zachować świeżość znacznie dłużej i nie muszą być wyrzucane do kosza po przekroczeniu daty na etykiecie. Termin przydatności do spożycia oznaczony zwrotem „Należy spożyć do…” możemy znaleźć na produktach nietrwałych mikrobiologicznie i łatwo się psujących, np. na mięsie. Należy pamiętać, że po tym terminie produkty nie nadają się do spożycia, chyba że zostaną wcześniej zamrożone lub odpowiednio przetworzone.</string>
+			<key>category</key>
+			<string>Żywność</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Na etykiecie ekologicznych produktów żywnościowych wskazywane jest miejsce, w którym wyprodukowano ekologiczne surowce rolne wchodzące w skład produktu. Możliwe są trzy warianty. „Rolnictwo UE”, jeśli surowiec rolny pochodzi z terenu UE; „Rolnictwo spoza UE”, jeśli surowiec rolny pochodzi z krajów trzecich; „Rolnictwo UE / spoza UE”, jeśli część surowców pochodzi z terenu UE, a część z krajów trzecich.</string>
+			<key>category</key>
+			<string>Żywność</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>W sezonie letnim kupuj świeże warzywa i owoce sezonowe zamiast mrożonek. Są zdrowsze i smaczniejsze niż mrożone. Zaoszczędzisz też energię przeznaczoną na ich przetwarzanie, transport oraz przechowywanie.</string>
+			<key>category</key>
+			<string>Żywność</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Etykieta oznaczona unijnym znakiem rolnictwa ekologicznego („ekoliść”) gwarantuje, że minimum 95% składników produktu pochodzi z upraw ekologicznych, a proces produkcyjny był nadzorowany.</string>
+			<key>category</key>
+			<string>Żywność</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wybieraj produkty oznaczone logo rolnictwa ekologicznego. Gwarantuje ono ekologiczne pochodzenie zakupionej żywności oraz mówi o zrównoważonych metodach jej produkcji.</string>
+			<key>category</key>
+			<string>Żywność</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jeżeli to możliwe, produkty spożywcze o długim terminie przydatności (makarony, kasze, ryż) staraj się kupować w opakowaniach zbiorczych. Ograniczysz w ten sposób ilość odpadów powstałych po ich zużyciu.</string>
+			<key>category</key>
+			<string>Żywność</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Planuj zakupy pod kątem przygotowywania konkretnych potraw. Unikniesz w ten sposób marnowania produktów spożywczych, ograniczysz swoje koszty oraz obciążenie środowiska związane z produkcją wyrzuconych, popsutych produktów.</string>
+			<key>category</key>
+			<string>Żywność</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Świadomy konsument, aby dokonać właściwego wyboru zakupowego, wie, że musi zapoznać się z etykietą produktu. Mając podstawową wiedzę na temat oznaczeń i treści, które znajdują się na etykietach, łatwiej Ci będzie wybrać produkt zgodny z Twoimi oczekiwaniami i potrzebami.</string>
+			<key>category</key>
+			<string>Żywność</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Żywność ekologiczna nie zawiera sztucznych barwników, środków zapachowych, smakowych i konserwujących.</string>
+			<key>category</key>
+			<string>Żywność</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Żywność ekologiczna wytwarzana jest metodami naturalnymi w czystym i bezpiecznym środowisku, bez nawozów sztucznych, syntetycznych środków ochrony roślin, antybiotyków, hormonów wzrostu i genetycznie modyfikowanych organizmów. Wpływa to na ochronę zdrowia ludzi i środowiska.</string>
+			<key>category</key>
+			<string>Żywność</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Kupując żywność ekologiczną, przyczyniasz się do zachowania bioróżnorodności i wielu wartościowych odmian roślin i gatunków zwierząt.</string>
+			<key>category</key>
+			<string>Żywność</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jeżeli zamierzasz wziąć kawę na wynos, zabieraj ze sobą własny kubek termiczny. Pomyśl o liczbie papierowych kubków, które można w ten sposób zaoszczędzić.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Proekologiczność to jakość. Produkty faktycznie przyjazne środowisku, to produkty wysokiej jakości. Nie traktuj ceny jako jedynego kryterium zakupowego. Szukaj wiarygodnych etykiet ekologicznych – wtedy masz pewność, że produkt jest wart swojej ceny.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Kupuj produkty z recyklingu. Dzięki temu ograniczysz zużycie energii potrzebnej do wyprodukowania nowych partii papieru, szkła i aluminium.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zwracaj uwagę na opakowania i etykiety. Szukaj tych, które posiadają oznaczenia ekologiczne, numery certyfikatów oraz nazwy jednostek kontrolnych.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Kupuj produkty bez dodatkowych opakowań. Zwróć uwagę, że o ile sam produkt postoi na półce średnio kilka miesięcy, o tyle jego kartonik ma żywotność liczoną w minutach od momentu zakupu.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Producenci kosmetyków ekologicznych poszukują składników jak najbliższych naturze. Powinny być one pochodzenia rolniczego (zioła, mleko, miód, owoce), z certyfikowanych gospodarstw ekologicznych.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Sprawdzaj producentów. Jeśli twierdzą, że stosują surowce ekologiczne, bio lub naturalne, dzwoń do nich, pisz e-maile z prośbą o potwierdzenie deklaracji. W ten sposób nie tylko stajesz się świadomym konsumentem, ale możesz wpłynąć na zwiększenie rzetelności informacji umieszczanych na etykietach produktów.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Kupując kosmetyki ekologiczne, masz gwarancję, że przy ich produkcji zastosowano surowce pochodzące tylko od żywych zwierząt (miód, mleko, jaja itp.) oraz że zrezygnowano z dodatków pochodzenia petrochemicznego.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Kupuj filmy, muzykę i gry przez Internet w postaci plików elektronicznych. W ten sposób wpływasz korzystnie na środowisko na wiele sposobów. Nie emitujesz spalin przy podróży do sklepu, oszczędzasz na płytach CD/DVD, plastikowych pudełkach, opakowaniach oraz transporcie. Dodatkowo często płacisz niższe ceny za cyfrowy produkt.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Kupuj produkty wytworzone z surowców wtórnych, w ten sposób zamykasz ich cykl życia.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wybierając nowy sprzęt elektroniczny, decyduj się na produkty energooszczędne – najlepiej z etykietą efektywności energetycznej A++, A+ lub A. Szukaj również tych z naklejką Energy Star. Pomimo wyższych kosztów zakupu na dłuższą metę zaoszczędzisz na rachunkach za energię elektryczną.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Kupując nową drukarkę, szukaj tych, których kartridże możesz napełnić ponownie. Jest to opłacalne i ekologiczne rozwiązanie. Jeśli nie możesz zdecydować się na to rozwiązanie, odnoś zużyte kartridże tam, gdzie kupujesz nowe.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Unikaj kupowania produktów przepakowanych, w przypadku których opakowanie jest często większe od zawartości. Jeśli to możliwe, wybieraj produkty bez opakowania, w opakowaniu zwrotnym (wielokrotnego użytku) lub zbiorczym.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Dzięki torbom biodegradowalnym zmniejszasz zużycie plastikowych i papierowych. W ten sposób wpływasz na zmniejszenie ilości odpadów wymagających zagospodarowania</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Bądź świadomym konsumentem. Zwracaj uwagę na produkty, które kupujesz. Szukaj tych z symbolami określającymi ich wpływ na środowisko naturalne, np. opakowanie nadające się do recyklingu, produkt bezpieczny dla warstwy ozonowej, nietestowane na zwierzętach.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wybierasz się na zakupy? Weź ze sobą własną torbę lub plecak. Zmniejszysz w ten sposób zużycie plastikowych reklamówek, które i tak najczęściej wyrzucasz do kosza.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wybieraj chemiczne środki czystości oznaczone ekologicznym certyfikatem. Stanowi on gwarancję zgodnego z ekologią i bezpiecznego procesu ich produkcji.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Dla środowiska korzystne jest kupowanie produktów bez opakowań. Jeśli jednak dany produkt je posiada, zwracaj uwagę na to, czy nadaje się ono do recyklingu lub z jakich materiałów jest wykonane.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Kupując kosmetyki, możesz również dbać o ekologię. Na opakowaniach znajdziesz różne oznaczenia certyfikacyjne, informujące o ekologicznym procesie produkcji, bezpieczeństwie i zachowaniu równowagi między ludźmi, zwierzętami i roślinnością.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Przy wyborze kosmetyków warto czytać ich etykiety. Skład jest ważniejszy niż zapach lub wygląd.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Nieużywane, niezniszczone ubrania możesz oddać osobom potrzebującym, którym bardzo się przydadzą. Sprawisz radość obdarowanym, ograniczysz ilość odpadów i przyczynisz się do ochrony środowiska.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Gdy kupujesz torebkę, buty czy biżuterię, zwracaj uwagę nie tylko na wygląd, ale także na surowce, z jakich zostały wykonane. Miej na uwadze dobro środowiska. Zważ na ekologiczne znaki świadczące o produkcji przyjaznej środowisku oraz trwałości materiałów, z jakich są wytworzone.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Miej świadomość, że Twoje decyzje zakupowe wpływają na stan środowiska i otoczenie, w jakim żyjemy. Dokonując wyboru, stawiaj na wysokiej jakości produkty, powstałe przy użyciu metod jak najmniej szkodzących przyrodzie. Wspieraj firmy produkujące w sposób odpowiedzialny. W ten sposób pokażesz, jakie zachowania popierasz.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Ubrania z second-handu to świetny sposób na podkreślenie swojego stylu i bycie modnym. Środowisko tylko na tym zyska.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zwróć uwagę, że produkty wykonane z naturalnych surowców są nie tylko atrakcyjne wizualnie, ale także całkowicie biodegradowalne.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wybierając ubrania, zwracaj uwagę nie tylko na fason, ale również materiał, z jakiego zostały wykonane. Nie wszystkie rośliny wykorzystywane do wytworzenia tkanin pochodzą z upraw ekologicznych, dla których ogranicza się szkodliwy wpływ produkcji na środowisko.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zwracaj uwagę na znaki zamieszczone na opakowaniach. Wskazują one sposób postępowania z materiałami po ich zużyciu.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Korzystaj z toreb wielokrotnego użytku i wykorzystuj je jak najdłużej. Przyczynisz się w ten sposób do ograniczenia odpadów oraz materiałów i energii wykorzystywanej do produkcji nowych. Pamiętaj również o właściwej segregacji i możliwości recyklingu.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Dbając o środowisko, pamiętaj o tym, jak ważne jest, aby zakupione produkty służyły jak najdłużej, więc jeśli masz możliwość, dziel się nimi z innymi.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Kupuj lokalne produkty, które nie wymagały dalekiego transportu. Oszczędzasz w ten sposób energię potrzebną do przewiezienia ich z zagranicy lub z odległych regionów kraju, a także wspierasz lokalną przedsiębiorczość.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wybieraj drewno z legalnych źródeł. Pomożesz w ochronie terenów leśnych. Wielu dostawców materiałów budowlanych oferuje drewno certyfikowane jako legalne i ekologiczne. Przy zakupie drewna szukaj oznakowań takich jak Forest Stewardship Council (FSC) oraz Programme for the Endorsement of Forest Certification schemes (PEFC.</string>
+			<key>category</key>
+			<string>zakupy</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>W lecie podlewaj ogród wieczorem. Ograniczysz w ten sposób straty wody wynikające z parowania i zapewnisz lepsze jej wchłanianie.</string>
+			<key>category</key>
+			<string>woda</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zanim podlejesz ogród, sprawdź prognozę pogody może akurat będzie padać.</string>
+			<key>category</key>
+			<string>woda</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Deszczówka to świetne rozwiązanie do podlewania ogrodu. Przy wylocie rynny zamontuj beczkę z wodą. Korzystaj z niej zamiast używać wody pitnej z kranu.</string>
+			<key>category</key>
+			<string>woda</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Włącz zmywarkę po całkowitym napełnieniu. W ten sposób zużyjesz mniej wody niż przy ręcznym myciu naczyń.</string>
+			<key>category</key>
+			<string>woda</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zamontuj w swoim kranie perlator. W ten sposób możesz zmniejszyć zużycie wody nawet o 30%, a strumień będzie wydawał się silniejszy.</string>
+			<key>category</key>
+			<string>woda</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wybierz szybki prysznic, zamiast kąpieli w wannie. Podczas kąpieli zużywasz średnio tyle wody co w trakcie trzech pięciominutowych pryszniców.</string>
+			<key>category</key>
+			<string>woda</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Oszczędzaj dzięki wodzie! Zakręć kran, gdy myjesz zęby lub się golisz. Prosty zabieg pozwoli na zmniejszenie opłat i wpłynie pozytywnie na zasoby wody zdatnej do picia.</string>
+			<key>category</key>
+			<string>woda</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zmień ustawienia podgrzewacza wody – nie musi być ustawiony na więcej niż 60°C.</string>
+			<key>category</key>
+			<string>woda</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Będąc na wakacjach, nurkując, nie dotykaj rafy koralowej ani nie odrywaj gałązek na pamiątkę. W ten sposób chronisz wybrzeża przed wpływem fal morskich oraz pomagasz w utrzymaniu naturalnego schronienia dla morskich stworzeń.</string>
+			<key>category</key>
+			<string>woda</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zadbaj o instalację spłuczki z możliwością wyboru większej lub mniejszej ilości wody potrzebnej do spłukiwania lub zaopatrzonej w przycisk „stop”. Dostosujesz w ten sposób zużycie wody do aktualnych potrzeb i ograniczysz jej marnotrawstwo.</string>
+			<key>category</key>
+			<string>woda</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Unikaj zmywania naczyń pod bieżącą wodą.</string>
+			<key>category</key>
+			<string>woda</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Załóż na krany końcówki oszczędzające wodę – w ten sposób efektywnie ograniczysz jej zużycie.</string>
+			<key>category</key>
+			<string>woda</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Dbaj o szczelność instalacji wodnej (kranów, spłuczek). Cieknący kran obciąża nie tylko Twoją kieszeń, ale również środowisko.</string>
+			<key>category</key>
+			<string>woda</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jeżeli jedziesz samochodem planuj podróż. Sprawdź czy wybierasz optymalne trasy dojazdu.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jeżeli wyjeżdżasz na weekend z rodziną, rozważ podróż pociągiem. Unikniesz korków oraz stresów z tym związanych, dodatkowo zmniejszysz poziom zanieczyszczenia powietrza.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Sprawdzaj ciśnienie w oponach. Utrzymując je na właściwym poziomie, zmniejszysz zużycie oraz wydłużysz okres ich użytkowania. Oszczędzisz również cenne surowce. Ropę naftową potrzebną do wyprodukowania opon oraz paliwo, którego zużycie jest większe przy słabym napompowaniu.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Edukuj kolejne pokolenia, dając dobry przykład. Do pracy chodź na piechotę, jedź rowerem lub autobusem. Pokaż w ten sposób, że i one mogą wybrać formy podróży przyjaźniejsze środowisku.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jadąc samochodem, uwzględniaj ekologiczne zasady jazdy (ecodriving). Hamuj silnikiem, unikaj zbędnego obciążenia auta, wyłączaj niepotrzebne odbiorniki prądu, używaj klimatyzacji z umiarem, dbaj o właściwe ciśnienie w oponach. Zmniejszasz w ten sposób zużycie paliwa oraz elementów eksploatacyjnych samochodu. Dodatkowo zmniejszasz negatywne oddziaływanie na środowisko wynikające z użytkowania samochodu.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Oszczędź sobie i środowisku. Spalaj kalorie, a nie benzynę. Przesiadka z samochodu na rower to zysk dla portfela, zdrowia oraz klimatu.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>W gorące dni korzystaj z transportu publicznego lub roweru. Światło i wysoka temperatura wywołują w spalinach samochodowych reakcje, z których powstają szkodliwe gazy, np. ozon troposferyczny. To wpływa na złą jakość powietrza i powstawanie smogu, który utrudnia oddychanie.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Pamiętaj, że poza własnym autem w większości przypadków możesz liczyć na publiczne środki transportu. Generują one niższą emisję spalin i mniejsze skutki środowiskowe w przeliczeniu na jednego podróżnego. Poruszanie się tramwajem bądź autobusem jest też często bardziej opłacalne niż koszty związane z utrzymaniem samochodu.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jedziesz sam do pracy? Masz przecież kilka wolnych miejsc. Wykorzystaj to! Zapytaj w pracy, kto mieszka blisko Ciebie. Możesz też skorzystać z transportu publicznego.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wybieraj mądrze! Twój samochód zanieczyszcza środowisko najbardziej w trakcie krótkich podróży, kiedy silnik nie jest rozgrzany. Wybierz zamiast tego rower lub idź na piechotę.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jest wiele sposobów na dotarcie do celu – szczególnie podczas poruszania się w obrębie miasta. Zamiast wybierać samochód, chodź pieszo, jedź na rowerze, poruszaj się autobusem lub tramwajem. Twoja kondycja się poprawi, ponadto przyczynisz się do zmniejszenia zanieczyszczenia powietrza, ruchu drogowego oraz hałasu.</string>
+			<key>category</key>
+			<string>transport</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Czajnik elektryczny to prawdziwy pochłaniacz prądu! Gotuj tylko tyle wody, ile potrzebujesz.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wybierając nowy sprzęt elektroniczny, decyduj się na produkty energooszczędne – najlepiej z etykietą efektywności energetycznej A++, A+ lub A. Szukaj również tych z naklejką Energy Star. Pomimo wyższych kosztów zakupu na dłuższą metę zaoszczędzisz na rachunkach za energię elektryczną.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Laptop i telefon komórkowy ładuj tak długo, jak to konieczne. Po użyciu nie zostawiaj ładowarki podłączonej do sieci.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Używaj listwy zasilającej. Jeden szybki ruch przełącznika odcina energię od wszystkich podłączonych urządzeń elektrycznych, zmniejszając pobór energii.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Nie wyrzucaj do kosza pozostałości po warzywach. Wrzucaj je do przydomowego kompostownika. Pod wpływem tlenu i mikroorganizmów powstanie z nich zdrowy kompost.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Przykrywając garnki pokrywkami podczas gotowania, oszczędzasz znaczną część energii potrzebnej do ugotowania potrawy.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jeżeli to możliwe, wybierz dostawcę energii elektrycznej, który część dostaw prądu pozyskuje z odnawialnych źródeł energii. Dajesz w ten sposób do zrozumienia zakładom energetycznym, że społeczeństwo chce czystej energii.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Ogranicz zużycie energii elektrycznej przez lodówkę. Nie stawiaj jej blisko źródeł ciepła, takich jak grzejniki, kuchenki czy okno wystawione na południową stronę.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zamiast baterii jednorazowych zainwestuj w akumulatorki. Zaoszczędzisz pieniądze, a do środowiska trafi mniej zużytych baterii ze szkodliwymi substancjami.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Korzystaj z programów oszczędnego prania – zmniejszysz zużycie energii elektrycznej.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Nie zastawiaj meblami kaloryferów – zwiększysz dzięki temu ich efektywność.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>W okresie grzewczym wietrz krótko i efektywnie. Ograniczysz straty energii zużytej do ogrzewania.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Podczas pracy klimatyzatora nie otwieraj okien ani drzwi. Ustaw temperaturę o 5-7°C niższą od panującej na zewnątrz. Strat energii unikniesz również, dbając o konserwację sprzętu.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zwróć uwagę na znaki zamieszczone na produktach. Jednym z certyfikatów „elektronicznych” jest znak Energy Star – przyznawany m.in. sprzętom RTV, materiałom biurowym i ogrodniczym wyróżniającym się energooszczędnością.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zainwestuj w czujniki ruchu i czujniki zmierzchowe – unikniesz sytuacji, w których światło jest włączone bezcelowo.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zwykłe żarówki zastąp świetlówkami energooszczędnymi. Zużywają one mniej energii i są trwalsze. Po zużyciu żarówki energooszczędnej ważne jest, by pamiętać, że nie można jej wyrzucać do kosza na śmieci, ponieważ zawiera ona około 5 mg rtęci. Trzeba odnieść ją do jednego z punktów, który przekaże żarówkę do odpowiedniej utylizacji (punkty selektywnej zbiórki odpadów komunalnych tzw. gratowiska.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Nie włączaj sztucznego oświetlenia bez potrzeby i wyłączaj je, kiedy przestaje być niezbędne. Skorzysta na tym Twoje zdrowie, portfel i środowisko.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Nie włączaj sztucznego oświetlenia bez potrzeby i wyłączaj je, kiedy przestaje być niezbędne. Skorzysta na tym Twoje zdrowie, portfel i środowisko.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Światło dzienne mniej męczy wzrok. Maksymalnie wykorzystuj je z korzyścią dla własnego zdrowia i środowiska.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wybieraj energooszczędne urządzenia RTV i AGD. Ograniczysz w ten sposób koszty własne, ale także pomożesz środowisku, w którym żyjesz.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Oszczędzaj energię, wyłączając urządzenia elektryczne z prądu (nie pozostawiaj ich w trybie stand-by). Pozostawione w stanie gotowości marnują niepotrzebnie energię.</string>
+			<key>category</key>
+			<string>prąd</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Prowadzisz firmę i regularnie wysyłasz pocztę i przesyłki, także w zasięgu lokalnym? Wybierz usługi kurierów rowerowych. Rowerem łatwiej ominąć korki, więc Twoja paczka szybciej dotrze na miejsce, a Ty wpłyniesz na lepszą jakość powietrza w mieście.</string>
+			<key>category</key>
+			<string>powietrze</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>W gorące dni korzystaj z transportu publicznego lub roweru. Światło i wysoka temperatura wywołują w spalinach samochodowych reakcje, z których powstają szkodliwe gazy, np. ozon troposferyczny. To wpływa na złą jakość powietrza i powstawanie smogu, który utrudnia oddychanie.</string>
+			<key>category</key>
+			<string>powietrze</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Pamiętaj, że poza własnym autem w większości przypadków możesz liczyć na publiczne środki transportu. Generują one niższą emisję spalin i mniejsze skutki środowiskowe w przeliczeniu na jednego podróżnego. Poruszanie się tramwajem bądź autobusem jest też często bardziej opłacalne niż koszty związane z utrzymaniem samochodu.</string>
+			<key>category</key>
+			<string>powietrze</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jest wiele sposobów na dotarcie do celu – szczególnie podczas poruszania się w obrębie miasta. Zamiast wybierać samochód, chodź pieszo, jedź na rowerze, poruszaj się autobusem lub tramwajem. Twoja kondycja się poprawi, ponadto przyczynisz się do zmniejszenia zanieczyszczenia powietrza, ruchu drogowego oraz hałasu.</string>
+			<key>category</key>
+			<string>powietrze</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wyłączając niepotrzebne źródła światła, pomagasz znacząco zmniejszyć emisję dwutlenku węgla.</string>
+			<key>category</key>
+			<string>powietrze</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Produkty niezawierające szkodliwych dla warstwy ozonowej gazów posiadają znak CFC Free lub Ozone Friendly.</string>
+			<key>category</key>
+			<string>powietrze</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Używaj pchanej kosiarki do koszenia trawników – nie generuje spalin i pomaga utrzymać dobrą kondycję.</string>
+			<key>category</key>
+			<string>ogród</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Produkty jednorazowe zawierające znak Compost Home nadają się do przydomowych kompostowników. Oddziel je od pozostałych odpadów i wykorzystaj jako naturalny produkt poddany kompostowaniu.</string>
+			<key>category</key>
+			<string>ogród</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zastanów się nad ogrodowym kompostownikiem. Znaczna część produktów wyrzucanych do kosza może być wykorzystana jako kompost.</string>
+			<key>category</key>
+			<string>ogród</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jeżeli chcesz pozbyć się chwastów, polej je wrzącą wodą. W ciągu kilku godzin zbrązowieją i umierają. Dzięki takiemu rozwiązaniu nie pozostają toksyczne pozostałości, teren jest bezpieczny i nadaje się do zabawy dla dzieci.</string>
+			<key>category</key>
+			<string>ogród</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jeżeli posiadasz własny ogród, sadzawka to dobry sposób na większą różnorodność biologiczną. Zwierzęta, takie jak żaby, ślimaki czy ważki, uwielbiają małe zbiorniki wodne.</string>
+			<key>category</key>
+			<string>ogród</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Ściółka wokół roślin to same korzyści. Pomaga ona w utrzymaniu odpowiedniej temperatury podłoża, zapobiega szerzeniu się chwastów oraz ogranicza parowanie. Pamiętaj jednak, żeby warstwa ta nie przylegała do łodyg – zimą rośliny mogą zacząć butwieć. Wykorzystaj kamyki, korę, szyszki sosnowe, ściętą trawę, kompost z liści lub potłuczoną ceramikę.</string>
+			<key>category</key>
+			<string>ogród</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>W lecie podlewaj ogród wieczorem. Ograniczysz w ten sposób straty wody wynikające z parowania i zapewnisz lepsze jej wchłanianie.</string>
+			<key>category</key>
+			<string>ogród</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zanim podlejesz ogród, sprawdź prognozę pogody może akurat będzie padać.</string>
+			<key>category</key>
+			<string>ogród</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Deszczówka to świetne rozwiązanie do podlewania ogrodu. Przy wylocie rynny zamontuj beczkę z wodą. Korzystaj z niej zamiast używać wody pitnej z kranu.</string>
+			<key>category</key>
+			<string>ogród</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Kupuj produkty bez dodatkowych opakowań. Zwróć uwagę, że o ile sam produkt postoi na półce średnio kilka miesięcy, o tyle jego kartonik ma żywotność liczoną w minutach od momentu zakupu.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Produkty jednorazowe zawierające znak Compost Home nadają się do przydomowych kompostowników. Oddziel je od pozostałych odpadów i wykorzystaj jako naturalny produkt poddany kompostowaniu.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zastanów się nad ogrodowym kompostownikiem. Znaczna część produktów wyrzucanych do kosza może być wykorzystana jako kompost.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wspieraj upcykling. Wykorzystuj materiały odpadowe lub bezużyteczne produkty, przekształcając je w nowe materiały lub produkty, znajduj dla nich nowe zastosowanie. Wykorzystując potencjalne odpady, zwiększasz ich wartość dla środowiska.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Nie pozbywaj się przeterminowanych lekarstw, środków chemicznych czy innych toksycznych odpadów poprzez wylewanie ich do kanalizacji. Zatruwają one bakterie pomagające oczyszczać ścieki i przyczyniają się do pogorszenia jakości wody i środowiska.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Pozostałości po pestycydach lub środkach owadobójczych to zagrożenie dla zdrowia ludzkiego. Dowiedz się u lokalnych władz, gdzie je wyrzucać, aby nie zagrażały środowisku.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Waciki, płatki kosmetyczne i chusteczki do demakijażu wrzucaj do kosza na śmieci – nie do toalety.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Twoje domowe decyzje mają znaczenie. Jeżeli od zwykłych śmieci oddzielisz szkło, puszki aluminiowe, papier czy baterie, ułatwisz ich powtórne wykorzystanie.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jeżeli zamierzasz wziąć kawę na wynos, zabieraj ze sobą własny kubek termiczny. Pomyśl o liczbie papierowych kubków, które można w ten sposób zaoszczędzić.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Segregując odpady, staraj się robić tak, by były jak najmniej zabrudzone. Zanieczyszczenia obniżają jakość surowca wtórnego w porównaniu do pierwotnego.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Przepakowanie jednego kremu to nie koniec świata, ale przepakowanie całej partii produkcyjnej to już marnotrawstwo ton surowców naturalnych i generowanie niepotrzebnych odpadów.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Dzięki recyklingowi wspomagasz powstawanie nowych miejsc pracy. Im większa świadomość ekologiczna, tym większa szansa na powstanie placówek zajmujących się przetwarzaniem surowców.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Toksyczne substancje, takie jak farby, oleje, smary, należy oddawać do lokalnego punktu zbiórki odpadów. Jeżeli nie ma takiego w okolicy, pozwól farbie wyschnąć całkowicie, dodając do niej trocin. Nigdy nie wylewaj tego typu substancji do kanalizacji – mogą one zakłócić pracę oczyszczalni ścieków.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Oddawaj zużyte akumulatory do recyklingu. Masz dwa wyjścia. Możesz zabrać akumulator do stacji obsługi lub sprawdzić, gdzie lokalne władze zalecają odnosić tego typu odpady.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Niektóre produkty, jak na przykład lodówki i inne urządzenia elektryczne, muszą być utylizowane w specjalny sposób, tylko wtedy nie zanieczyszczają środowiska. Skontaktuj się z wyspecjalizowaną firmą zajmującą się utylizacją odpadów elektronicznych w Twojej okolicy. Jeżeli przedmioty nadal mają jakąś wartość, sprzedaj je przez Internet lub oddaj osobom, które mogą ich potrzebować.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Odpady medyczne przekazuj do punktów zbiórki lub zanoś do najbliższej apteki. Jeżeli wyrzucisz je do odpadów lub sieci kanalizacyjnej spowodują one poważne zagrożenie dla środowiska.</string>
+			<key>category</key>
+			<string>odpady</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zainwestuj w czujniki ruchu i czujniki zmierzchowe – unikniesz sytuacji, w których światło jest włączone bezcelowo.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>W okresie grzewczym wietrz krótko i efektywnie. Ograniczysz straty energii zużytej do ogrzewania.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Korzystaj z programów oszczędnego prania – zmniejszysz zużycie energii elektrycznej.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Używaj listwy zasilającej. Jeden szybki ruch przełącznika odcina energię od wszystkich podłączonych urządzeń elektrycznych, zmniejszając pobór energii.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Nie wyrzucaj do kosza pozostałości po warzywach. Wrzucaj je do przydomowego kompostownika. Pod wpływem tlenu i mikroorganizmów powstanie z nich zdrowy kompost.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Przykrywając garnki pokrywkami podczas gotowania, oszczędzasz znaczną część energii potrzebnej do ugotowania potrawy.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jeżeli to możliwe, wybierz dostawcę energii elektrycznej, który część dostaw prądu pozyskuje z odnawialnych źródeł energii. Dajesz w ten sposób do zrozumienia zakładom energetycznym, że społeczeństwo chce czystej energii.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Ogranicz zużycie energii elektrycznej przez lodówkę. Nie stawiaj jej blisko źródeł ciepła, takich jak grzejniki, kuchenki czy okno wystawione na południową stronę.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Nie wyrzucaj starych dywanów, ręczników, koców czy pościeli na składowisko. Zamiast tego skontaktuj się z lokalnym schroniskiem dla zwierząt, czy uda się je wykorzystać.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zmniejsz rachunki związane z ogrzaniem mieszkania. Podnieś wydajność kaloryferów, montując za nimi panele odbijające lub arkusze folii aluminiowej. W ten sposób skierujesz ciepło do wewnątrz pomieszczenia.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Preferuj produkty wielokrotnego użytku. Unikaj jednorazowych plastikowych kubków, chusteczek, serwetek, foliowych toreb i innych. W dłuższej perspektywie kosztuje to zwykle więcej pieniędzy, a dodatkowo wymaga większej ilości surowców i energii w porównaniu do podobnych produktów wielokrotnego użytku.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jeżeli chcesz usunąć kamień z kranów, czajników, żelazek i innych domowych przedmiotów, zamiast środków chemicznych wypróbuj ocet.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Spraw radość innym! Nie korzystasz już ze swoich zabawek, książek i gier? Nie wyrzucaj ich, mogą przecież uszczęśliwić innych, a Ty ochronisz środowisko naturalne.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Piorąc odzież, kieruj się dobrem własnym i środowiska. Kiedy to możliwe, pierz w temperaturze nie wyższej niż 40°C. Włączaj pralkę, gdy jest pełna. Zaoszczędzisz na środkach czystości, wydłużysz żywotność urządzenia, unikniesz zbędnego zużycia wody i energii. Dozuj proszek zgodnie z instrukcją zawartą na opakowaniu. Przedozowanie prowadzi do wprowadzania większej ilości zanieczyszczeń do ścieków. Jeśli masz problem z odpowiednim określeniem koniecznej ilości proszków, rozważ kupno detergentu w pastylkach.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Podczas prac domowych pamiętaj o środowisku. Oszczędzaj wodę (zwłaszcza gorącą). Zwracaj też uwagę na środowiskowy wpływ używanych przyborów, tj. ścierek, szczotek, skrobaków itp. Wybieraj te, do których produkcji używa się naturalnych włókien (bawełna, len, konopie, kokos) lub drewna pochodzącego z upraw ekologicznych.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Kupuj produkty z certyfikatem ekologicznym. Informują one, że zarówno użyte materiały, jak i sam proces produkcji podlegają ścisłym kontrolom jakości, a szkodliwość produktu dla środowiska została zredukowana do minimum.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wspieraj upcykling. Wykorzystuj materiały odpadowe lub bezużyteczne produkty, przekształcając je w nowe materiały lub produkty, znajduj dla nich nowe zastosowanie. Wykorzystując potencjalne odpady, zwiększasz ich wartość dla środowiska.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Nie pozbywaj się przeterminowanych lekarstw, środków chemicznych czy innych toksycznych odpadów poprzez wylewanie ich do kanalizacji. Zatruwają one bakterie pomagające oczyszczać ścieki i przyczyniają się do pogorszenia jakości wody i środowiska.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Pozostałości po pestycydach lub środkach owadobójczych to zagrożenie dla zdrowia ludzkiego. Dowiedz się u lokalnych władz, gdzie je wyrzucać, aby nie zagrażały środowisku.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Waciki, płatki kosmetyczne i chusteczki do demakijażu wrzucaj do kosza na śmieci – nie do toalety.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Włącz zmywarkę po całkowitym napełnieniu. W ten sposób zużyjesz mniej wody niż przy ręcznym myciu naczyń.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zamontuj w swoim kranie perlator. W ten sposób możesz zmniejszyć zużycie wody nawet o 30%, a strumień będzie wydawał się silniejszy.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wybierz szybki prysznic, zamiast kąpieli w wannie. Podczas kąpieli zużywasz średnio tyle wody co w trakcie trzech pięciominutowych pryszniców.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Czajnik elektryczny to prawdziwy pochłaniacz prądu! Gotuj tylko tyle wody, ile potrzebujesz.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Oszczędzaj dzięki wodzie! Zakręć kran, gdy myjesz zęby lub się golisz. Prosty zabieg pozwoli na zmniejszenie opłat i wpłynie pozytywnie na zasoby wody zdatnej do picia.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Twoje domowe decyzje mają znaczenie. Jeżeli od zwykłych śmieci oddzielisz szkło, puszki aluminiowe, papier czy baterie, ułatwisz ich powtórne wykorzystanie.</string>
+			<key>category</key>
+			<string>dom</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Używaj listwy zasilającej. Jeden szybki ruch przełącznika odcina energię od wszystkich podłączonych urządzeń elektrycznych, zmniejszając pobór energii.</string>
+			<key>category</key>
+			<string>biuro</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jedziesz sam do pracy? Masz przecież kilka wolnych miejsc. Wykorzystaj to! Zapytaj w pracy, kto mieszka blisko Ciebie. Możesz też skorzystać z transportu publicznego.</string>
+			<key>category</key>
+			<string>biuro</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zastanów się, czy konieczne jest kolejne spotkanie biznesowe. Czasem wystarczy rozmowa telefoniczna lub wideokonferencja.</string>
+			<key>category</key>
+			<string>biuro</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Zwracaj uwagę na rodzaj kupowanego papieru. Wybieraj te pochodzące z recyklingu lub posiadające certyfikat FSC (Dobrej Gospodarki Leśnej i Kontroli Pochodzenia Produktu) lub PEFC (Program Zatwierdzania Systemów Certyfikacji Leśnej).</string>
+			<key>category</key>
+			<string>biuro</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Staraj się efektywnie wykorzystać miejsce na kartce papieru. Ustaw mniejsze marginesy w edytorze tekstu – zmniejszy się liczba stron. Nie używaj całej kartki A4 do krótkich notatek.</string>
+			<key>category</key>
+			<string>biuro</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Unikaj drukowania e-maili. Możesz je zarchiwizować w pamięci komputera albo na nośniku zewnętrznym.</string>
+			<key>category</key>
+			<string>biuro</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Laptop i telefon komórkowy ładuj tak długo, jak to konieczne. Po użyciu nie zostawiaj ładowarki podłączonej do sieci.</string>
+			<key>category</key>
+			<string>biuro</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wychodząc z pracy, zmniejszaj temperaturę grzania i sprawdź, czy wszystkie okna są zamknięte.</string>
+			<key>category</key>
+			<string>biuro</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Wybierając papier, meble czy inne elementy wyposażenia biura produkowane z drewna, uwzględniaj ich odpowiedzialną produkcję i konsumpcję, która jest konieczna do zachowania zasobów leśnych dla obecnych i przyszłych pokoleń.</string>
+			<key>category</key>
+			<string>biuro</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Nie wyrzucaj niepotrzebnego papieru, który został zadrukowany po jednej stronie. Może on posłużyć do robienia notatek, faksowania czy kolejnego drukowania.</string>
+			<key>category</key>
+			<string>biuro</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Jeżeli to możliwe, unikaj drukowania. Drukuj tylko to, co niezbędne, najlepiej dwustronnie (po obu stronach kartki) oraz na papierze z recyklingu.</string>
+			<key>category</key>
+			<string>biuro</string>
+		</dict>
+		<dict>
+			<key>body</key>
+			<string>Prowadzisz firmę i regularnie wysyłasz pocztę i przesyłki, także w zasięgu lokalnym? Wybierz usługi kurierów rowerowych. Rowerem łatwiej ominąć korki, więc Twoja paczka szybciej dotrze na miejsce, a Ty wpłyniesz na lepszą jakość powietrza w mieście.</string>
+			<key>category</key>
+			<string>biuro</string>
+		</dict>
+	</array>
+</dict>
+</plist>
